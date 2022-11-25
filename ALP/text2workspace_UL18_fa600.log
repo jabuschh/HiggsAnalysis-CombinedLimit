@@ -1,0 +1,1744 @@
+Channel UL18_el_SRbin1_TopTag will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_el_SRbin1_TopTag
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          10.308829       0.715235        total sum                     
+0          10.294934       0.676898        excluding marked processes    
+0          231.000000      15.198684       Unweighted events, alpha=0.044627
+  => Total parameter prop_binUL18_el_SRbin1_TopTag_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          227.656086      6.670458        total sum                     
+1          236.423871      6.467803        excluding marked processes    
+1          1336.000000     36.551334       Unweighted events, alpha=0.170401
+  => Total parameter prop_binUL18_el_SRbin1_TopTag_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_el_SRbin1_NoTopTag will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_el_SRbin1_NoTopTag
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          138679.176880   1748.862325     total sum                     
+0          142393.928711   1748.634160     excluding marked processes    
+0          6631.000000     81.430952       Unweighted events, alpha=20.913765
+  => Total parameter prop_binUL18_el_SRbin1_NoTopTag_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          265551.600098   890.587099      total sum                     
+1          272512.833496   889.605810      excluding marked processes    
+1          93838.000000    306.329888      Unweighted events, alpha=2.829894
+  => Total parameter prop_binUL18_el_SRbin1_NoTopTag_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_el_SRbin2_TopTag will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_el_SRbin2_TopTag
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          2.569270        0.420952        total sum                     
+0          2.997036        0.353097        excluding marked processes    
+0          72.000000       8.485281        Unweighted events, alpha=0.035684
+  => Total parameter prop_binUL18_el_SRbin2_TopTag_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          69.056017       2.098175        total sum                     
+1          72.973161       1.821910        excluding marked processes    
+1          1604.000000     40.049969       Unweighted events, alpha=0.043052
+  => Total parameter prop_binUL18_el_SRbin2_TopTag_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_el_SRbin2_NoTopTag will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_el_SRbin2_NoTopTag
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          57033.703033    2137.357424     total sum                     
+0          58477.002441    2137.284754     excluding marked processes    
+0          749.000000      27.367864       Unweighted events, alpha=76.146466
+  => Total parameter prop_binUL18_el_SRbin2_NoTopTag_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          133532.423218   1337.453089     total sum                     
+1          136732.664062   1337.167242     excluding marked processes    
+1          10456.000000    102.254584      Unweighted events, alpha=12.770890
+  => Total parameter prop_binUL18_el_SRbin2_NoTopTag_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_el_SRbin3 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_el_SRbin3
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          51232.983521    1489.881803     total sum                     
+0          52551.936035    1489.787398     excluding marked processes    
+0          1244.000000     35.270384       Unweighted events, alpha=41.184070
+  => Total parameter prop_binUL18_el_SRbin3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          158773.718628   1773.274292     total sum                     
+1          162335.608887   1773.044460     excluding marked processes    
+1          8383.000000     91.558724       Unweighted events, alpha=18.939964
+  => Total parameter prop_binUL18_el_SRbin3_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_el_SRbin4 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_el_SRbin4
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          23612.576477    1444.109382     total sum                     
+0          24170.836548    1444.068065     excluding marked processes    
+0          280.000000      16.733201       Unweighted events, alpha=84.330630
+  => Total parameter prop_binUL18_el_SRbin4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          79015.061096    488.262815      total sum                     
+1          80684.029053    487.883604      excluding marked processes    
+1          27349.000000    165.375331      Unweighted events, alpha=2.889139
+  => Total parameter prop_binUL18_el_SRbin4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_el_CR1 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_el_CR1
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          1332.940321     17.242291       total sum                     
+0          1338.819214     17.209073       excluding marked processes    
+0          6052.000000     77.794601       Unweighted events, alpha=0.220248
+  => Total parameter prop_binUL18_el_CR1_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          2865.425235     34.160230       total sum                     
+1          2879.822365     34.115080       excluding marked processes    
+1          7126.000000     84.415638       Unweighted events, alpha=0.402109
+  => Total parameter prop_binUL18_el_CR1_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_el_CR2 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_el_CR2
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          110592.143860   17418.150515    total sum                     
+0          111135.310547   17418.147022    excluding marked processes    
+0          41.000000       6.403124        Unweighted events, alpha=2697.369362
+  => Total parameter prop_binUL18_el_CR2_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          98525.071533    2042.466203     total sum                     
+1          99027.976562    2042.435344     excluding marked processes    
+1          2351.000000     48.487112       Unweighted events, alpha=41.907729
+  => Total parameter prop_binUL18_el_CR2_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_mu_SRbin1_TopTag will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_mu_SRbin1_TopTag
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          22.078029       4.792425        total sum                     
+0          23.246988       4.765100        excluding marked processes    
+0          24.000000       4.898979        Unweighted events, alpha=0.919918
+  => Total parameter prop_binUL18_mu_SRbin1_TopTag_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          361.605587      4.768288        total sum                     
+1          376.699845      4.243909        excluding marked processes    
+1          7879.000000     88.763731       Unweighted events, alpha=0.045895
+  => Total parameter prop_binUL18_mu_SRbin1_TopTag_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_mu_SRbin1_NoTopTag will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_mu_SRbin1_NoTopTag
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          263460.687500   5150.991862     total sum                     
+0          270058.282227   5150.847857     excluding marked processes    
+0          2749.000000     52.430907       Unweighted events, alpha=95.838737
+  => Total parameter prop_binUL18_mu_SRbin1_NoTopTag_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          432361.474609   3360.474800     total sum                     
+1          443307.443359   3360.054782     excluding marked processes    
+1          17407.000000    131.935590      Unweighted events, alpha=24.838368
+  => Total parameter prop_binUL18_mu_SRbin1_NoTopTag_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_mu_SRbin2_TopTag will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_mu_SRbin2_TopTag
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          5.017016        0.522507        total sum                     
+0          5.076320        0.506206        excluding marked processes    
+0          101.000000      10.049876       Unweighted events, alpha=0.049673
+  => Total parameter prop_binUL18_mu_SRbin2_TopTag_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          120.317756      2.773985        total sum                     
+1          126.677323      2.519714        excluding marked processes    
+1          2528.000000     50.279220       Unweighted events, alpha=0.047594
+  => Total parameter prop_binUL18_mu_SRbin2_TopTag_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_mu_SRbin2_NoTopTag will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_mu_SRbin2_NoTopTag
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          101561.941650   1903.106444     total sum                     
+0          104117.281738   1902.955965     excluding marked processes    
+0          2994.000000     54.717456       Unweighted events, alpha=33.921824
+  => Total parameter prop_binUL18_mu_SRbin2_NoTopTag_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          231020.277466   3772.435756     total sum                     
+1          236255.225586   3772.264890     excluding marked processes    
+1          3922.000000     62.625873       Unweighted events, alpha=58.903691
+  => Total parameter prop_binUL18_mu_SRbin2_NoTopTag_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_mu_SRbin3 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_mu_SRbin3
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          115776.391113   14345.952296    total sum                     
+0          118191.826172   14345.933623    excluding marked processes    
+0          68.000000       8.246211        Unweighted events, alpha=1702.593987
+  => Total parameter prop_binUL18_mu_SRbin3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          284239.277588   4494.515362     total sum                     
+1          290237.484375   4494.356818     excluding marked processes    
+1          4170.000000     64.575537       Unweighted events, alpha=68.162896
+  => Total parameter prop_binUL18_mu_SRbin3_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_mu_SRbin4 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_mu_SRbin4
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          65981.277588    21792.716105    total sum                     
+0          67068.952393    21792.710605    excluding marked processes    
+0          9.000000        3.000000        Unweighted events, alpha=7331.253065
+  => Total parameter prop_binUL18_mu_SRbin4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          152872.037354   3250.242582     total sum                     
+1          155849.857422   3250.136833     excluding marked processes    
+1          2299.000000     47.947888       Unweighted events, alpha=66.495014
+  => Total parameter prop_binUL18_mu_SRbin4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_mu_CR1 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_mu_CR1
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          9611.503281     2132.678888     total sum                     
+0          9652.400269     2132.677029     excluding marked processes    
+0          20.000000       4.472136        Unweighted events, alpha=480.575164
+  => Total parameter prop_binUL18_mu_CR1_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          9574.303306     566.703426      total sum                     
+1          9620.980713     566.694996      excluding marked processes    
+1          288.000000      16.970563       Unweighted events, alpha=33.244109
+  => Total parameter prop_binUL18_mu_CR1_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+Channel UL18_mu_CR2 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binUL18_mu_CR2
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          200733.726624   22434.988548    total sum                     
+0          201570.729492   22434.984230    excluding marked processes    
+0          81.000000       9.000000        Unweighted events, alpha=2478.194156
+  => Total parameter prop_binUL18_mu_CR2_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          171638.259491   6312.097981     total sum                     
+1          172357.334961   6312.083257     excluding marked processes    
+1          746.000000      27.313001       Unweighted events, alpha=230.078096
+  => Total parameter prop_binUL18_mu_CR2_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+15         0.000000        0.000000        total sum                     
+15         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+16         0.000000        0.000000        total sum                     
+16         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+17         0.000000        0.000000        total sum                     
+17         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+18         0.000000        0.000000        total sum                     
+18         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+19         0.000000        0.000000        total sum                     
+19         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+20         0.000000        0.000000        total sum                     
+20         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+21         0.000000        0.000000        total sum                     
+21         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+22         0.000000        0.000000        total sum                     
+22         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+23         0.000000        0.000000        total sum                     
+23         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+24         0.000000        0.000000        total sum                     
+24         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
