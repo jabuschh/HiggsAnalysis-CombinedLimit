@@ -15,7 +15,7 @@ process                              -1                      0                  
 rate                                 -1                      -1                      -1                      -1                      -1                      -1                      
 -----------------------------------
 # SYSTEMATICS
-lumi_13TeV_fullRun2          lnN     -                       -                       -                       -                       -                       -                       
+lumi_13TeV_fullRun2          lnN     1.016                   1.016                   1.016                   1.016                   1.016                   1.016                   
 tttosemileptonic_rate        lnN     -                       -                       1.1                     -                       -                       1.1                     
 alp_ttbar_signal_rate        lnN     1.1                     -                       -                       1.1                     -                       -                       
 alp_ttbar_interference_rate  lnN     -                       1.1                     -                       -                       1.1                     -                       

@@ -179,10 +179,8 @@ def createCombineInput():
                     datacard.write(pad(rate, N1) + pad("lnN", N2))
                     for bin in bins:
                         for process in processes:
-                            if "uncorrelated" in rate and year in rate: # uncorrelated lumi
+                            if year in rate: # fullRun2 lumi
                                 datacard.write(pad(rates[rate], N4))
-                            elif "correlated" in rate and year in rate: # correlated lumi
-                                datacard.write(pad(rates[rate][year], N4))
                             elif process.lower() + "_rate" == rate: # cross sections
                                 datacard.write(pad(rates[rate], N4))
                             else: # other
