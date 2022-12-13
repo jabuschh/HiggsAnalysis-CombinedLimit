@@ -56,9 +56,9 @@ fas = [
 # normalization systematics
 rates = OrderedDict()
 rates["lumi_13TeV_fullRun2"] = 1.016
-rates["tttosemileptonic_rate"] = 1.1
-rates["alp_ttbar_signal_rate"] = 1.1
-rates["alp_ttbar_interference_rate"] = 1.1
+# rates["tttosemileptonic_rate"] = 1.1
+# rates["alp_ttbar_signal_rate"] = 1.1
+# rates["alp_ttbar_interference_rate"] = 1.1
 
 
 # shape systematics: up/down variations

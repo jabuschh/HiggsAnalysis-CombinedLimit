@@ -1,0 +1,20 @@
+# PARAMETERS
+imax 1 number of regions
+jmax 2 number of processes -1
+kmax *
+shapes * * inputHistograms_ALP_fullRun2_fa160.root $CHANNEL_$PROCESS $CHANNEL_$PROCESS_$SYSTEMATIC
+-----------------------------------
+# regions
+bin          leptoppt  
+observation  -1        
+-----------------------------------
+# PROCESSES
+bin                                  leptoppt                leptoppt                leptoppt                
+process                              ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        
+process                              -1                      0                       1                       
+rate                                 -1                      -1                      -1                      
+-----------------------------------
+# SYSTEMATICS
+tttosemileptonic_rate        lnN     -                       -                       1.1                     
+alp_ttbar_signal_rate        lnN     1.1                     -                       -                       
+alp_ttbar_interference_rate  lnN     -                       1.1                     -                       

@@ -14,7 +14,7 @@ for fa in 400 480 560 640 720 800 900 1000 1150 1300 1500 1700 2000 2300 3500
 do
   echo "running fa: ${fa}"
   echo "----- ${fa} -----" >> text2workspace_${year}.log
-  text2workspace.py datacard_ALP_${year}_fa${fa}.dat -P HiggsAnalysis.CombinedLimit.ALPtoTTbar:alpttottbar -m 125 -o workspace_ALP_${year}_fa${fa}.root >> text2workspace_${year}.log
+  text2workspace.py datacard_ALP_${year}_fa${fa}.dat -P HiggsAnalysis.CombinedLimit.ALPtoTTbar_int_neg:alpttottbarintneg -m 125 -o workspace_ALP_${year}_fa${fa}.root >> text2workspace_${year}.log
   echo "----- ${fa} -----" >> combine_${year}.log
   combine -M AsymptoticLimits workspace_ALP_${year}_fa${fa}.root --run blind >> combine_${year}.log
 done
