@@ -1,0 +1,222 @@
+Channel cts will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bincts
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          1961784.861328  34579.742419    total sum                     
+0          2031427.250000  34579.573326    excluding marked processes    
+0          3451.000000     58.745213       Unweighted events, alpha=568.468520
+  => Total parameter prop_bincts_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          1653639.624023  65908.424307    total sum                     
+1          1714871.375000  65908.344376    excluding marked processes    
+1          677.000000      26.019224       Unweighted events, alpha=2442.599149
+  => Total parameter prop_bincts_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          1312363.675781  93768.812989    total sum                     
+2          1361999.750000  93768.766926    excluding marked processes    
+2          211.000000      14.525839       Unweighted events, alpha=6219.733061
+  => Total parameter prop_bincts_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          1313562.103516  94891.791810    total sum                     
+3          1363333.875000  94891.746171    excluding marked processes    
+3          206.000000      14.352700       Unweighted events, alpha=6376.515066
+  => Total parameter prop_bincts_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          1658431.821289  67881.823608    total sum                     
+4          1719468.750000  67881.746164    excluding marked processes    
+4          642.000000      25.337719       Unweighted events, alpha=2583.227136
+  => Total parameter prop_bincts_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1970764.806641  35161.115278    total sum                     
+5          2040296.125000  35160.949055    excluding marked processes    
+5          3367.000000     58.025856       Unweighted events, alpha=585.317733
+  => Total parameter prop_bincts_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel cts will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bincts
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          4573603.150391  47911.935502    total sum                     
+0          4709929.000000  47911.692211    excluding marked processes    
+0          9664.000000     98.305646       Unweighted events, alpha=473.261915
+  => Total parameter prop_bincts_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          3281625.433594  71808.614790    total sum                     
+1          3388857.500000  71808.480445    excluding marked processes    
+1          2227.000000     47.191101       Unweighted events, alpha=1473.563284
+  => Total parameter prop_bincts_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          2444027.984375  98489.576858    total sum                     
+2          2527690.500000  98489.498681    excluding marked processes    
+2          659.000000      25.670995       Unweighted events, alpha=3708.691934
+  => Total parameter prop_bincts_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          2446616.609375  99589.350138    total sum                     
+3          2530395.500000  99589.272723    excluding marked processes    
+3          646.000000      25.416530       Unweighted events, alpha=3787.332213
+  => Total parameter prop_bincts_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          3294887.941406  73738.292735    total sum                     
+4          3401886.500000  73738.161988    excluding marked processes    
+4          2128.000000     46.130250       Unweighted events, alpha=1548.349597
+  => Total parameter prop_bincts_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          4598890.886719  48605.058721    total sum                     
+5          4735076.500000  48604.818961    excluding marked processes    
+5          9491.000000     97.421763       Unweighted events, alpha=484.552828
+  => Total parameter prop_bincts_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel cts will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bincts
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          6170605.882812  54567.505797    total sum                     
+0          6339033.500000  54567.238325    excluding marked processes    
+0          13495.000000    116.167982      Unweighted events, alpha=457.251270
+  => Total parameter prop_bincts_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          4019831.371094  73014.865384    total sum                     
+1          4143444.000000  73014.707920    excluding marked processes    
+1          3220.000000     56.745044       Unweighted events, alpha=1248.394836
+  => Total parameter prop_bincts_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          2902318.900391  99141.369386    total sum                     
+2          2996801.750000  99141.277966    excluding marked processes    
+2          914.000000      30.232433       Unweighted events, alpha=3175.403611
+  => Total parameter prop_bincts_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          2905625.714844  100238.205635   total sum                     
+3          3000371.500000  100238.115035   excluding marked processes    
+3          896.000000      29.933259       Unweighted events, alpha=3242.885842
+  => Total parameter prop_bincts_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          4038508.382812  74939.107570    total sum                     
+4          4161820.000000  74938.954280    excluding marked processes    
+4          3084.000000     55.533774       Unweighted events, alpha=1309.503367
+  => Total parameter prop_bincts_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          6208128.925781  55321.360543    total sum                     
+5          6376304.500000  55321.096872    excluding marked processes    
+5          13285.000000    115.260574      Unweighted events, alpha=467.303645
+  => Total parameter prop_bincts_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel cts will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bincts
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7486545.792969  57083.173106    total sum                     
+0          7676496.000000  57082.880027    excluding marked processes    
+0          18085.000000    134.480482      Unweighted events, alpha=413.964379
+  => Total parameter prop_bincts_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          4478848.535156  73293.872348    total sum                     
+1          4609698.000000  73293.700046    excluding marked processes    
+1          3956.000000     62.896741       Unweighted events, alpha=1132.165959
+  => Total parameter prop_bincts_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          3165720.039062  99274.394730    total sum                     
+2          3264193.000000  99274.295232    excluding marked processes    
+2          1081.000000     32.878564       Unweighted events, alpha=2928.510674
+  => Total parameter prop_bincts_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3169929.937500  100370.615440   total sum                     
+3          3268658.000000  100370.516862   excluding marked processes    
+3          1061.000000     32.572995       Unweighted events, alpha=2987.681374
+  => Total parameter prop_bincts_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          4501752.265625  75210.682087    total sum                     
+4          4632309.500000  75210.514292    excluding marked processes    
+4          3793.000000     61.587336       Unweighted events, alpha=1186.857966
+  => Total parameter prop_bincts_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          7535060.484375  57864.900965    total sum                     
+5          7724824.000000  57864.611978    excluding marked processes    
+5          17822.000000    133.499064      Unweighted events, alpha=422.795449
+  => Total parameter prop_bincts_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel cts will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bincts
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7991331.500000  57762.086217    total sum                     
+0          8187809.500000  57761.783659    excluding marked processes    
+0          20093.000000    141.749780      Unweighted events, alpha=397.717190
+  => Total parameter prop_bincts_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          4610729.851562  73344.634094    total sum                     
+1          4742318.500000  73344.457356    excluding marked processes    
+1          4181.000000     64.660653       Unweighted events, alpha=1102.781596
+  => Total parameter prop_bincts_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          3237589.921875  99299.021501    total sum                     
+2          3336013.000000  99298.919659    excluding marked processes    
+2          1129.000000     33.600595       Unweighted events, alpha=2867.661578
+  => Total parameter prop_bincts_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3242162.972656  100394.520752   total sum                     
+3          3340834.750000  100394.419854   excluding marked processes    
+3          1107.000000     33.271610       Unweighted events, alpha=2928.783173
+  => Total parameter prop_bincts_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          4635136.199219  75262.197133    total sum                     
+4          4766461.500000  75262.025002    excluding marked processes    
+4          4011.000000     63.332456       Unweighted events, alpha=1155.606133
+  => Total parameter prop_bincts_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          8044540.757812  58554.949508    total sum                     
+5          8240812.500000  58554.651242    excluding marked processes    
+5          19807.000000    140.737344      Unweighted events, alpha=406.146350
+  => Total parameter prop_bincts_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel cts will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bincts
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          8295651.500000  57926.525324    total sum                     
+0          8494782.000000  57926.216231    excluding marked processes    
+0          21506.000000    146.649241      Unweighted events, alpha=385.736608
+  => Total parameter prop_bincts_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          4670386.863281  73357.212837    total sum                     
+1          4800993.500000  73357.033943    excluding marked processes    
+1          4283.000000     65.444633       Unweighted events, alpha=1090.447552
+  => Total parameter prop_bincts_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          3269954.582031  99306.091998    total sum                     
+2          3367246.000000  99305.989008    excluding marked processes    
+2          1150.000000     33.911650       Unweighted events, alpha=2843.438767
+  => Total parameter prop_bincts_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3274715.449219  100401.392821   total sum                     
+3          3372271.750000  100401.290788   excluding marked processes    
+3          1128.000000     33.585711       Unweighted events, alpha=2903.116533
+  => Total parameter prop_bincts_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          4695740.460938  75274.239135    total sum                     
+4          4826103.000000  75274.064881    excluding marked processes    
+4          4111.000000     64.117080       Unweighted events, alpha=1142.238010
+  => Total parameter prop_bincts_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          8352726.839844  58723.125123    total sum                     
+5          8551615.000000  58722.820459    excluding marked processes    
+5          21207.000000    145.626234      Unweighted events, alpha=393.866499
+  => Total parameter prop_bincts_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------

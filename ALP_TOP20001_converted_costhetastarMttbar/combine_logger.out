@@ -1,0 +1,173 @@
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 23 -- Parameters after fit for asimov dataset
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_channel = 5 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_th1x = 5.5 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ONE = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin1_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin2_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin3_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin4_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin5_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin6_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- r = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst_In = 0 (constant)
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin3_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin4_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin5_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin6_obsOnly: in 6 x-bins
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: runLimitExpected) AsymptoticLimits.cc: 436 -- Median for expected limits = 0.00634766 (Sigma for expected limits = 0.00323866)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0

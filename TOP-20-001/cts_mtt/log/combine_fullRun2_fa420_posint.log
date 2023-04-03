@@ -1,0 +1,16 @@
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+>>> method used is AsymptoticLimits
+SimNLL created with 1 channels, 0 generic constraints, 11 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 1 channels, 0 generic constraints, 11 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 1 channels, 0 generic constraints, 11 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 10.5413
+Expected  2.5%: r < 4.9639
+Expected 16.0%: r < 7.6278
+Expected 50.0%: r < 12.2188
+Expected 84.0%: r < 19.1348
+Expected 97.5%: r < 27.6524
+
+Done in 0.00 min (cpu), 0.00 min (real)

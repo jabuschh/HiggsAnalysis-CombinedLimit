@@ -1,0 +1,43 @@
+Combination of bin1=datacard_ALP_fullRun2_bin1.dat  bin2=datacard_ALP_fullRun2_bin2.dat  bin3=datacard_ALP_fullRun2_bin3.dat  bin4=datacard_ALP_fullRun2_bin4.dat  bin5=datacard_ALP_fullRun2_bin5.dat  bin6=datacard_ALP_fullRun2_bin6.dat  bin7=datacard_ALP_fullRun2_bin7.dat  bin8=datacard_ALP_fullRun2_bin8.dat  bin9=datacard_ALP_fullRun2_bin9.dat  bin10=datacard_ALP_fullRun2_bin10.dat  bin11=datacard_ALP_fullRun2_bin11.dat  bin12=datacard_ALP_fullRun2_bin12.dat  bin13=datacard_ALP_fullRun2_bin13.dat  bin14=datacard_ALP_fullRun2_bin14.dat
+imax 14 number of bins
+jmax 2 number of processes minus 1
+kmax 1 number of nuisance parameters
+----------------------------------------------------------------------------------------------------------------------------------
+shapes *      bin1   inputHistograms_ALP_fullRun2_bin1.root bin1_$PROCESS bin1_$PROCESS_$SYSTEMATIC
+shapes *      bin10  inputHistograms_ALP_fullRun2_bin10.root bin10_$PROCESS bin10_$PROCESS_$SYSTEMATIC
+shapes *      bin11  inputHistograms_ALP_fullRun2_bin11.root bin11_$PROCESS bin11_$PROCESS_$SYSTEMATIC
+shapes *      bin12  inputHistograms_ALP_fullRun2_bin12.root bin12_$PROCESS bin12_$PROCESS_$SYSTEMATIC
+shapes *      bin13  inputHistograms_ALP_fullRun2_bin13.root bin13_$PROCESS bin13_$PROCESS_$SYSTEMATIC
+shapes *      bin14  inputHistograms_ALP_fullRun2_bin14.root bin14_$PROCESS bin14_$PROCESS_$SYSTEMATIC
+shapes *      bin2   inputHistograms_ALP_fullRun2_bin2.root bin2_$PROCESS bin2_$PROCESS_$SYSTEMATIC
+shapes *      bin3   inputHistograms_ALP_fullRun2_bin3.root bin3_$PROCESS bin3_$PROCESS_$SYSTEMATIC
+shapes *      bin4   inputHistograms_ALP_fullRun2_bin4.root bin4_$PROCESS bin4_$PROCESS_$SYSTEMATIC
+shapes *      bin5   inputHistograms_ALP_fullRun2_bin5.root bin5_$PROCESS bin5_$PROCESS_$SYSTEMATIC
+shapes *      bin6   inputHistograms_ALP_fullRun2_bin6.root bin6_$PROCESS bin6_$PROCESS_$SYSTEMATIC
+shapes *      bin7   inputHistograms_ALP_fullRun2_bin7.root bin7_$PROCESS bin7_$PROCESS_$SYSTEMATIC
+shapes *      bin8   inputHistograms_ALP_fullRun2_bin8.root bin8_$PROCESS bin8_$PROCESS_$SYSTEMATIC
+shapes *      bin9   inputHistograms_ALP_fullRun2_bin9.root bin9_$PROCESS bin9_$PROCESS_$SYSTEMATIC
+----------------------------------------------------------------------------------------------------------------------------------
+bin          bin1   bin2   bin3   bin4   bin5   bin6   bin7   bin8   bin9   bin10  bin11  bin12  bin13  bin14
+observation  -1     -1     -1     -1     -1     -1     -1     -1     -1     -1     -1     -1     -1     -1   
+----------------------------------------------------------------------------------------------------------------------------------
+bin                               bin1                    bin1                    bin1                    bin2                    bin2                    bin2                    bin3                    bin3                    bin3                    bin4                    bin4                    bin4                    bin5                    bin5                    bin5                    bin6                    bin6                    bin6                    bin7                    bin7                    bin7                    bin8                    bin8                    bin8                    bin9                    bin9                    bin9                    bin10                   bin10                   bin10                   bin11                   bin11                   bin11                   bin12                   bin12                   bin12                   bin13                   bin13                   bin13                   bin14                   bin14                   bin14                 
+process                           ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic      
+process                           -1                      0                       1                       -1                      0                       1                       -1                      0                       1                       -1                      0                       1                       -1                      0                       1                       -1                      0                       1                       -1                      0                       1                       -1                      0                       1                       -1                      0                       1                       -1                      0                       1                       -1                      0                       1                       -1                      0                       1                       -1                      0                       1                       -1                      0                       1                     
+rate                              -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                      -1                    
+----------------------------------------------------------------------------------------------------------------------------------
+syst                    shape     -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                    -                       -                       10.0                  
+bin12 autoMCStats 0 0 1
+bin13 autoMCStats 0 0 1
+bin11 autoMCStats 0 0 1
+bin9 autoMCStats 0 0 1
+bin8 autoMCStats 0 0 1
+bin14 autoMCStats 0 0 1
+bin5 autoMCStats 0 0 1
+bin4 autoMCStats 0 0 1
+bin7 autoMCStats 0 0 1
+bin6 autoMCStats 0 0 1
+bin1 autoMCStats 0 0 1
+bin10 autoMCStats 0 0 1
+bin3 autoMCStats 0 0 1
+bin2 autoMCStats 0 0 1

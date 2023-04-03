@@ -1,0 +1,20 @@
+# PARAMETERS
+imax 1 number of regions
+jmax 2 number of processes -1
+kmax *
+shapes * * inputHistograms_ALP_fullRun2_bin4.root $CHANNEL_$PROCESS $CHANNEL_$PROCESS_$SYSTEMATIC
+------------
+# regions
+bin          bin4  
+observation  -1    
+------------
+# PROCESSES
+bin           bin4                    bin4                    bin4                    
+process       ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        
+process       -1                      0                       1                       
+rate          -1                      -1                      -1                      
+------------
+# SYSTEMATICS
+syst  shape   -                       -                       1.0                     
+------------
+* autoMCStats 0 0 1

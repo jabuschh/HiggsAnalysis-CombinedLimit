@@ -1,0 +1,1140 @@
+----- 400 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          0.000000        0.000000        total sum                     
+1          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 480 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          0.000000        0.000000        total sum                     
+2          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 560 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          0.000000        0.000000        total sum                     
+3          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 640 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 720 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          2107948.240234  47682.666373    total sum                     
+4          2142777.250000  47682.577600    excluding marked processes    
+4          2019.000000     44.933284       Unweighted events, alpha=1044.055592
+  => Total parameter prop_binmtt_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 800 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          2107948.240234  47682.666373    total sum                     
+4          2142777.250000  47682.577600    excluding marked processes    
+4          2019.000000     44.933284       Unweighted events, alpha=1044.055592
+  => Total parameter prop_binmtt_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1256201.570312  41264.039413    total sum                     
+5          1273615.250000  41263.980800    excluding marked processes    
+5          953.000000      30.870698       Unweighted events, alpha=1318.154848
+  => Total parameter prop_binmtt_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 900 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          2107948.240234  47682.666373    total sum                     
+4          2142777.250000  47682.577600    excluding marked processes    
+4          2019.000000     44.933284       Unweighted events, alpha=1044.055592
+  => Total parameter prop_binmtt_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1256201.570312  41264.039413    total sum                     
+5          1273615.250000  41263.980800    excluding marked processes    
+5          953.000000      30.870698       Unweighted events, alpha=1318.154848
+  => Total parameter prop_binmtt_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          911008.695312   31005.840909    total sum                     
+6          921175.312500   31005.786000    excluding marked processes    
+6          883.000000      29.715316       Unweighted events, alpha=1031.719927
+  => Total parameter prop_binmtt_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 1000 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          2107948.240234  47682.666373    total sum                     
+4          2142777.250000  47682.577600    excluding marked processes    
+4          2019.000000     44.933284       Unweighted events, alpha=1044.055592
+  => Total parameter prop_binmtt_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1256201.570312  41264.039413    total sum                     
+5          1273615.250000  41263.980800    excluding marked processes    
+5          953.000000      30.870698       Unweighted events, alpha=1318.154848
+  => Total parameter prop_binmtt_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          911008.695312   31005.840909    total sum                     
+6          921175.312500   31005.786000    excluding marked processes    
+6          883.000000      29.715316       Unweighted events, alpha=1031.719927
+  => Total parameter prop_binmtt_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          512609.001465   21331.143427    total sum                     
+7          516879.343750   21331.100000    excluding marked processes    
+7          587.000000      24.228083       Unweighted events, alpha=873.269168
+  => Total parameter prop_binmtt_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 1150 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          2107948.240234  47682.666373    total sum                     
+4          2142777.250000  47682.577600    excluding marked processes    
+4          2019.000000     44.933284       Unweighted events, alpha=1044.055592
+  => Total parameter prop_binmtt_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1256201.570312  41264.039413    total sum                     
+5          1273615.250000  41263.980800    excluding marked processes    
+5          953.000000      30.870698       Unweighted events, alpha=1318.154848
+  => Total parameter prop_binmtt_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          911008.695312   31005.840909    total sum                     
+6          921175.312500   31005.786000    excluding marked processes    
+6          883.000000      29.715316       Unweighted events, alpha=1031.719927
+  => Total parameter prop_binmtt_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          512609.001465   21331.143427    total sum                     
+7          516879.343750   21331.100000    excluding marked processes    
+7          587.000000      24.228083       Unweighted events, alpha=873.269168
+  => Total parameter prop_binmtt_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          399583.371094   13529.474579    total sum                     
+8          401737.437500   13529.422200    excluding marked processes    
+8          882.000000      29.698485       Unweighted events, alpha=453.042371
+  => Total parameter prop_binmtt_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 1300 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          2107948.240234  47682.666373    total sum                     
+4          2142777.250000  47682.577600    excluding marked processes    
+4          2019.000000     44.933284       Unweighted events, alpha=1044.055592
+  => Total parameter prop_binmtt_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1256201.570312  41264.039413    total sum                     
+5          1273615.250000  41263.980800    excluding marked processes    
+5          953.000000      30.870698       Unweighted events, alpha=1318.154848
+  => Total parameter prop_binmtt_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          911008.695312   31005.840909    total sum                     
+6          921175.312500   31005.786000    excluding marked processes    
+6          883.000000      29.715316       Unweighted events, alpha=1031.719927
+  => Total parameter prop_binmtt_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          512609.001465   21331.143427    total sum                     
+7          516879.343750   21331.100000    excluding marked processes    
+7          587.000000      24.228083       Unweighted events, alpha=873.269168
+  => Total parameter prop_binmtt_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          399583.371094   13529.474579    total sum                     
+8          401737.437500   13529.422200    excluding marked processes    
+8          882.000000      29.698485       Unweighted events, alpha=453.042371
+  => Total parameter prop_binmtt_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          186941.992432   8523.533790     total sum                     
+9          187296.093750   8523.494700     excluding marked processes    
+9          483.000000      21.977261       Unweighted events, alpha=387.043463
+  => Total parameter prop_binmtt_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 1500 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          2107948.240234  47682.666373    total sum                     
+4          2142777.250000  47682.577600    excluding marked processes    
+4          2019.000000     44.933284       Unweighted events, alpha=1044.055592
+  => Total parameter prop_binmtt_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1256201.570312  41264.039413    total sum                     
+5          1273615.250000  41263.980800    excluding marked processes    
+5          953.000000      30.870698       Unweighted events, alpha=1318.154848
+  => Total parameter prop_binmtt_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          911008.695312   31005.840909    total sum                     
+6          921175.312500   31005.786000    excluding marked processes    
+6          883.000000      29.715316       Unweighted events, alpha=1031.719927
+  => Total parameter prop_binmtt_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          512609.001465   21331.143427    total sum                     
+7          516879.343750   21331.100000    excluding marked processes    
+7          587.000000      24.228083       Unweighted events, alpha=873.269168
+  => Total parameter prop_binmtt_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          399583.371094   13529.474579    total sum                     
+8          401737.437500   13529.422200    excluding marked processes    
+8          882.000000      29.698485       Unweighted events, alpha=453.042371
+  => Total parameter prop_binmtt_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          186941.992432   8523.533790     total sum                     
+9          187296.093750   8523.494700     excluding marked processes    
+9          483.000000      21.977261       Unweighted events, alpha=387.043463
+  => Total parameter prop_binmtt_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         115327.947021   5920.446168     total sum                     
+10         115036.539062   5920.412400     excluding marked processes    
+10         378.000000      19.442222       Unweighted events, alpha=305.100389
+  => Total parameter prop_binmtt_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 1700 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          2107948.240234  47682.666373    total sum                     
+4          2142777.250000  47682.577600    excluding marked processes    
+4          2019.000000     44.933284       Unweighted events, alpha=1044.055592
+  => Total parameter prop_binmtt_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1256201.570312  41264.039413    total sum                     
+5          1273615.250000  41263.980800    excluding marked processes    
+5          953.000000      30.870698       Unweighted events, alpha=1318.154848
+  => Total parameter prop_binmtt_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          911008.695312   31005.840909    total sum                     
+6          921175.312500   31005.786000    excluding marked processes    
+6          883.000000      29.715316       Unweighted events, alpha=1031.719927
+  => Total parameter prop_binmtt_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          512609.001465   21331.143427    total sum                     
+7          516879.343750   21331.100000    excluding marked processes    
+7          587.000000      24.228083       Unweighted events, alpha=873.269168
+  => Total parameter prop_binmtt_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          399583.371094   13529.474579    total sum                     
+8          401737.437500   13529.422200    excluding marked processes    
+8          882.000000      29.698485       Unweighted events, alpha=453.042371
+  => Total parameter prop_binmtt_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          186941.992432   8523.533790     total sum                     
+9          187296.093750   8523.494700     excluding marked processes    
+9          483.000000      21.977261       Unweighted events, alpha=387.043463
+  => Total parameter prop_binmtt_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         115327.947021   5920.446168     total sum                     
+10         115036.539062   5920.412400     excluding marked processes    
+10         378.000000      19.442222       Unweighted events, alpha=305.100389
+  => Total parameter prop_binmtt_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         50037.190063    3966.229684     total sum                     
+11         49655.406250    3966.208400     excluding marked processes    
+11         157.000000      12.529964       Unweighted events, alpha=318.708217
+  => Total parameter prop_binmtt_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         0.000000        0.000000        total sum                     
+12         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 2000 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          2107948.240234  47682.666373    total sum                     
+4          2142777.250000  47682.577600    excluding marked processes    
+4          2019.000000     44.933284       Unweighted events, alpha=1044.055592
+  => Total parameter prop_binmtt_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1256201.570312  41264.039413    total sum                     
+5          1273615.250000  41263.980800    excluding marked processes    
+5          953.000000      30.870698       Unweighted events, alpha=1318.154848
+  => Total parameter prop_binmtt_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          911008.695312   31005.840909    total sum                     
+6          921175.312500   31005.786000    excluding marked processes    
+6          883.000000      29.715316       Unweighted events, alpha=1031.719927
+  => Total parameter prop_binmtt_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          512609.001465   21331.143427    total sum                     
+7          516879.343750   21331.100000    excluding marked processes    
+7          587.000000      24.228083       Unweighted events, alpha=873.269168
+  => Total parameter prop_binmtt_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          399583.371094   13529.474579    total sum                     
+8          401737.437500   13529.422200    excluding marked processes    
+8          882.000000      29.698485       Unweighted events, alpha=453.042371
+  => Total parameter prop_binmtt_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          186941.992432   8523.533790     total sum                     
+9          187296.093750   8523.494700     excluding marked processes    
+9          483.000000      21.977261       Unweighted events, alpha=387.043463
+  => Total parameter prop_binmtt_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         115327.947021   5920.446168     total sum                     
+10         115036.539062   5920.412400     excluding marked processes    
+10         378.000000      19.442222       Unweighted events, alpha=305.100389
+  => Total parameter prop_binmtt_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         50037.190063    3966.229684     total sum                     
+11         49655.406250    3966.208400     excluding marked processes    
+11         157.000000      12.529964       Unweighted events, alpha=318.708217
+  => Total parameter prop_binmtt_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         29401.626221    2482.960634     total sum                     
+12         29030.869141    2482.940040     excluding marked processes    
+12         137.000000      11.704700       Unweighted events, alpha=214.610410
+  => Total parameter prop_binmtt_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         0.000000        0.000000        total sum                     
+13         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 2300 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          2107948.240234  47682.666373    total sum                     
+4          2142777.250000  47682.577600    excluding marked processes    
+4          2019.000000     44.933284       Unweighted events, alpha=1044.055592
+  => Total parameter prop_binmtt_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1256201.570312  41264.039413    total sum                     
+5          1273615.250000  41263.980800    excluding marked processes    
+5          953.000000      30.870698       Unweighted events, alpha=1318.154848
+  => Total parameter prop_binmtt_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          911008.695312   31005.840909    total sum                     
+6          921175.312500   31005.786000    excluding marked processes    
+6          883.000000      29.715316       Unweighted events, alpha=1031.719927
+  => Total parameter prop_binmtt_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          512609.001465   21331.143427    total sum                     
+7          516879.343750   21331.100000    excluding marked processes    
+7          587.000000      24.228083       Unweighted events, alpha=873.269168
+  => Total parameter prop_binmtt_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          399583.371094   13529.474579    total sum                     
+8          401737.437500   13529.422200    excluding marked processes    
+8          882.000000      29.698485       Unweighted events, alpha=453.042371
+  => Total parameter prop_binmtt_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          186941.992432   8523.533790     total sum                     
+9          187296.093750   8523.494700     excluding marked processes    
+9          483.000000      21.977261       Unweighted events, alpha=387.043463
+  => Total parameter prop_binmtt_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         115327.947021   5920.446168     total sum                     
+10         115036.539062   5920.412400     excluding marked processes    
+10         378.000000      19.442222       Unweighted events, alpha=305.100389
+  => Total parameter prop_binmtt_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         50037.190063    3966.229684     total sum                     
+11         49655.406250    3966.208400     excluding marked processes    
+11         157.000000      12.529964       Unweighted events, alpha=318.708217
+  => Total parameter prop_binmtt_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         29401.626221    2482.960634     total sum                     
+12         29030.869141    2482.940040     excluding marked processes    
+12         137.000000      11.704700       Unweighted events, alpha=214.610410
+  => Total parameter prop_binmtt_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         10176.983994    1428.094856     total sum                     
+13         9976.273438     1428.082740     excluding marked processes    
+13         49.000000       7.000000        Unweighted events, alpha=207.693551
+  => Total parameter prop_binmtt_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         0.000000        0.000000        total sum                     
+14         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+----- 3500 -----
+Channel mtt will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binmtt
+Poisson cut-off: 0
+Processes excluded for sums: ALP_ttbar_signal ALP_ttbar_interference
+============================================================
+Bin        Contents        Error           Notes                         
+0          7021227.539062  33112.056381    total sum                     
+0          7288427.500000  33111.372000    excluding marked processes    
+0          48452.000000    220.118150      Unweighted events, alpha=144.910995
+  => Total parameter prop_binmtt_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10065300.992188 52670.437870    total sum                     
+1          10364864.000000 52669.926400    excluding marked processes    
+1          38726.000000    196.789227      Unweighted events, alpha=259.910680
+  => Total parameter prop_binmtt_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6265644.828125  52152.753386    total sum                     
+2          6413725.000000  52152.475200    excluding marked processes    
+2          15124.000000    122.979673      Unweighted events, alpha=414.284900
+  => Total parameter prop_binmtt_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3622510.902344  50214.939194    total sum                     
+3          3693746.500000  50214.785600    excluding marked processes    
+3          5411.000000     73.559500       Unweighted events, alpha=669.471614
+  => Total parameter prop_binmtt_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          2107948.240234  47682.666373    total sum                     
+4          2142777.250000  47682.577600    excluding marked processes    
+4          2019.000000     44.933284       Unweighted events, alpha=1044.055592
+  => Total parameter prop_binmtt_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1256201.570312  41264.039413    total sum                     
+5          1273615.250000  41263.980800    excluding marked processes    
+5          953.000000      30.870698       Unweighted events, alpha=1318.154848
+  => Total parameter prop_binmtt_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          911008.695312   31005.840909    total sum                     
+6          921175.312500   31005.786000    excluding marked processes    
+6          883.000000      29.715316       Unweighted events, alpha=1031.719927
+  => Total parameter prop_binmtt_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          512609.001465   21331.143427    total sum                     
+7          516879.343750   21331.100000    excluding marked processes    
+7          587.000000      24.228083       Unweighted events, alpha=873.269168
+  => Total parameter prop_binmtt_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          399583.371094   13529.474579    total sum                     
+8          401737.437500   13529.422200    excluding marked processes    
+8          882.000000      29.698485       Unweighted events, alpha=453.042371
+  => Total parameter prop_binmtt_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          186941.992432   8523.533790     total sum                     
+9          187296.093750   8523.494700     excluding marked processes    
+9          483.000000      21.977261       Unweighted events, alpha=387.043463
+  => Total parameter prop_binmtt_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         115327.947021   5920.446168     total sum                     
+10         115036.539062   5920.412400     excluding marked processes    
+10         378.000000      19.442222       Unweighted events, alpha=305.100389
+  => Total parameter prop_binmtt_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         50037.190063    3966.229684     total sum                     
+11         49655.406250    3966.208400     excluding marked processes    
+11         157.000000      12.529964       Unweighted events, alpha=318.708217
+  => Total parameter prop_binmtt_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         29401.626221    2482.960634     total sum                     
+12         29030.869141    2482.940040     excluding marked processes    
+12         137.000000      11.704700       Unweighted events, alpha=214.610410
+  => Total parameter prop_binmtt_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         10176.983994    1428.094856     total sum                     
+13         9976.273438     1428.082740     excluding marked processes    
+13         49.000000       7.000000        Unweighted events, alpha=207.693551
+  => Total parameter prop_binmtt_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         6224.820602     774.870059      total sum                     
+14         6038.355957     774.855648      excluding marked processes    
+14         61.000000       7.810250        Unweighted events, alpha=102.046239
+  => Total parameter prop_binmtt_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------

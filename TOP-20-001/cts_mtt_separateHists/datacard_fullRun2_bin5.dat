@@ -1,0 +1,26 @@
+# PARAMETERS
+imax 1 number of regions
+jmax 2 number of processes -1
+kmax *
+shapes * * inputHistograms_fullRun2_bin5.root $CHANNEL_$PROCESS $CHANNEL_$PROCESS_$SYSTEMATIC
+------------------------------
+# regions
+bin          bin5  
+observation  -1    
+------------------------------
+# PROCESSES
+bin                             bin5                    bin5                    bin5                    
+process                         ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        
+process                         -1                      0                       1                       
+rate                            -1                      -1                      -1                      
+------------------------------
+# SYSTEMATICS
+lumi_13TeV_fullRun2     lnN     1.016                   1.016                   1.016                   
+datasyst                shape   -                       -                       1.0                     
+mcscale                 shape   1.0                     1.0                     1.0                     
+pu                      shape   1.0                     1.0                     1.0                     
+pdf                     shape   1.0                     1.0                     1.0                     
+isr                     shape   1.0                     1.0                     1.0                     
+fsr                     shape   1.0                     1.0                     1.0                     
+------------------------------
+* autoMCStats 0 0 1

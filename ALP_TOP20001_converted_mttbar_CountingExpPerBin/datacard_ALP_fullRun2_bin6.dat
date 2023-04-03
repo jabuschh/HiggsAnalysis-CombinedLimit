@@ -1,0 +1,16 @@
+# PARAMETERS
+imax 15 number of bins
+jmax 1 number of backgrounds
+kmax 1 number of nuisance parameters
+------------
+# vars
+bin          bin6    
+observation  -1      
+------------
+# PROCESSES
+bin           bin6                    bin6                    bin6                    
+process       ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        
+process       -1                      0                       1                       
+rate          1274862.75              1274862.75              1274862.75              
+------------
+# SYSTEMATICS

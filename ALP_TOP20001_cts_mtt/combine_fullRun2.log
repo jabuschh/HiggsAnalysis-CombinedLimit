@@ -1,0 +1,90 @@
+----- 420 -----
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+Will use a-priori expected background instead of a-posteriori one.
+>>> method used is AsymptoticLimits
+SimNLL created with 1 channels, 0 generic constraints, 11 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ -- AsymptoticLimits ( CLs ) --
+Expected  2.5%: r < 46.9082
+Expected 16.0%: r < 54.3312
+Expected 50.0%: r < 63.8750
+Expected 84.0%: r < 75.3324
+Expected 97.5%: r < 86.7117
+
+Done in 0.00 min (cpu), 0.00 min (real)
+----- 520 -----
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+Will use a-priori expected background instead of a-posteriori one.
+>>> method used is AsymptoticLimits
+SimNLL created with 2 channels, 0 generic constraints, 17 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ -- AsymptoticLimits ( CLs ) --
+Expected  2.5%: r < 2.8467
+Expected 16.0%: r < 5.0545
+Expected 50.0%: r < 8.2812
+Expected 84.0%: r < 12.0773
+Expected 97.5%: r < 16.0190
+
+Done in 0.00 min (cpu), 0.00 min (real)
+----- 620 -----
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+Will use a-priori expected background instead of a-posteriori one.
+>>> method used is AsymptoticLimits
+SimNLL created with 3 channels, 0 generic constraints, 23 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ -- AsymptoticLimits ( CLs ) --
+Expected  2.5%: r < 0.9093
+Expected 16.0%: r < 1.6712
+Expected 50.0%: r < 2.9844
+Expected 84.0%: r < 4.7688
+Expected 97.5%: r < 6.7032
+
+Done in 0.00 min (cpu), 0.00 min (real)
+----- 800 -----
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+Will use a-priori expected background instead of a-posteriori one.
+>>> method used is AsymptoticLimits
+SimNLL created with 4 channels, 0 generic constraints, 29 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ -- AsymptoticLimits ( CLs ) --
+Expected  2.5%: r < 0.4565
+Expected 16.0%: r < 0.7834
+Expected 50.0%: r < 1.3281
+Expected 84.0%: r < 2.0640
+Expected 97.5%: r < 2.8893
+
+Done in 0.00 min (cpu), 0.00 min (real)
+----- 1000 -----
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+Will use a-priori expected background instead of a-posteriori one.
+>>> method used is AsymptoticLimits
+SimNLL created with 5 channels, 0 generic constraints, 35 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ -- AsymptoticLimits ( CLs ) --
+Expected  2.5%: r < 0.2666
+Expected 16.0%: r < 0.4441
+Expected 50.0%: r < 0.7500
+Expected 84.0%: r < 1.1925
+Expected 97.5%: r < 1.7110
+
+Done in 0.00 min (cpu), 0.00 min (real)
+----- 3500 -----
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+Will use a-priori expected background instead of a-posteriori one.
+>>> method used is AsymptoticLimits
+SimNLL created with 6 channels, 0 generic constraints, 41 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ -- AsymptoticLimits ( CLs ) --
+Expected  2.5%: r < 0.1579
+Expected 16.0%: r < 0.2484
+Expected 50.0%: r < 0.4043
+Expected 84.0%: r < 0.6331
+Expected 97.5%: r < 0.9080
+
+Done in 0.00 min (cpu), 0.00 min (real)

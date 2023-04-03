@@ -1,90 +1,3136 @@
 ----- 420 -----
- <<< Combine >>> 
+
 >>> random number generator seed is 123456
 Will use a-priori expected background instead of a-posteriori one.
 >>> method used is AsymptoticLimits
-SimNLL created with 1 channels, 0 generic constraints, 4 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+[#1] INFO:ObjectHandling -- RooWorkspace::import(w) importing RooUniform::prior
+Saving snapshot 'clean'
+Saved snapshot 'clean'
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins 
+SimNLL created with 1 channels, 0 generic constraints, 7 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+Minuit2Minimizer: Minimize with max-calls 1000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -277.903007790499828
+Edm   = 6.59633645801085194e-07
+Nfcn  = 112
+r	  = 4.79749e-08	 +/-  2.37849	(limited)
+syst	  = 0.000301128	 +/-  1.90556	(limited)
+Fit to asimov dataset:
+
+  RooFitResult: minimized FCN value: -277.903, estimated distance to minimum: 6.59634e-07
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MINIMIZE=0 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+                   ONE    1.0000e+00
+  n_exp_binbin1_proc_TTToSemiLeptonic    1.0000e+00
+     prop_binbin1_bin0   -3.9989e-05
+  prop_binbin1_bin0_In    0.0000e+00
+     prop_binbin1_bin1    4.5167e-05
+  prop_binbin1_bin1_In    0.0000e+00
+     prop_binbin1_bin2   -3.0927e-05
+  prop_binbin1_bin2_In    0.0000e+00
+     prop_binbin1_bin3    5.5619e-06
+  prop_binbin1_bin3_In    0.0000e+00
+     prop_binbin1_bin4    2.8220e-05
+  prop_binbin1_bin4_In    0.0000e+00
+     prop_binbin1_bin5   -2.2750e-04
+  prop_binbin1_bin5_In    0.0000e+00
+               syst_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue +/-  Error     GblCorr.
+  --------------------  ------------  --------------------------  --------
+                     r    2.0000e-01    4.7975e-08 +/-  2.38e+00  <none>
+                  syst    0.0000e+00    3.0113e-04 +/-  1.91e+00  <none>
+
+Will search for NLL crossing by stepping.
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1157.98237578184035
+Edm   = 5.47773135042090559e-06
+Nfcn  = 18
+syst	  = 1.06393	 +/-  0.022073	(limited)
+At r = 1.000000:	delta(nll) = 0.57594
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -34.063218281429684
+Edm   = 1.25787439428140706e-05
+Nfcn  = 16
+syst	  = 1.24542	 +/-  0.0219871	(limited)
+At r = 1.500000:	delta(nll) = 0.78817
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -19.5979438610569972
+Edm   = 9.95409314372428382e-06
+Nfcn  = 16
+syst	  = 1.38267	 +/-  0.0219401	(limited)
+At r = 2.000000:	delta(nll) = 0.97044
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -12.4337191814828234
+Edm   = 1.98309362719340682e-06
+Nfcn  = 16
+syst	  = 1.4919	 +/-  0.0219701	(limited)
+At r = 2.500000:	delta(nll) = 1.12865
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -8.30985393722948906
+Edm   = 1.05872787276491629e-06
+Nfcn  = 16
+syst	  = 1.58102	 +/-  0.0218208	(limited)
+At r = 3.000000:	delta(nll) = 1.26676
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -5.76765494803908219
+Edm   = 1.16496975495097444e-07
+Nfcn  = 16
+syst	  = 1.65526	 +/-  0.0219173	(limited)
+At r = 3.500000:	delta(nll) = 1.38763
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -4.07188163454702412
+Edm   = 2.15277362556822357e-09
+Nfcn  = 19
+syst	  = 1.71759	 +/-  0.0218796	(limited)
+At r = 4.000000:	delta(nll) = 1.49344
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.91153854150025904
+Edm   = 3.69523273452416532e-05
+Nfcn  = 14
+syst	  = 1.77012	 +/-  0.0215824	(limited)
+At r = 4.500000:	delta(nll) = 1.58596
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.10717725690459368
+Edm   = 7.76427415247875766e-08
+Nfcn  = 16
+syst	  = 1.81497	 +/-  0.0219551	(limited)
+At r = 5.000000:	delta(nll) = 1.66651
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.49733940954630906
+Edm   = 7.79929344330792279e-06
+Nfcn  = 14
+syst	  = 1.85272	 +/-  0.0218833	(limited)
+At r = 5.500000:	delta(nll) = 1.73639
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.06936974675389207
+Edm   = 2.28204720570232408e-08
+Nfcn  = 18
+syst	  = 1.88472	 +/-  0.0220829	(limited)
+At r = 6.000000:	delta(nll) = 1.79656
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.745186911905810101
+Edm   = 3.88936129370438208e-06
+Nfcn  = 14
+syst	  = 1.91141	 +/-  0.0227682	(limited)
+At r = 6.500000:	delta(nll) = 1.84792
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.513336057152161129
+Edm   = 9.81537881121616067e-08
+Nfcn  = 18
+syst	  = 1.93362	 +/-  0.0216649	(limited)
+At r = 7.000000:	delta(nll) = 1.89122
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0940888380130988633
+Edm   = 1.45657843883521345e-05
+Nfcn  = 13
+syst	  = 1.94303	 +/-  0.0231786	(limited)
+At r = 7.250000:	delta(nll) = 1.91008
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0210711179952180715
+Edm   = 5.54102953882438604e-08
+Nfcn  = 15
+syst	  = 1.94751	 +/-  0.0208613	(limited)
+At r = 7.375000:	delta(nll) = 1.91882
+Median for expected limits: 7.375
+Sigma  for expected limits: 3.76282
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -75.2553925639228112
+Edm   = 3.8874290256151892e-10
+Nfcn  = 20
+syst	  = 1.67988	 +/-  0.0218383	(limited)
+At r = 3.687500:	delta(nll) = 1.42897
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -117.916927243463462
+Edm   = 1.52453740191720832e-08
+Nfcn  = 19
+syst	  = 1.34344	 +/-  0.0219358	(limited)
+At r = 1.843750:	delta(nll) = 0.91628
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -101.152971478847192
+Edm   = 1.31127235323929437e-05
+Nfcn  = 17
+syst	  = 1.02978	 +/-  0.0220827	(limited)
+At r = 0.921875:	delta(nll) = 0.53946
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -32.6978638023723676
+Edm   = 4.18924389906464868e-06
+Nfcn  = 16
+syst	  = 1.20791	 +/-  0.0220216	(limited)
+At r = 1.382812:	delta(nll) = 0.74138
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -6.97608876389766408
+Edm   = 6.09687400927397362e-08
+Nfcn  = 16
+syst	  = 1.1256	 +/-  0.0219761	(limited)
+At r = 1.152344:	delta(nll) = 0.64423
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.17116509799094537
+Edm   = 3.61405399971364643e-08
+Nfcn  = 18
+syst	  = 1.07962	 +/-  0.0223504	(limited)
+At r = 1.037109:	delta(nll) = 0.59286
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.612648704666719168
+Edm   = 1.08262359609023239e-07
+Nfcn  = 18
+syst	  = 1.05519	 +/-  0.0216271	(limited)
+At r = 0.979492:	delta(nll) = 0.56642
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -485.660152049925728
+Edm   = 3.50245923701915668e-06
+Nfcn  = 20
+syst	  = 1.73723	 +/-  0.0218397	(limited)
+At r = 4.177246:	delta(nll) = 1.52769
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -55.4726756770349283
+Edm   = 1.19049159237804693e-05
+Nfcn  = 17
+syst	  = 1.50711	 +/-  0.0218756	(limited)
+At r = 2.578369:	delta(nll) = 1.15155
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -34.0066351554365127
+Edm   = 1.23385260236054758e-06
+Nfcn  = 17
+syst	  = 1.32628	 +/-  0.0219309	(limited)
+At r = 1.778931:	delta(nll) = 0.89310
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -10.0290652795910091
+Edm   = 3.60764086570303766e-06
+Nfcn  = 16
+syst	  = 1.42439	 +/-  0.0218912	(limited)
+At r = 2.178650:	delta(nll) = 1.02949
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.27809219749547154
+Edm   = 8.01499496792711438e-06
+Nfcn  = 14
+syst	  = 1.37751	 +/-  0.0215512	(limited)
+At r = 1.978790:	delta(nll) = 0.96322
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.601178210628007914
+Edm   = 3.69222084289432266e-09
+Nfcn  = 18
+syst	  = 1.40154	 +/-  0.0219564	(limited)
+At r = 2.078720:	delta(nll) = 0.99681
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -350.484060227056204
+Edm   = 3.74319944046233611e-09
+Nfcn  = 19
+syst	  = 1.99041	 +/-  0.0222531	(limited)
+At r = 11.137824:	delta(nll) = 2.01492
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.705586490357879015
+Edm   = 1.49967416861877553e-07
+Nfcn  = 18
+syst	  = 1.96373	 +/-  0.0216911	(limited)
+At r = 13.019237:	delta(nll) = 1.97322
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.484372822693769578
+Edm   = 6.84912391702665066e-06
+Nfcn  = 13
+syst	  = 1.94159	 +/-  0.0230713	(limited)
+At r = 13.959943:	delta(nll) = 1.93699
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.168795141184801656
+Edm   = 6.94959065548548118e-06
+Nfcn  = 13
+syst	  = 1.92853	 +/-  0.0220503	(limited)
+At r = 14.430296:	delta(nll) = 1.91571
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0488321020752622501
+Edm   = 1.69748280742076164e-08
+Nfcn  = 18
+syst	  = 1.92144	 +/-  0.0219432	(limited)
+At r = 14.665472:	delta(nll) = 1.90436
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0126685183668480399
+Edm   = 4.50831133554597354e-06
+Nfcn  = 13
+syst	  = 1.9179	 +/-  0.023399	(limited)
+At r = 14.783061:	delta(nll) = 1.89852
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -22.2582125429067403
+Edm   = 2.15235176002348494e-05
+Nfcn  = 16
+syst	  = 1.76321	 +/-  0.0232047	(limited)
+At r = 18.634076:	delta(nll) = 1.66072
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -8.77396451010744904
+Edm   = 7.31270457246903222e-08
+Nfcn  = 18
+syst	  = 1.66465	 +/-  0.0235273	(limited)
+At r = 20.530187:	delta(nll) = 1.52416
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.58022942377287734
+Edm   = 4.40325239085053226e-08
+Nfcn  = 16
+syst	  = 1.61081	 +/-  0.0236351	(limited)
+At r = 21.478242:	delta(nll) = 1.45445
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.692587775177186726
+Edm   = 1.26873996593088804e-07
+Nfcn  = 18
+syst	  = 1.58282	 +/-  0.023653	(limited)
+At r = 21.952270:	delta(nll) = 1.41961
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.179034596964463916
+Edm   = 7.30268944043656827e-09
+Nfcn  = 18
+syst	  = 1.56857	 +/-  0.0230731	(limited)
+At r = 22.189284:	delta(nll) = 1.40224
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0454716323960847046
+Edm   = 2.98327056138153613e-05
+Nfcn  = 13
+syst	  = 1.56156	 +/-  0.0234282	(limited)
+At r = 22.307791:	delta(nll) = 1.39360
 
  -- AsymptoticLimits ( CLs ) --
-Expected  2.5%: r < 0.0483
-Expected 16.0%: r < 0.0941
-Expected 50.0%: r < 0.2207
-Expected 84.0%: r < 0.4442
-Expected 97.5%: r < 0.6694
+Expected  2.5%: r < 0.9795
+Expected 16.0%: r < 2.0787
+Expected 50.0%: r < 7.3750
+Expected 84.0%: r < 14.8419
+Expected 97.5%: r < 22.3670
 
-Done in 0.00 min (cpu), 0.01 min (real)
+Done in 0.00 min (cpu), 0.00 min (real)
+Printing Message Summary From ... combine_logger.out
+----------------------------------------------
+Messages of type INFO : 146
+Messages of type DEBUG : 0
+Messages of type ERROR : 0
+----------------------------------------------
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 23 -- Parameters after fit for asimov dataset
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_channel = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_th1x = 5.5 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ONE = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin1_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- r = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst_In = 0 (constant)
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: runLimitExpected) AsymptoticLimits.cc: 436 -- Median for expected limits = 7.375 (Sigma for expected limits = 3.76282)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
 ----- 520 -----
- <<< Combine >>> 
+
 >>> random number generator seed is 123456
 Will use a-priori expected background instead of a-posteriori one.
 >>> method used is AsymptoticLimits
-SimNLL created with 2 channels, 0 generic constraints, 4 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+[#1] INFO:ObjectHandling -- RooWorkspace::import(w) importing RooUniform::prior
+Saving snapshot 'clean'
+Saved snapshot 'clean'
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins 
+SimNLL created with 2 channels, 0 generic constraints, 13 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+Minuit2Minimizer: Minimize with max-calls 1000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -479.01518601536543
+Edm   = 1.39149264830665785e-06
+Nfcn  = 57
+r	  = 6.11955e-12	 +/-  0.00174912	(limited)
+syst	  = -2.31221e-06	 +/-  0.0438007	(limited)
+Fit to asimov dataset:
+
+  RooFitResult: minimized FCN value: -479.015, estimated distance to minimum: 1.39149e-06
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MINIMIZE=0 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+                   ONE    1.0000e+00
+  n_exp_binbin1_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin2_proc_TTToSemiLeptonic    1.0000e+00
+     prop_binbin1_bin0    8.7172e-05
+  prop_binbin1_bin0_In    0.0000e+00
+     prop_binbin1_bin1    6.4929e-05
+  prop_binbin1_bin1_In    0.0000e+00
+     prop_binbin1_bin2    1.6180e-05
+  prop_binbin1_bin2_In    0.0000e+00
+     prop_binbin1_bin3    2.9474e-05
+  prop_binbin1_bin3_In    0.0000e+00
+     prop_binbin1_bin4    5.7135e-05
+  prop_binbin1_bin4_In    0.0000e+00
+     prop_binbin1_bin5    4.2239e-04
+  prop_binbin1_bin5_In    0.0000e+00
+     prop_binbin2_bin0   -5.0809e-05
+  prop_binbin2_bin0_In    0.0000e+00
+     prop_binbin2_bin1    5.2579e-05
+  prop_binbin2_bin1_In    0.0000e+00
+     prop_binbin2_bin2    5.2216e-05
+  prop_binbin2_bin2_In    0.0000e+00
+     prop_binbin2_bin3    4.7878e-05
+  prop_binbin2_bin3_In    0.0000e+00
+     prop_binbin2_bin4    3.9527e-05
+  prop_binbin2_bin4_In    0.0000e+00
+     prop_binbin2_bin5   -4.1189e-04
+  prop_binbin2_bin5_In    0.0000e+00
+               syst_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue +/-  Error     GblCorr.
+  --------------------  ------------  --------------------------  --------
+                     r    2.0000e-01    6.1195e-12 +/-  1.75e-03  <none>
+                  syst    0.0000e+00   -2.3122e-06 +/-  4.38e-02  <none>
+
+Will search for NLL crossing by stepping.
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1884.32387382322713
+Edm   = 1.37552984075065609e-06
+Nfcn  = 18
+syst	  = 0.849053	 +/-  0.0138103	(limited)
+At r = 1.000000:	delta(nll) = 78.33192
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -115.424075542216784
+Edm   = 4.39160310578900542e-06
+Nfcn  = 16
+syst	  = 0.638184	 +/-  0.0138904	(limited)
+At r = 0.500000:	delta(nll) = 41.90652
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -72.379501118350916
+Edm   = 8.72556684821546031e-08
+Nfcn  = 16
+syst	  = 0.470373	 +/-  0.0139532	(limited)
+At r = 0.250000:	delta(nll) = 21.96626
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -41.9155552575890127
+Edm   = 2.12815486910915146e-08
+Nfcn  = 16
+syst	  = 0.341844	 +/-  0.0140731	(limited)
+At r = 0.125000:	delta(nll) = 11.35127
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -23.0924001108658068
+Edm   = 6.13416217605818489e-08
+Nfcn  = 16
+syst	  = 0.245924	 +/-  0.0140757	(limited)
+At r = 0.062500:	delta(nll) = 5.80571
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -12.3320253285606345
+Edm   = 2.28676249149321621e-05
+Nfcn  = 14
+syst	  = 0.175719	 +/-  0.0141052	(limited)
+At r = 0.031250:	delta(nll) = 2.94851
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -6.42889991094527602
+Edm   = 1.23568438062234463e-05
+Nfcn  = 13
+syst	  = 0.125286	 +/-  0.0140814	(limited)
+At r = 0.015625:	delta(nll) = 1.49028
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.909278125874319
+Edm   = 2.16868800087811077e-06
+Nfcn  = 14
+syst	  = 0.15274	 +/-  0.014378	(limited)
+At r = 0.023438:	delta(nll) = 2.22238
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.428065668452899284
+Edm   = 6.96892400486210742e-08
+Nfcn  = 16
+syst	  = 0.139709	 +/-  0.0144552	(limited)
+At r = 0.019531:	delta(nll) = 1.85714
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.112968740653195301
+Edm   = 2.4049845685249453e-08
+Nfcn  = 16
+syst	  = 0.146396	 +/-  0.0134249	(limited)
+At r = 0.021484:	delta(nll) = 2.03995
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0274566249424630926
+Edm   = 1.00125427877912478e-07
+Nfcn  = 16
+syst	  = 0.143098	 +/-  0.0147394	(limited)
+At r = 0.020508:	delta(nll) = 1.94859
+Median for expected limits: 0.0200195
+Sigma  for expected limits: 0.0102142
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -4.57795323149120836
+Edm   = 1.22228019335090111e-05
+Nfcn  = 14
+syst	  = 0.100485	 +/-  0.0139557	(limited)
+At r = 0.010010:	delta(nll) = 0.95965
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.15511340184975131
+Edm   = 6.33891968805937383e-08
+Nfcn  = 16
+syst	  = 0.0713698	 +/-  0.0141297	(limited)
+At r = 0.005005:	delta(nll) = 0.48270
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.641490278943234848
+Edm   = 6.20590347774872849e-08
+Nfcn  = 18
+syst	  = 0.0872369	 +/-  0.0156293	(limited)
+At r = 0.007507:	delta(nll) = 0.72171
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.144068627727558796
+Edm   = 2.20815477624543854e-06
+Nfcn  = 13
+syst	  = 0.0797434	 +/-  0.0142059	(limited)
+At r = 0.006256:	delta(nll) = 0.60235
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0424350293557118133
+Edm   = 4.93285607416949686e-09
+Nfcn  = 18
+syst	  = 0.0756624	 +/-  0.0131742	(limited)
+At r = 0.005630:	delta(nll) = 0.54257
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -3.79735285902222497
+Edm   = 1.65823187865771227e-07
+Nfcn  = 16
+syst	  = 0.114294	 +/-  0.0142022	(limited)
+At r = 0.012981:	delta(nll) = 1.24097
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.689740529311128836
+Edm   = 3.10012470938585748e-05
+Nfcn  = 13
+syst	  = 0.0976906	 +/-  0.0138581	(limited)
+At r = 0.009462:	delta(nll) = 0.90770
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.192024145655265488
+Edm   = 3.35461689054926023e-08
+Nfcn  = 14
+syst	  = 0.106384	 +/-  0.0142207	(limited)
+At r = 0.011222:	delta(nll) = 1.07454
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0446234619655287296
+Edm   = 3.0062650037707758e-05
+Nfcn  = 13
+syst	  = 0.102302	 +/-  0.0135238	(limited)
+At r = 0.010342:	delta(nll) = 0.99119
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -12.6510312930808766
+Edm   = 9.88644330717545831e-09
+Nfcn  = 19
+syst	  = 0.173001	 +/-  0.0141045	(limited)
+At r = 0.030234:	delta(nll) = 2.85434
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.470042671827775482
+Edm   = 7.72323575177943019e-06
+Nfcn  = 13
+syst	  = 0.186724	 +/-  0.0136406	(limited)
+At r = 0.035341:	delta(nll) = 3.32659
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.102416835992256122
+Edm   = 4.17051498311748491e-08
+Nfcn  = 18
+syst	  = 0.193105	 +/-  0.0132625	(limited)
+At r = 0.037894:	delta(nll) = 3.56192
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0246661428086850584
+Edm   = 7.02433449865098825e-06
+Nfcn  = 13
+syst	  = 0.196182	 +/-  0.0134316	(limited)
+At r = 0.039171:	delta(nll) = 3.67940
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.00644867084472127913
+Edm   = 3.56720266068443209e-06
+Nfcn  = 13
+syst	  = 0.197815	 +/-  0.0168874	(limited)
+At r = 0.039810:	delta(nll) = 3.73809
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.38059338510198715
+Edm   = 4.20833555234696927e-09
+Nfcn  = 18
+syst	  = 0.221252	 +/-  0.0138071	(limited)
+At r = 0.050183:	delta(nll) = 4.68767
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.3080325047146108
+Edm   = 1.06947872408008688e-07
+Nfcn  = 18
+syst	  = 0.232327	 +/-  0.0137601	(limited)
+At r = 0.055530:	delta(nll) = 5.17419
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0710908010082837993
+Edm   = 4.6347806321159818e-08
+Nfcn  = 18
+syst	  = 0.237648	 +/-  0.0135107	(limited)
+At r = 0.058203:	delta(nll) = 5.41676
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0170989133914218328
+Edm   = 9.87104217202915837e-06
+Nfcn  = 13
+syst	  = 0.240322	 +/-  0.0139816	(limited)
+At r = 0.059540:	delta(nll) = 5.53789
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.00378872635213434866
+Edm   = 7.35494152326494729e-06
+Nfcn  = 13
+syst	  = 0.241499	 +/-  0.0148521	(limited)
+At r = 0.060208:	delta(nll) = 5.59840
+
+ -- AsymptoticLimits ( CLs ) --
+Expected  2.5%: r < 0.0059
+Expected 16.0%: r < 0.0108
+Expected 50.0%: r < 0.0200
+Expected 84.0%: r < 0.0395
+Expected 97.5%: r < 0.0605
+
+Done in 0.00 min (cpu), 0.00 min (real)
+Printing Message Summary From ... combine_logger.out
+----------------------------------------------
+Messages of type INFO : 131
+Messages of type DEBUG : 0
+Messages of type ERROR : 0
+----------------------------------------------
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 23 -- Parameters after fit for asimov dataset
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_channel = 1 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_th1x = 5.5 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ONE = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin1_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin2_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- r = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst_In = 0 (constant)
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: runLimitExpected) AsymptoticLimits.cc: 436 -- Median for expected limits = 0.0200195 (Sigma for expected limits = 0.0102142)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+----- 620 -----
+
+>>> random number generator seed is 123456
+Will use a-priori expected background instead of a-posteriori one.
+>>> method used is AsymptoticLimits
+[#1] INFO:ObjectHandling -- RooWorkspace::import(w) importing RooUniform::prior
+Saving snapshot 'clean'
+Saved snapshot 'clean'
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin3_obsOnly: in 6 x-bins 
+SimNLL created with 3 channels, 0 generic constraints, 19 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+Minuit2Minimizer: Minimize with max-calls 1000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -559.523371440410529
+Edm   = 3.50374256392952034e-06
+Nfcn  = 68
+r	  = 2.70384e-11	 +/-  0.0405309	(limited)
+syst	  = 6.19235e-06	 +/-  0.19163	(limited)
+Fit to asimov dataset:
+
+  RooFitResult: minimized FCN value: -559.523, estimated distance to minimum: 3.50374e-06
+                covariance matrix quality: Full matrix, but forced positive-definite
+                Status : MINIMIZE=1 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+                   ONE    1.0000e+00
+  n_exp_binbin1_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin2_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin3_proc_TTToSemiLeptonic    1.0000e+00
+     prop_binbin1_bin0    1.0997e-04
+  prop_binbin1_bin0_In    0.0000e+00
+     prop_binbin1_bin1    7.5289e-05
+  prop_binbin1_bin1_In    0.0000e+00
+     prop_binbin1_bin2    2.2489e-05
+  prop_binbin1_bin2_In    0.0000e+00
+     prop_binbin1_bin3    3.5497e-05
+  prop_binbin1_bin3_In    0.0000e+00
+     prop_binbin1_bin4    6.7270e-05
+  prop_binbin1_bin4_In    0.0000e+00
+     prop_binbin1_bin5    5.3586e-04
+  prop_binbin1_bin5_In    0.0000e+00
+     prop_binbin2_bin0   -2.5071e-05
+  prop_binbin2_bin0_In    0.0000e+00
+     prop_binbin2_bin1    7.3293e-05
+  prop_binbin2_bin1_In    0.0000e+00
+     prop_binbin2_bin2    6.7020e-05
+  prop_binbin2_bin2_In    0.0000e+00
+     prop_binbin2_bin3    6.2710e-05
+  prop_binbin2_bin3_In    0.0000e+00
+     prop_binbin2_bin4    6.0216e-05
+  prop_binbin2_bin4_In    0.0000e+00
+     prop_binbin2_bin5   -3.0160e-04
+  prop_binbin2_bin5_In    0.0000e+00
+     prop_binbin3_bin0   -1.2087e-04
+  prop_binbin3_bin0_In    0.0000e+00
+     prop_binbin3_bin1    4.5742e-05
+  prop_binbin3_bin1_In    0.0000e+00
+     prop_binbin3_bin2    7.9444e-05
+  prop_binbin3_bin2_In    0.0000e+00
+     prop_binbin3_bin3    1.0409e-04
+  prop_binbin3_bin3_In    0.0000e+00
+     prop_binbin3_bin4    2.1062e-05
+  prop_binbin3_bin4_In    0.0000e+00
+     prop_binbin3_bin5   -3.6341e-04
+  prop_binbin3_bin5_In    0.0000e+00
+               syst_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue +/-  Error     GblCorr.
+  --------------------  ------------  --------------------------  --------
+                     r    2.0000e-01    2.7038e-11 +/-  4.05e-02  <none>
+                  syst    0.0000e+00    6.1923e-06 +/-  1.92e-01  <none>
+
+Will search for NLL crossing by stepping.
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2153.92251841185043
+Edm   = 7.04457917094333223e-07
+Nfcn  = 18
+syst	  = 0.793825	 +/-  0.0120785	(limited)
+At r = 1.000000:	delta(nll) = 112.27113
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -129.409713284725228
+Edm   = 1.77380764886377861e-05
+Nfcn  = 16
+syst	  = 0.598758	 +/-  0.0121413	(limited)
+At r = 0.500000:	delta(nll) = 59.11262
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -82.5547734689587855
+Edm   = 3.94486722708488534e-07
+Nfcn  = 16
+syst	  = 0.442141	 +/-  0.0122055	(limited)
+At r = 0.250000:	delta(nll) = 30.64797
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -48.1684621991632653
+Edm   = 1.35826974982499616e-07
+Nfcn  = 16
+syst	  = 0.321697	 +/-  0.0123179	(limited)
+At r = 0.125000:	delta(nll) = 15.71750
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -26.6978367058721915
+Edm   = 1.2184443641840985e-09
+Nfcn  = 18
+syst	  = 0.231636	 +/-  0.012305	(limited)
+At r = 0.062500:	delta(nll) = 7.99805
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -14.3152738782754732
+Edm   = 2.15971133909025517e-07
+Nfcn  = 16
+syst	  = 0.165723	 +/-  0.0122511	(limited)
+At r = 0.031250:	delta(nll) = 4.04812
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -7.51197315098761553
+Edm   = 2.16889418396510269e-07
+Nfcn  = 16
+syst	  = 0.118097	 +/-  0.0122503	(limited)
+At r = 0.015625:	delta(nll) = 2.04137
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -3.88354899935670295
+Edm   = 1.38560755238579777e-07
+Nfcn  = 16
+syst	  = 0.0839481	 +/-  0.0123775	(limited)
+At r = 0.007812:	delta(nll) = 1.02679
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -3.88590225982797177
+Edm   = 3.8375286870088618e-09
+Nfcn  = 18
+syst	  = 0.118086	 +/-  0.0121627	(limited)
+At r = 0.015625:	delta(nll) = 2.04137
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.806195282753831233
+Edm   = 1.15683391297498796e-07
+Nfcn  = 18
+syst	  = 0.102516	 +/-  0.0125907	(limited)
+At r = 0.011719:	delta(nll) = 1.53522
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.807124088718289556
+Edm   = 6.22880950096535003e-07
+Nfcn  = 16
+syst	  = 0.118076	 +/-  0.0124935	(limited)
+At r = 0.015625:	delta(nll) = 2.04137
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.186206875875531502
+Edm   = 1.49031765424084226e-07
+Nfcn  = 16
+syst	  = 0.110589	 +/-  0.0138056	(limited)
+At r = 0.013672:	delta(nll) = 1.78856
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.187065317597489178
+Edm   = 3.12105383595428931e-08
+Nfcn  = 18
+syst	  = 0.118089	 +/-  0.0122747	(limited)
+At r = 0.015625:	delta(nll) = 2.04137
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0450977609581291808
+Edm   = 4.28540834817947403e-08
+Nfcn  = 16
+syst	  = 0.114405	 +/-  0.0119152	(limited)
+At r = 0.014648:	delta(nll) = 1.91503
+Median for expected limits: 0.0151367
+Sigma  for expected limits: 0.00772296
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -3.36116242931413822
+Edm   = 4.37369083249518688e-08
+Nfcn  = 18
+syst	  = 0.082634	 +/-  0.0118757	(limited)
+At r = 0.007568:	delta(nll) = 0.99493
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.92568085323495852
+Edm   = 2.16548995503482273e-06
+Nfcn  = 14
+syst	  = 0.0586166	 +/-  0.0121058	(limited)
+At r = 0.003784:	delta(nll) = 0.49951
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.572071570951319108
+Edm   = 3.57778516296901957e-08
+Nfcn  = 18
+syst	  = 0.0716833	 +/-  0.0122834	(limited)
+At r = 0.005676:	delta(nll) = 0.74760
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.128113132053968154
+Edm   = 3.83670899234588024e-07
+Nfcn  = 18
+syst	  = 0.0654974	 +/-  0.012502	(limited)
+At r = 0.004730:	delta(nll) = 0.62366
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.60099939311781725
+Edm   = 5.60597152418234187e-08
+Nfcn  = 18
+syst	  = 0.0933904	 +/-  0.0122162	(limited)
+At r = 0.009697:	delta(nll) = 1.27238
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.655019787669342879
+Edm   = 3.86179638852117201e-08
+Nfcn  = 18
+syst	  = 0.0793824	 +/-  0.0127478	(limited)
+At r = 0.006977:	delta(nll) = 0.91771
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.177830386824797626
+Edm   = 1.51900577584910649e-09
+Nfcn  = 16
+syst	  = 0.0866757	 +/-  0.012845	(limited)
+At r = 0.008337:	delta(nll) = 1.09521
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0423829494959078942
+Edm   = 2.22936381649633703e-07
+Nfcn  = 18
+syst	  = 0.0831132	 +/-  0.0127495	(limited)
+At r = 0.007657:	delta(nll) = 1.00650
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -11.6598556687619563
+Edm   = 7.24291064645514046e-07
+Nfcn  = 16
+syst	  = 0.142299	 +/-  0.0123232	(limited)
+At r = 0.022860:	delta(nll) = 2.97376
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.419217506718247868
+Edm   = 4.94464093494750138e-08
+Nfcn  = 18
+syst	  = 0.153549	 +/-  0.0111811	(limited)
+At r = 0.026721:	delta(nll) = 3.46907
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0933033413054906169
+Edm   = 7.59799564091522693e-06
+Nfcn  = 13
+syst	  = 0.158815	 +/-  0.0132853	(limited)
+At r = 0.028652:	delta(nll) = 3.71618
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0221110558205236084
+Edm   = 1.86114361168462752e-05
+Nfcn  = 13
+syst	  = 0.156297	 +/-  0.0133225	(limited)
+At r = 0.027687:	delta(nll) = 3.59268
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.87627076285370897
+Edm   = 2.51063072842808158e-08
+Nfcn  = 18
+syst	  = 0.180118	 +/-  0.0122386	(limited)
+At r = 0.037099:	delta(nll) = 4.79320
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.342985619182244295
+Edm   = 4.56321286756723359e-07
+Nfcn  = 18
+syst	  = 0.190312	 +/-  0.0125614	(limited)
+At r = 0.041564:	delta(nll) = 5.36002
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0784667229658636278
+Edm   = 2.53237342718664874e-06
+Nfcn  = 13
+syst	  = 0.195156	 +/-  0.0109053	(limited)
+At r = 0.043796:	delta(nll) = 5.64284
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0193350546514385116
+Edm   = 2.05432857011891093e-07
+Nfcn  = 16
+syst	  = 0.197577	 +/-  0.0129127	(limited)
+At r = 0.044912:	delta(nll) = 5.78409
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.00460609761434038929
+Edm   = 4.2414397454200388e-06
+Nfcn  = 15
+syst	  = 0.198722	 +/-  0.0125479	(limited)
+At r = 0.045470:	delta(nll) = 5.85469
+
+ -- AsymptoticLimits ( CLs ) --
+Expected  2.5%: r < 0.0043
+Expected 16.0%: r < 0.0073
+Expected 50.0%: r < 0.0151
+Expected 84.0%: r < 0.0282
+Expected 97.5%: r < 0.0457
+
+Done in 0.00 min (cpu), 0.00 min (real)
+Printing Message Summary From ... combine_logger.out
+----------------------------------------------
+Messages of type INFO : 149
+Messages of type DEBUG : 1
+Messages of type ERROR : 0
+----------------------------------------------
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 23 -- Parameters after fit for asimov dataset
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_channel = 2 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_th1x = 5.5 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ONE = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin1_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin2_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin3_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- r = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst_In = 0 (constant)
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin3_obsOnly: in 6 x-bins
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: runLimitExpected) AsymptoticLimits.cc: 436 -- Median for expected limits = 0.0151367 (Sigma for expected limits = 0.00772296)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+----- 800 -----
+
+>>> random number generator seed is 123456
+Will use a-priori expected background instead of a-posteriori one.
+>>> method used is AsymptoticLimits
+[#1] INFO:ObjectHandling -- RooWorkspace::import(w) importing RooUniform::prior
+Saving snapshot 'clean'
+Saved snapshot 'clean'
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin3_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin4_obsOnly: in 6 x-bins 
+SimNLL created with 4 channels, 0 generic constraints, 25 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+Minuit2Minimizer: Minimize with max-calls 1000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -608.513340819420137
+Edm   = 4.87953834305738603e-09
+Nfcn  = 90
+r	  = 1.05026e-10	 +/-  0.00109442	(limited)
+syst	  = 9.52633e-06	 +/-  0.0295897	(limited)
+Fit to asimov dataset:
+
+  RooFitResult: minimized FCN value: -608.513, estimated distance to minimum: 4.87954e-09
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MINIMIZE=0 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+                   ONE    1.0000e+00
+  n_exp_binbin1_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin2_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin3_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin4_proc_TTToSemiLeptonic    1.0000e+00
+     prop_binbin1_bin0    1.9345e-04
+  prop_binbin1_bin0_In    0.0000e+00
+     prop_binbin1_bin1    1.1376e-04
+  prop_binbin1_bin1_In    0.0000e+00
+     prop_binbin1_bin2    4.5415e-05
+  prop_binbin1_bin2_In    0.0000e+00
+     prop_binbin1_bin3    5.7684e-05
+  prop_binbin1_bin3_In    0.0000e+00
+     prop_binbin1_bin4    1.0477e-04
+  prop_binbin1_bin4_In    0.0000e+00
+     prop_binbin1_bin5    9.5099e-04
+  prop_binbin1_bin5_In    0.0000e+00
+     prop_binbin2_bin0    6.5968e-05
+  prop_binbin2_bin0_In    0.0000e+00
+     prop_binbin2_bin1    1.4855e-04
+  prop_binbin2_bin1_In    0.0000e+00
+     prop_binbin2_bin2    1.2112e-04
+  prop_binbin2_bin2_In    0.0000e+00
+     prop_binbin2_bin3    1.1682e-04
+  prop_binbin2_bin3_In    0.0000e+00
+     prop_binbin2_bin4    1.3511e-04
+  prop_binbin2_bin4_In    0.0000e+00
+     prop_binbin2_bin5    8.4388e-05
+  prop_binbin2_bin5_In    0.0000e+00
+     prop_binbin3_bin0   -5.8845e-05
+  prop_binbin3_bin0_In    0.0000e+00
+     prop_binbin3_bin1    1.1322e-04
+  prop_binbin3_bin1_In    0.0000e+00
+     prop_binbin3_bin2    1.3507e-04
+  prop_binbin3_bin2_In    0.0000e+00
+     prop_binbin3_bin3    1.5891e-04
+  prop_binbin3_bin3_In    0.0000e+00
+     prop_binbin3_bin4    8.8544e-05
+  prop_binbin3_bin4_In    0.0000e+00
+     prop_binbin3_bin5   -1.0888e-04
+  prop_binbin3_bin5_In    0.0000e+00
+     prop_binbin4_bin0   -8.1146e-05
+  prop_binbin4_bin0_In    0.0000e+00
+     prop_binbin4_bin1    1.1928e-04
+  prop_binbin4_bin1_In    0.0000e+00
+     prop_binbin4_bin2    1.7476e-04
+  prop_binbin4_bin2_In    0.0000e+00
+     prop_binbin4_bin3    1.6676e-04
+  prop_binbin4_bin3_In    0.0000e+00
+     prop_binbin4_bin4    1.2066e-04
+  prop_binbin4_bin4_In    0.0000e+00
+     prop_binbin4_bin5   -3.5666e-04
+  prop_binbin4_bin5_In    0.0000e+00
+               syst_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue +/-  Error     GblCorr.
+  --------------------  ------------  --------------------------  --------
+                     r    2.0000e-01    1.0503e-10 +/-  1.09e-03  <none>
+                  syst    0.0000e+00    9.5263e-06 +/-  2.96e-02  <none>
+
+Will search for NLL crossing by stepping.
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2262.99348504107775
+Edm   = 6.41236802714578348e-09
+Nfcn  = 20
+syst	  = 0.7381	 +/-  0.0109594	(limited)
+At r = 1.000000:	delta(nll) = 172.17915
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -132.360754546448277
+Edm   = 1.91530561598306373e-06
+Nfcn  = 16
+syst	  = 0.559125	 +/-  0.0110134	(limited)
+At r = 0.500000:	delta(nll) = 89.04001
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -86.1775299021723669
+Edm   = 4.34601935249078894e-09
+Nfcn  = 19
+syst	  = 0.414006	 +/-  0.01108	(limited)
+At r = 0.250000:	delta(nll) = 45.63735
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -50.9362289197615397
+Edm   = 8.42028690141007404e-10
+Nfcn  = 19
+syst	  = 0.301674	 +/-  0.0111542	(limited)
+At r = 0.125000:	delta(nll) = 23.22686
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -28.4419587034117782
+Edm   = 8.27763566623244845e-07
+Nfcn  = 16
+syst	  = 0.21745	 +/-  0.011164	(limited)
+At r = 0.062500:	delta(nll) = 11.75883
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -15.315772847797664
+Edm   = 3.28056638813992331e-07
+Nfcn  = 16
+syst	  = 0.155728	 +/-  0.0111435	(limited)
+At r = 0.031250:	delta(nll) = 5.93088
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -8.06729970698832233
+Edm   = 1.92338273126411537e-07
+Nfcn  = 16
+syst	  = 0.111051	 +/-  0.0110685	(limited)
+At r = 0.015625:	delta(nll) = 2.98364
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -4.17938590641527519
+Edm   = 1.32687885499431472e-05
+Nfcn  = 14
+syst	  = 0.0789165	 +/-  0.0110491	(limited)
+At r = 0.007812:	delta(nll) = 1.49825
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.24749377531233607
+Edm   = 1.29450198390435749e-07
+Nfcn  = 18
+syst	  = 0.0964236	 +/-  0.0112883	(limited)
+At r = 0.011719:	delta(nll) = 2.24214
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.278169851825375403
+Edm   = 6.19635201319136065e-08
+Nfcn  = 14
+syst	  = 0.088148	 +/-  0.0115711	(limited)
+At r = 0.009766:	delta(nll) = 1.87051
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0730119290376143731
+Edm   = 2.58819862463317665e-07
+Nfcn  = 18
+syst	  = 0.0923847	 +/-  0.010751	(limited)
+At r = 0.010742:	delta(nll) = 2.05640
+Median for expected limits: 0.0102539
+Sigma  for expected limits: 0.00523168
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -3.24843644892066852
+Edm   = 4.02317107699259361e-08
+Nfcn  = 16
+syst	  = 0.0641396	 +/-  0.0111274	(limited)
+At r = 0.005127:	delta(nll) = 0.98514
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.42043915527473907
+Edm   = 2.0040195984161917e-07
+Nfcn  = 18
+syst	  = 0.045501	 +/-  0.0109832	(limited)
+At r = 0.002563:	delta(nll) = 0.49374
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.42017913932807005
+Edm   = 2.36668804345971729e-05
+Nfcn  = 13
+syst	  = 0.0555537	 +/-  0.0108256	(limited)
+At r = 0.003845:	delta(nll) = 0.73969
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0914387600475998485
+Edm   = 4.52965886292624246e-06
+Nfcn  = 13
+syst	  = 0.0508569	 +/-  0.0124958	(limited)
+At r = 0.003204:	delta(nll) = 0.61677
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.91473689366195909
+Edm   = 1.31149135784568838e-09
+Nfcn  = 18
+syst	  = 0.0724998	 +/-  0.0111069	(limited)
+At r = 0.006569:	delta(nll) = 1.26083
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.483716830792864205
+Edm   = 1.18990528512642204e-06
+Nfcn  = 15
+syst	  = 0.0615904	 +/-  0.0113237	(limited)
+At r = 0.004726:	delta(nll) = 0.90847
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.132441731158432052
+Edm   = 1.26510859656072736e-07
+Nfcn  = 16
+syst	  = 0.067283	 +/-  0.0105696	(limited)
+At r = 0.005648:	delta(nll) = 1.08474
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -7.62591506942145347
+Edm   = 1.06775102207914758e-09
+Nfcn  = 18
+syst	  = 0.110559	 +/-  0.0112182	(limited)
+At r = 0.015486:	delta(nll) = 2.95721
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.31236645383774797
+Edm   = 1.30551329178466611e-09
+Nfcn  = 18
+syst	  = 0.119337	 +/-  0.0116544	(limited)
+At r = 0.018101:	delta(nll) = 3.45263
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0694346717738635044
+Edm   = 2.89842333098737148e-07
+Nfcn  = 16
+syst	  = 0.123477	 +/-  0.0113034	(limited)
+At r = 0.019409:	delta(nll) = 3.70002
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0164596063171724011
+Edm   = 6.01288747274309855e-06
+Nfcn  = 13
+syst	  = 0.125459	 +/-  0.0123786	(limited)
+At r = 0.020063:	delta(nll) = 3.82364
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.970941148573469026
+Edm   = 1.11838196975132203e-08
+Nfcn  = 18
+syst	  = 0.140952	 +/-  0.0114786	(limited)
+At r = 0.025458:	delta(nll) = 4.84158
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.2269120270136398
+Edm   = 2.12394658630916164e-07
+Nfcn  = 16
+syst	  = 0.148444	 +/-  0.0121732	(limited)
+At r = 0.028320:	delta(nll) = 5.38013
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0523144566563290975
+Edm   = 2.17714780598903841e-07
+Nfcn  = 18
+syst	  = 0.152045	 +/-  0.0103018	(limited)
+At r = 0.029750:	delta(nll) = 5.64909
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0125424804460027191
+Edm   = 1.36351924823509291e-05
+Nfcn  = 13
+syst	  = 0.153751	 +/-  0.0110132	(limited)
+At r = 0.030465:	delta(nll) = 5.78351
+
+ -- AsymptoticLimits ( CLs ) --
+Expected  2.5%: r < 0.0029
+Expected 16.0%: r < 0.0052
+Expected 50.0%: r < 0.0103
+Expected 84.0%: r < 0.0197
+Expected 97.5%: r < 0.0308
+
+Done in 0.00 min (cpu), 0.00 min (real)
+Printing Message Summary From ... combine_logger.out
+----------------------------------------------
+Messages of type INFO : 149
+Messages of type DEBUG : 0
+Messages of type ERROR : 0
+----------------------------------------------
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 23 -- Parameters after fit for asimov dataset
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_channel = 3 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_th1x = 5.5 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ONE = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin1_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin2_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin3_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin4_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- r = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst_In = 0 (constant)
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin3_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin4_obsOnly: in 6 x-bins
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: runLimitExpected) AsymptoticLimits.cc: 436 -- Median for expected limits = 0.0102539 (Sigma for expected limits = 0.00523168)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+----- 1000 -----
+
+>>> random number generator seed is 123456
+Will use a-priori expected background instead of a-posteriori one.
+>>> method used is AsymptoticLimits
+[#1] INFO:ObjectHandling -- RooWorkspace::import(w) importing RooUniform::prior
+Saving snapshot 'clean'
+Saved snapshot 'clean'
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin3_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin4_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin5_obsOnly: in 6 x-bins 
+SimNLL created with 5 channels, 0 generic constraints, 31 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+Minuit2Minimizer: Minimize with max-calls 1000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -622.083281431687851
+Edm   = 4.97178917192344822e-05
+Nfcn  = 62
+r	  = 1.98933e-07	 +/-  0.00206751	(limited)
+syst	  = 0.000411056	 +/-  0.0411994	(limited)
+Fit to asimov dataset:
+
+  RooFitResult: minimized FCN value: -622.083, estimated distance to minimum: 4.97179e-05
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MINIMIZE=0 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+                   ONE    1.0000e+00
+  n_exp_binbin1_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin2_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin3_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin4_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin5_proc_TTToSemiLeptonic    1.0000e+00
+     prop_binbin1_bin0    4.2775e-04
+  prop_binbin1_bin0_In    0.0000e+00
+     prop_binbin1_bin1    2.6956e-04
+  prop_binbin1_bin1_In    0.0000e+00
+     prop_binbin1_bin2    9.4765e-05
+  prop_binbin1_bin2_In    0.0000e+00
+     prop_binbin1_bin3    1.3214e-04
+  prop_binbin1_bin3_In    0.0000e+00
+     prop_binbin1_bin4    2.4475e-04
+  prop_binbin1_bin4_In    0.0000e+00
+     prop_binbin1_bin5    2.0948e-03
+  prop_binbin1_bin5_In    0.0000e+00
+     prop_binbin2_bin0    3.9620e-05
+  prop_binbin2_bin0_In    0.0000e+00
+     prop_binbin2_bin1    3.0949e-04
+  prop_binbin2_bin1_In    0.0000e+00
+     prop_binbin2_bin2    2.6466e-04
+  prop_binbin2_bin2_In    0.0000e+00
+     prop_binbin2_bin3    2.5198e-04
+  prop_binbin2_bin3_In    0.0000e+00
+     prop_binbin2_bin4    2.7054e-04
+  prop_binbin2_bin4_In    0.0000e+00
+     prop_binbin2_bin5   -4.0696e-04
+  prop_binbin2_bin5_In    0.0000e+00
+     prop_binbin3_bin0   -2.7855e-04
+  prop_binbin3_bin0_In    0.0000e+00
+     prop_binbin3_bin1    2.1864e-04
+  prop_binbin3_bin1_In    0.0000e+00
+     prop_binbin3_bin2    3.0307e-04
+  prop_binbin3_bin2_In    0.0000e+00
+     prop_binbin3_bin3    3.7462e-04
+  prop_binbin3_bin3_In    0.0000e+00
+     prop_binbin3_bin4    1.4599e-04
+  prop_binbin3_bin4_In    0.0000e+00
+     prop_binbin3_bin5   -7.5277e-04
+  prop_binbin3_bin5_In    0.0000e+00
+     prop_binbin4_bin0   -3.5725e-04
+  prop_binbin4_bin0_In    0.0000e+00
+     prop_binbin4_bin1    2.1100e-04
+  prop_binbin4_bin1_In    0.0000e+00
+     prop_binbin4_bin2    3.9653e-04
+  prop_binbin4_bin2_In    0.0000e+00
+     prop_binbin4_bin3    3.7321e-04
+  prop_binbin4_bin3_In    0.0000e+00
+     prop_binbin4_bin4    2.1487e-04
+  prop_binbin4_bin4_In    0.0000e+00
+     prop_binbin4_bin5   -1.4122e-03
+  prop_binbin4_bin5_In    0.0000e+00
+     prop_binbin5_bin0   -5.8377e-04
+  prop_binbin5_bin0_In    0.0000e+00
+     prop_binbin5_bin1    2.2204e-05
+  prop_binbin5_bin1_In    0.0000e+00
+     prop_binbin5_bin2    1.2543e-04
+  prop_binbin5_bin2_In    0.0000e+00
+     prop_binbin5_bin3    1.7669e-04
+  prop_binbin5_bin3_In    0.0000e+00
+     prop_binbin5_bin4   -6.4563e-05
+  prop_binbin5_bin4_In    0.0000e+00
+     prop_binbin5_bin5   -1.4277e-03
+  prop_binbin5_bin5_In    0.0000e+00
+               syst_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue +/-  Error     GblCorr.
+  --------------------  ------------  --------------------------  --------
+                     r    2.0000e-01    1.9893e-07 +/-  2.07e-03  <none>
+                  syst    0.0000e+00    4.1106e-04 +/-  4.12e-02  <none>
+
+Will search for NLL crossing by stepping.
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2249.36341564386385
+Edm   = 3.86729438217727158e-09
+Nfcn  = 20
+syst	  = 0.707602	 +/-  0.0105338	(limited)
+At r = 1.000000:	delta(nll) = 222.88502
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -129.220272933153524
+Edm   = 1.57910146752978224e-06
+Nfcn  = 16
+syst	  = 0.537661	 +/-  0.0105772	(limited)
+At r = 0.500000:	delta(nll) = 113.70785
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -85.3675803024108717
+Edm   = 2.63612889598442621e-09
+Nfcn  = 18
+syst	  = 0.398853	 +/-  0.0106573	(limited)
+At r = 0.250000:	delta(nll) = 57.76554
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -50.8804943582599236
+Edm   = 7.59220242082032437e-08
+Nfcn  = 16
+syst	  = 0.290963	 +/-  0.0107155	(limited)
+At r = 0.125000:	delta(nll) = 29.23372
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -28.5638091312235076
+Edm   = 3.9919717786547143e-07
+Nfcn  = 16
+syst	  = 0.209898	 +/-  0.0106972	(limited)
+At r = 0.062500:	delta(nll) = 14.74789
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -15.4337764468449095
+Edm   = 1.8789011265470065e-07
+Nfcn  = 16
+syst	  = 0.150402	 +/-  0.0107256	(limited)
+At r = 0.031250:	delta(nll) = 7.42193
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -8.14504617322328173
+Edm   = 5.36965590221052796e-08
+Nfcn  = 16
+syst	  = 0.107295	 +/-  0.010634	(limited)
+At r = 0.015625:	delta(nll) = 3.72831
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -4.22531045379843384
+Edm   = 1.03297087311577165e-07
+Nfcn  = 16
+syst	  = 0.0763336	 +/-  0.0106034	(limited)
+At r = 0.007812:	delta(nll) = 1.87036
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.25275317554205268
+Edm   = 1.23977690529780635e-06
+Nfcn  = 14
+syst	  = 0.093161	 +/-  0.0110123	(limited)
+At r = 0.011719:	delta(nll) = 2.80048
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.280071225553294001
+Edm   = 5.7992787312994445e-06
+Nfcn  = 13
+syst	  = 0.085156	 +/-  0.0103156	(limited)
+At r = 0.009766:	delta(nll) = 2.33574
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0804062099775719741
+Edm   = 2.93260680455529604e-05
+Nfcn  = 13
+syst	  = 0.0808083	 +/-  0.0111584	(limited)
+At r = 0.008789:	delta(nll) = 2.10316
+Median for expected limits: 0.00830078
+Sigma  for expected limits: 0.00423517
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.75516545980518313
+Edm   = 4.22302953329576597e-08
+Nfcn  = 16
+syst	  = 0.0558478	 +/-  0.0102967	(limited)
+At r = 0.004150:	delta(nll) = 0.99578
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.17020251340982684
+Edm   = 7.49596896521678545e-07
+Nfcn  = 14
+syst	  = 0.0395998	 +/-  0.010637	(limited)
+At r = 0.002075:	delta(nll) = 0.49871
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.347014761488797119
+Edm   = 1.66286387776827033e-05
+Nfcn  = 13
+syst	  = 0.0483754	 +/-  0.0104256	(limited)
+At r = 0.003113:	delta(nll) = 0.74742
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0755905141304607925
+Edm   = 2.50255062208755981e-07
+Nfcn  = 18
+syst	  = 0.0442502	 +/-  0.0110549	(limited)
+At r = 0.002594:	delta(nll) = 0.62310
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.58236472326102362
+Edm   = 4.44181923412211504e-05
+Nfcn  = 13
+syst	  = 0.0632264	 +/-  0.0111696	(limited)
+At r = 0.005318:	delta(nll) = 1.27491
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.40669593467285875
+Edm   = 2.38210933038561079e-07
+Nfcn  = 18
+syst	  = 0.053648	 +/-  0.0106974	(limited)
+At r = 0.003826:	delta(nll) = 0.91819
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.10825001701000031
+Edm   = 4.46755002197587495e-08
+Nfcn  = 18
+syst	  = 0.0585886	 +/-  0.0115063	(limited)
+At r = 0.004572:	delta(nll) = 1.09660
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -6.29385135777266402
+Edm   = 3.27941944978661359e-07
+Nfcn  = 16
+syst	  = 0.0963209	 +/-  0.0106506	(limited)
+At r = 0.012536:	delta(nll) = 2.99477
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.257789036676733641
+Edm   = 1.77288895038228192e-05
+Nfcn  = 13
+syst	  = 0.104036	 +/-  0.0103624	(limited)
+At r = 0.014654:	delta(nll) = 3.49778
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0554233866790229956
+Edm   = 1.395971797180799e-07
+Nfcn  = 18
+syst	  = 0.107585	 +/-  0.0124979	(limited)
+At r = 0.015712:	delta(nll) = 3.74903
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0140883937229568362
+Edm   = 1.10024914721566686e-05
+Nfcn  = 13
+syst	  = 0.105846	 +/-  0.0102181	(limited)
+At r = 0.015183:	delta(nll) = 3.62343
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.1562982097295329
+Edm   = 5.77022150206784173e-07
+Nfcn  = 14
+syst	  = 0.122053	 +/-  0.0107716	(limited)
+At r = 0.020345:	delta(nll) = 4.84672
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.212839933002128973
+Edm   = 1.41126361147033979e-06
+Nfcn  = 13
+syst	  = 0.129037	 +/-  0.00943604	(limited)
+At r = 0.022793:	delta(nll) = 5.42594
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.047998480561664246
+Edm   = 1.39956262949925253e-11
+Nfcn  = 16
+syst	  = 0.132345	 +/-  0.0105366	(limited)
+At r = 0.024017:	delta(nll) = 5.71531
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0116641890605300724
+Edm   = 6.64634326828250454e-09
+Nfcn  = 15
+syst	  = 0.133967	 +/-  0.00937442	(limited)
+At r = 0.024629:	delta(nll) = 5.85994
 
  -- AsymptoticLimits ( CLs ) --
 Expected  2.5%: r < 0.0023
-Expected 16.0%: r < 0.0039
-Expected 50.0%: r < 0.0073
-Expected 84.0%: r < 0.0143
-Expected 97.5%: r < 0.0218
+Expected 16.0%: r < 0.0042
+Expected 50.0%: r < 0.0083
+Expected 84.0%: r < 0.0154
+Expected 97.5%: r < 0.0249
 
-Done in 0.00 min (cpu), 0.01 min (real)
------ 620 -----
- <<< Combine >>> 
->>> random number generator seed is 123456
-Will use a-priori expected background instead of a-posteriori one.
->>> method used is AsymptoticLimits
-SimNLL created with 3 channels, 0 generic constraints, 4 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
-
- -- AsymptoticLimits ( CLs ) --
-Expected  2.5%: r < 0.0013
-Expected 16.0%: r < 0.0021
-Expected 50.0%: r < 0.0034
-Expected 84.0%: r < 0.0065
-Expected 97.5%: r < 0.0099
-
-Done in 0.00 min (cpu), 0.01 min (real)
------ 800 -----
- <<< Combine >>> 
->>> random number generator seed is 123456
-Will use a-priori expected background instead of a-posteriori one.
->>> method used is AsymptoticLimits
-SimNLL created with 4 channels, 0 generic constraints, 4 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
-
- -- AsymptoticLimits ( CLs ) --
-Expected  2.5%: r < 0.0009
-Expected 16.0%: r < 0.0013
-Expected 50.0%: r < 0.0024
-Expected 84.0%: r < 0.0046
-Expected 97.5%: r < 0.0071
-
-Done in 0.00 min (cpu), 0.01 min (real)
------ 1000 -----
- <<< Combine >>> 
->>> random number generator seed is 123456
-Will use a-priori expected background instead of a-posteriori one.
->>> method used is AsymptoticLimits
-SimNLL created with 5 channels, 0 generic constraints, 4 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
-
- -- AsymptoticLimits ( CLs ) --
-Expected  2.5%: r < 0.0009
-Expected 16.0%: r < 0.0013
-Expected 50.0%: r < 0.0024
-Expected 84.0%: r < 0.0046
-Expected 97.5%: r < 0.0071
-
-Done in 0.00 min (cpu), 0.01 min (real)
+Done in 0.00 min (cpu), 0.00 min (real)
+Printing Message Summary From ... combine_logger.out
+----------------------------------------------
+Messages of type INFO : 164
+Messages of type DEBUG : 0
+Messages of type ERROR : 0
+----------------------------------------------
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 23 -- Parameters after fit for asimov dataset
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_channel = 4 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_th1x = 5.5 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ONE = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin1_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin2_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin3_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin4_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin5_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- r = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst_In = 0 (constant)
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin3_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin4_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin5_obsOnly: in 6 x-bins
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: runLimitExpected) AsymptoticLimits.cc: 436 -- Median for expected limits = 0.00830078 (Sigma for expected limits = 0.00423517)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
 ----- 3500 -----
- <<< Combine >>> 
+
 >>> random number generator seed is 123456
 Will use a-priori expected background instead of a-posteriori one.
 >>> method used is AsymptoticLimits
-SimNLL created with 6 channels, 0 generic constraints, 4 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+[#1] INFO:ObjectHandling -- RooWorkspace::import(w) importing RooUniform::prior
+Saving snapshot 'clean'
+Saved snapshot 'clean'
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin3_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin4_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin5_obsOnly: in 6 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binbin6_obsOnly: in 6 x-bins 
+SimNLL created with 6 channels, 0 generic constraints, 37 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+Minuit2Minimizer: Minimize with max-calls 1000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -627.663311755277732
+Edm   = 2.89331755392966256e-05
+Nfcn  = 72
+r	  = 9.33921e-08	 +/-  0.0016903	(limited)
+syst	  = 0.000270292	 +/-  0.0363643	(limited)
+Fit to asimov dataset:
+
+  RooFitResult: minimized FCN value: -627.663, estimated distance to minimum: 2.89332e-05
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MINIMIZE=0 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+                   ONE    1.0000e+00
+  n_exp_binbin1_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin2_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin3_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin4_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin5_proc_TTToSemiLeptonic    1.0000e+00
+  n_exp_binbin6_proc_TTToSemiLeptonic    1.0000e+00
+     prop_binbin1_bin0   -5.8964e-04
+  prop_binbin1_bin0_In    0.0000e+00
+     prop_binbin1_bin1   -2.2671e-04
+  prop_binbin1_bin1_In    0.0000e+00
+     prop_binbin1_bin2   -1.7607e-04
+  prop_binbin1_bin2_In    0.0000e+00
+     prop_binbin1_bin3   -1.4526e-04
+  prop_binbin1_bin3_In    0.0000e+00
+     prop_binbin1_bin4   -2.3217e-04
+  prop_binbin1_bin4_In    0.0000e+00
+     prop_binbin1_bin5   -2.9527e-03
+  prop_binbin1_bin5_In    0.0000e+00
+     prop_binbin2_bin0   -9.0843e-04
+  prop_binbin2_bin0_In    0.0000e+00
+     prop_binbin2_bin1   -5.7895e-04
+  prop_binbin2_bin1_In    0.0000e+00
+     prop_binbin2_bin2   -3.8997e-04
+  prop_binbin2_bin2_In    0.0000e+00
+     prop_binbin2_bin3   -3.9791e-04
+  prop_binbin2_bin3_In    0.0000e+00
+     prop_binbin2_bin4   -5.9942e-04
+  prop_binbin2_bin4_In    0.0000e+00
+     prop_binbin2_bin5   -4.2089e-03
+  prop_binbin2_bin5_In    0.0000e+00
+     prop_binbin3_bin0   -8.0880e-04
+  prop_binbin3_bin0_In    0.0000e+00
+     prop_binbin3_bin1   -5.5565e-04
+  prop_binbin3_bin1_In    0.0000e+00
+     prop_binbin3_bin2   -3.8170e-04
+  prop_binbin3_bin2_In    0.0000e+00
+     prop_binbin3_bin3   -3.2904e-04
+  prop_binbin3_bin3_In    0.0000e+00
+     prop_binbin3_bin4   -6.0085e-04
+  prop_binbin3_bin4_In    0.0000e+00
+     prop_binbin3_bin5   -3.0766e-03
+  prop_binbin3_bin5_In    0.0000e+00
+     prop_binbin4_bin0   -9.3633e-04
+  prop_binbin4_bin0_In    0.0000e+00
+     prop_binbin4_bin1   -7.1334e-04
+  prop_binbin4_bin1_In    0.0000e+00
+     prop_binbin4_bin2   -4.6384e-04
+  prop_binbin4_bin2_In    0.0000e+00
+     prop_binbin4_bin3   -4.7701e-04
+  prop_binbin4_bin3_In    0.0000e+00
+     prop_binbin4_bin4   -7.1208e-04
+  prop_binbin4_bin4_In    0.0000e+00
+     prop_binbin4_bin5   -3.0634e-03
+  prop_binbin4_bin5_In    0.0000e+00
+     prop_binbin5_bin0   -8.7337e-04
+  prop_binbin5_bin0_In    0.0000e+00
+     prop_binbin5_bin1   -5.4318e-04
+  prop_binbin5_bin1_In    0.0000e+00
+     prop_binbin5_bin2   -3.7450e-04
+  prop_binbin5_bin2_In    0.0000e+00
+     prop_binbin5_bin3   -3.3775e-04
+  prop_binbin5_bin3_In    0.0000e+00
+     prop_binbin5_bin4   -5.9920e-04
+  prop_binbin5_bin4_In    0.0000e+00
+     prop_binbin5_bin5   -2.1832e-03
+  prop_binbin5_bin5_In    0.0000e+00
+     prop_binbin6_bin0   -1.0914e-03
+  prop_binbin6_bin0_In    0.0000e+00
+     prop_binbin6_bin1   -5.3677e-04
+  prop_binbin6_bin1_In    0.0000e+00
+     prop_binbin6_bin2   -3.5100e-04
+  prop_binbin6_bin2_In    0.0000e+00
+     prop_binbin6_bin3   -3.5151e-04
+  prop_binbin6_bin3_In    0.0000e+00
+     prop_binbin6_bin4   -5.2356e-04
+  prop_binbin6_bin4_In    0.0000e+00
+     prop_binbin6_bin5   -2.0478e-03
+  prop_binbin6_bin5_In    0.0000e+00
+               syst_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue +/-  Error     GblCorr.
+  --------------------  ------------  --------------------------  --------
+                     r    2.0000e-01    9.3392e-08 +/-  1.69e-03  <none>
+                  syst    0.0000e+00    2.7029e-04 +/-  3.64e-02  <none>
+
+Will search for NLL crossing by stepping.
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2189.77906397849711
+Edm   = 2.54962502100343187e-09
+Nfcn  = 22
+syst	  = 0.677465	 +/-  0.0102257	(limited)
+At r = 1.000000:	delta(nll) = 295.40364
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -122.562450170847626
+Edm   = 7.81022974026662742e-06
+Nfcn  = 16
+syst	  = 0.516862	 +/-  0.0102683	(limited)
+At r = 0.500000:	delta(nll) = 147.11197
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -82.5837299266124205
+Edm   = 1.77850298339866746e-07
+Nfcn  = 16
+syst	  = 0.384348	 +/-  0.0103415	(limited)
+At r = 0.250000:	delta(nll) = 73.59556
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -49.7573317717366592
+Edm   = 1.03328461316220258e-08
+Nfcn  = 18
+syst	  = 0.280796	 +/-  0.0103922	(limited)
+At r = 0.125000:	delta(nll) = 36.88284
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -28.1176851572966022
+Edm   = 5.11335778606586168e-10
+Nfcn  = 19
+syst	  = 0.202792	 +/-  0.0103884	(limited)
+At r = 0.062500:	delta(nll) = 18.49022
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -15.266262628263469
+Edm   = 1.70246937811011671e-06
+Nfcn  = 16
+syst	  = 0.145425	 +/-  0.0103537	(limited)
+At r = 0.031250:	delta(nll) = 9.26656
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -8.08172648201550281
+Edm   = 5.05964120836271568e-08
+Nfcn  = 18
+syst	  = 0.10379	 +/-  0.0103812	(limited)
+At r = 0.015625:	delta(nll) = 4.64137
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -4.19748227086893699
+Edm   = 8.21826724332644525e-06
+Nfcn  = 14
+syst	  = 0.0738228	 +/-  0.0103976	(limited)
+At r = 0.007812:	delta(nll) = 2.32316
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.14762792791701207
+Edm   = 1.54861161101229125e-09
+Nfcn  = 18
+syst	  = 0.0524666	 +/-  0.0102739	(limited)
+At r = 0.003906:	delta(nll) = 1.16183
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.15734807032448606
+Edm   = 2.88202967046214014e-08
+Nfcn  = 16
+syst	  = 0.0738616	 +/-  0.0104192	(limited)
+At r = 0.007812:	delta(nll) = 2.32315
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.448272959492043432
+Edm   = 1.13468148839160418e-06
+Nfcn  = 13
+syst	  = 0.0640841	 +/-  0.00996115	(limited)
+At r = 0.005859:	delta(nll) = 1.74273
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.121385284337666502
+Edm   = 3.1612111972431362e-08
+Nfcn  = 16
+syst	  = 0.0691608	 +/-  0.0114222	(limited)
+At r = 0.006836:	delta(nll) = 2.03299
+Median for expected limits: 0.00634766
+Sigma  for expected limits: 0.00323866
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.24331187020919565
+Edm   = 1.81346286036184625e-08
+Nfcn  = 18
+syst	  = 0.0473398	 +/-  0.0101717	(limited)
+At r = 0.003174:	delta(nll) = 0.94385
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.896433133207289679
+Edm   = 5.41903021471337666e-08
+Nfcn  = 18
+syst	  = 0.0335698	 +/-  0.010457	(limited)
+At r = 0.001587:	delta(nll) = 0.47122
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.264838308484861173
+Edm   = 2.46940719285533424e-08
+Nfcn  = 16
+syst	  = 0.0410483	 +/-  0.0105116	(limited)
+At r = 0.002380:	delta(nll) = 0.70760
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.81199762349984439
+Edm   = 6.79243113485836396e-07
+Nfcn  = 16
+syst	  = 0.0541482	 +/-  0.0104447	(limited)
+At r = 0.004166:	delta(nll) = 1.23901
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.26875485534168303
+Edm   = 2.73121030535482295e-07
+Nfcn  = 16
+syst	  = 0.0465985	 +/-  0.00935983	(limited)
+At r = 0.003075:	delta(nll) = 0.91433
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0728308475397303201
+Edm   = 2.54086885367590426e-05
+Nfcn  = 13
+syst	  = 0.0506025	 +/-  0.00987158	(limited)
+At r = 0.003620:	delta(nll) = 1.07672
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -4.55087206058771443
+Edm   = 1.65097021327817803e-05
+Nfcn  = 14
+syst	  = 0.0816252	 +/-  0.01032	(limited)
+At r = 0.009586:	delta(nll) = 2.84996
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.202380887257103764
+Edm   = 9.17150785486685854e-08
+Nfcn  = 18
+syst	  = 0.0881914	 +/-  0.00937544	(limited)
+At r = 0.011206:	delta(nll) = 3.33062
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.044211494728234664
+Edm   = 1.4010429083825291e-07
+Nfcn  = 16
+syst	  = 0.0912613	 +/-  0.0112105	(limited)
+At r = 0.012015:	delta(nll) = 3.57087
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.827497245831343875
+Edm   = 2.91542758603254563e-07
+Nfcn  = 14
+syst	  = 0.104544	 +/-  0.00997903	(limited)
+At r = 0.015861:	delta(nll) = 4.71140
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.136479493722951872
+Edm   = 6.86204990094431504e-09
+Nfcn  = 18
+syst	  = 0.109946	 +/-  0.00995671	(limited)
+At r = 0.017582:	delta(nll) = 5.22131
+Minuit2Minimizer: Minimize with max-calls 500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0314172901087649836
+Edm   = 2.07442360834948926e-06
+Nfcn  = 13
+syst	  = 0.112558	 +/-  0.0112519	(limited)
+At r = 0.018442:	delta(nll) = 5.47620
 
  -- AsymptoticLimits ( CLs ) --
-Expected  2.5%: r < 0.0003
-Expected 16.0%: r < 0.0011
-Expected 50.0%: r < 0.0024
-Expected 84.0%: r < 0.0040
-Expected 97.5%: r < 0.0070
+Expected  2.5%: r < 0.0020
+Expected 16.0%: r < 0.0033
+Expected 50.0%: r < 0.0063
+Expected 84.0%: r < 0.0124
+Expected 97.5%: r < 0.0189
 
-Done in 0.00 min (cpu), 0.02 min (real)
+Done in 0.00 min (cpu), 0.00 min (real)
+Printing Message Summary From ... combine_logger.out
+----------------------------------------------
+Messages of type INFO : 173
+Messages of type DEBUG : 0
+Messages of type ERROR : 0
+----------------------------------------------
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 23 -- Parameters after fit for asimov dataset
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_channel = 5 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_th1x = 5.5 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ONE = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin1_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin2_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin3_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin4_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin5_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- n_exp_binbin6_proc_TTToSemiLeptonic = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin1_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin2_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin3_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin4_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin5_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin3 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin3_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin4 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin4_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin5 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binbin6_bin5_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- r = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- syst_In = 0 (constant)
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin3_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin4_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin5_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin6_obsOnly: in 6 x-bins
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: runLimitExpected) AsymptoticLimits.cc: 436 -- Median for expected limits = 0.00634766 (Sigma for expected limits = 0.00323866)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0

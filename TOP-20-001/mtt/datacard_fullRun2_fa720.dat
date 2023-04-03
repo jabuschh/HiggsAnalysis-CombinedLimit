@@ -1,0 +1,22 @@
+# PARAMETERS
+imax 1 number of vars
+jmax 2 number of processes -1
+kmax *
+shapes * * inputHistograms_fullRun2_fa720.root $CHANNEL_$PROCESS $CHANNEL_$PROCESS_$SYSTEMATIC
+---------------------------------
+# vars
+bin          mtt  
+observation  -1   
+---------------------------------
+# PROCESSES
+bin                                mtt                     mtt                     mtt                     
+process                            ALP_ttbar_signal        ALP_ttbar_interference  TTToSemiLeptonic        
+process                            -1                      0                       1                       
+rate                               -1                      -1                      -1                      
+---------------------------------
+# SYSTEMATICS
+lumi_13TeV_fullRun2        lnN     1.016                   1.016                   1.016                   
+datasyst                   shape   -                       -                       1.0                     
+mcscale                    shape   -                       -                       1.0                     
+---------------------------------
+* autoMCStats 10000000000000 0 1

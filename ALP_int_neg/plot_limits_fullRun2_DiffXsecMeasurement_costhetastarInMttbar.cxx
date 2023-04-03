@@ -77,6 +77,7 @@
   gPad->SetRightMargin(0.05);
   gPad->SetLogy();
   gPad->SetTicks();
+  c1->SetGrid();
 
   auto multigraph = new TMultiGraph();
   multigraph->Draw("AL");
@@ -88,7 +89,7 @@
   gr_exp_mttbar->SetLineWidth(2);
   gr_exp_mttbar->SetMarkerStyle(8);
   gr_exp_mttbar->SetMarkerColor(kRed);
-  // multigraph->Add(gr_exp_mttbar, "same lp");
+  multigraph->Add(gr_exp_mttbar, "same lp");
   //
   // auto gr_exp_costhetastar = new TGraph(fa_costhetastar.size(), &(fa_costhetastar[0]), &(v_costhetastar.at(2)[0]));
   // gr_exp_costhetastar->SetLineColor(kBlue);
@@ -177,7 +178,7 @@
   theo_line = new TLine (x_axis_lowerLimit,1.0,x_axis_upperLimit,1.0);
   theo_line->SetLineColor(kRed);
   theo_line->SetLineWidth(2);
-  theo_line->Draw();
+  // theo_line->Draw();
 
 
   plot_CMSTag();
@@ -197,7 +198,7 @@
   legend->SetBorderSize(0);
   legend->SetFillStyle(0);
   // legend->SetHeader("expected limits (full Run2, no systematics)");
-  // legend->AddEntry(gr_exp_mttbar, "CMS-TOP-20-001: m(t#bar{t}) only","l");
+  legend->AddEntry(gr_exp_mttbar, "CMS-TOP-20-001: m(t#bar{t}) only","l");
   // legend->AddEntry(gr_exp_costhetastar, "CMS-TOP-20-001: cos(#theta*) only","l");
   // legend->AddEntry(gr_exp_costhetastarInMttbar, "CMS-TOP-20-001: cos(#theta*) in bins of m(t#bar{t})","l");
   // legend->AddEntry(gr_exp_mttbarInCosthetastar, "our search: m_{t#bar{t}} in 4 cos(#theta*) bins (after DNN)","l");

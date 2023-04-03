@@ -1,0 +1,770 @@
+
+>>> random number generator seed is 123456
+>>> method used is AsymptoticLimits
+Nuisance parameters after fit for asimov dataset: 
+  1) RooRealVar::            datasyst = -3.13975 +/- 0.679779
+  2) RooRealVar::                 fsr = -0.0242171 +/- 0.966922
+  3) RooRealVar::                 isr = -0.0131382 +/- 1.01402
+  4) RooRealVar:: lumi_13TeV_fullRun2 = -4.32401 +/- 0.87766
+  5) RooRealVar::             mcscale = 0.840843 +/- 0.175174
+  6) RooRealVar::                 pdf = -0.244388 +/- 0.975723
+  7) RooRealVar::                  pu = 0.0636672 +/- 0.93561
+  8) RooRealVar::   prop_binbin1_bin0 = 3.06093 +/- 1
+  9) RooRealVar::   prop_binbin1_bin1 = 0.95276 +/- 1
+ 10) RooRealVar::   prop_binbin1_bin2 = 0.749597 +/- 1
+ 11) RooRealVar::   prop_binbin1_bin3 = 0.253357 +/- 1
+ 12) RooRealVar::   prop_binbin1_bin4 = 2.08341 +/- 1
+ 13) RooRealVar::   prop_binbin1_bin5 = 0.272596 +/- 1
+ 14) RooRealVar::   prop_binbin2_bin0 = -1.36638 +/- 1
+ 15) RooRealVar::   prop_binbin2_bin1 = -1.69962 +/- 1
+ 16) RooRealVar::   prop_binbin2_bin2 = -1.61849 +/- 1
+ 17) RooRealVar::   prop_binbin2_bin3 = 0.837394 +/- 1
+ 18) RooRealVar::   prop_binbin2_bin4 = -2.78871 +/- 1
+ 19) RooRealVar::   prop_binbin2_bin5 = 1.54247 +/- 1
+ 20) RooRealVar::   prop_binbin3_bin0 = 1.34766 +/- 1
+ 21) RooRealVar::   prop_binbin3_bin1 = -1.52597 +/- 1
+ 22) RooRealVar::   prop_binbin3_bin2 = 1.06591 +/- 1
+ 23) RooRealVar::   prop_binbin3_bin3 = -4.8605 +/- 1
+ 24) RooRealVar::   prop_binbin3_bin4 = 2.4703 +/- 1
+ 25) RooRealVar::   prop_binbin3_bin5 = -1.18198 +/- 1
+ 26) RooRealVar::   prop_binbin4_bin0 = -0.537654 +/- 1
+ 27) RooRealVar::   prop_binbin4_bin1 = -2.01407 +/- 1
+ 28) RooRealVar::   prop_binbin4_bin2 = -2.37376 +/- 1
+ 29) RooRealVar::   prop_binbin4_bin3 = -1.30149 +/- 1
+ 30) RooRealVar::   prop_binbin4_bin4 = -3.66186 +/- 1
+ 31) RooRealVar::   prop_binbin4_bin5 = 3.00861 +/- 1
+ 32) RooRealVar::   prop_binbin5_bin0 = 3.30411 +/- 1
+ 33) RooRealVar::   prop_binbin5_bin1 = -2.76485 +/- 1
+ 34) RooRealVar::   prop_binbin5_bin2 = 0.121499 +/- 1
+ 35) RooRealVar::   prop_binbin5_bin3 = -2.62344 +/- 1
+ 36) RooRealVar::   prop_binbin5_bin4 = 2.18531 +/- 1
+ 37) RooRealVar::   prop_binbin5_bin5 = 0.00339773 +/- 1
+Global observables for data: 
+  1) RooRealVar::            datasyst_In = 0
+  2) RooRealVar::                 fsr_In = 0
+  3) RooRealVar::                 isr_In = 0
+  4) RooRealVar:: lumi_13TeV_fullRun2_In = 0
+  5) RooRealVar::             mcscale_In = 0
+  6) RooRealVar::                 pdf_In = 0
+  7) RooRealVar::                  pu_In = 0
+  8) RooRealVar::   prop_binbin1_bin0_In = 0
+  9) RooRealVar::   prop_binbin1_bin1_In = 0
+ 10) RooRealVar::   prop_binbin1_bin2_In = 0
+ 11) RooRealVar::   prop_binbin1_bin3_In = 0
+ 12) RooRealVar::   prop_binbin1_bin4_In = 0
+ 13) RooRealVar::   prop_binbin1_bin5_In = 0
+ 14) RooRealVar::   prop_binbin2_bin0_In = 0
+ 15) RooRealVar::   prop_binbin2_bin1_In = 0
+ 16) RooRealVar::   prop_binbin2_bin2_In = 0
+ 17) RooRealVar::   prop_binbin2_bin3_In = 0
+ 18) RooRealVar::   prop_binbin2_bin4_In = 0
+ 19) RooRealVar::   prop_binbin2_bin5_In = 0
+ 20) RooRealVar::   prop_binbin3_bin0_In = 0
+ 21) RooRealVar::   prop_binbin3_bin1_In = 0
+ 22) RooRealVar::   prop_binbin3_bin2_In = 0
+ 23) RooRealVar::   prop_binbin3_bin3_In = 0
+ 24) RooRealVar::   prop_binbin3_bin4_In = 0
+ 25) RooRealVar::   prop_binbin3_bin5_In = 0
+ 26) RooRealVar::   prop_binbin4_bin0_In = 0
+ 27) RooRealVar::   prop_binbin4_bin1_In = 0
+ 28) RooRealVar::   prop_binbin4_bin2_In = 0
+ 29) RooRealVar::   prop_binbin4_bin3_In = 0
+ 30) RooRealVar::   prop_binbin4_bin4_In = 0
+ 31) RooRealVar::   prop_binbin4_bin5_In = 0
+ 32) RooRealVar::   prop_binbin5_bin0_In = 0
+ 33) RooRealVar::   prop_binbin5_bin1_In = 0
+ 34) RooRealVar::   prop_binbin5_bin2_In = 0
+ 35) RooRealVar::   prop_binbin5_bin3_In = 0
+ 36) RooRealVar::   prop_binbin5_bin4_In = 0
+ 37) RooRealVar::   prop_binbin5_bin5_In = 0
+Global observables for asimov: 
+  1) RooRealVar::            datasyst_In = -3.13975
+  2) RooRealVar::                 fsr_In = -0.0242171
+  3) RooRealVar::                 isr_In = -0.0131382
+  4) RooRealVar:: lumi_13TeV_fullRun2_In = -4.32401
+  5) RooRealVar::             mcscale_In = 0.840843
+  6) RooRealVar::                 pdf_In = -0.244388
+  7) RooRealVar::                  pu_In = 0.0636672
+  8) RooRealVar::   prop_binbin1_bin0_In = 3.06093
+  9) RooRealVar::   prop_binbin1_bin1_In = 0.95276
+ 10) RooRealVar::   prop_binbin1_bin2_In = 0.749597
+ 11) RooRealVar::   prop_binbin1_bin3_In = 0.253357
+ 12) RooRealVar::   prop_binbin1_bin4_In = 2.08341
+ 13) RooRealVar::   prop_binbin1_bin5_In = 0.272596
+ 14) RooRealVar::   prop_binbin2_bin0_In = -1.36638
+ 15) RooRealVar::   prop_binbin2_bin1_In = -1.69962
+ 16) RooRealVar::   prop_binbin2_bin2_In = -1.61849
+ 17) RooRealVar::   prop_binbin2_bin3_In = 0.837394
+ 18) RooRealVar::   prop_binbin2_bin4_In = -2.78871
+ 19) RooRealVar::   prop_binbin2_bin5_In = 1.54247
+ 20) RooRealVar::   prop_binbin3_bin0_In = 1.34766
+ 21) RooRealVar::   prop_binbin3_bin1_In = -1.52597
+ 22) RooRealVar::   prop_binbin3_bin2_In = 1.06591
+ 23) RooRealVar::   prop_binbin3_bin3_In = -4.8605
+ 24) RooRealVar::   prop_binbin3_bin4_In = 2.4703
+ 25) RooRealVar::   prop_binbin3_bin5_In = -1.18198
+ 26) RooRealVar::   prop_binbin4_bin0_In = -0.537654
+ 27) RooRealVar::   prop_binbin4_bin1_In = -2.01407
+ 28) RooRealVar::   prop_binbin4_bin2_In = -2.37376
+ 29) RooRealVar::   prop_binbin4_bin3_In = -1.30149
+ 30) RooRealVar::   prop_binbin4_bin4_In = -3.66186
+ 31) RooRealVar::   prop_binbin4_bin5_In = 3.00861
+ 32) RooRealVar::   prop_binbin5_bin0_In = 3.30411
+ 33) RooRealVar::   prop_binbin5_bin1_In = -2.76485
+ 34) RooRealVar::   prop_binbin5_bin2_In = 0.121499
+ 35) RooRealVar::   prop_binbin5_bin3_In = -2.62344
+ 36) RooRealVar::   prop_binbin5_bin4_In = 2.18531
+ 37) RooRealVar::   prop_binbin5_bin5_In = 0.00339773
+SimNLL created with 5 channels, 0 generic constraints, 37 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+Fit to asimov dataset:
+
+  RooFitResult: minimized FCN value: -0.167517, estimated distance to minimum: 3.1762e-05
+                covariance matrix quality: Full matrix, but forced positive-definite
+                Status : MINIMIZE=1 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+                   ONE    1.0000e+00
+           datasyst_In   -3.1397e+00
+                fsr_In   -2.4217e-02
+                isr_In   -1.3138e-02
+  lumi_13TeV_fullRun2_In   -4.3240e+00
+            mcscale_In    8.4084e-01
+                pdf_In   -2.4439e-01
+     prop_binbin1_bin0    3.0632e+00
+  prop_binbin1_bin0_In    3.0609e+00
+     prop_binbin1_bin1    9.5432e-01
+  prop_binbin1_bin1_In    9.5276e-01
+     prop_binbin1_bin2    7.4947e-01
+  prop_binbin1_bin2_In    7.4960e-01
+     prop_binbin1_bin3    2.5383e-01
+  prop_binbin1_bin3_In    2.5336e-01
+     prop_binbin1_bin4    2.0846e+00
+  prop_binbin1_bin4_In    2.0834e+00
+     prop_binbin1_bin5    2.7520e-01
+  prop_binbin1_bin5_In    2.7260e-01
+     prop_binbin2_bin0   -1.3654e+00
+  prop_binbin2_bin0_In   -1.3664e+00
+     prop_binbin2_bin1   -1.6984e+00
+  prop_binbin2_bin1_In   -1.6996e+00
+     prop_binbin2_bin2   -1.6181e+00
+  prop_binbin2_bin2_In   -1.6185e+00
+     prop_binbin2_bin3    8.3739e-01
+  prop_binbin2_bin3_In    8.3739e-01
+     prop_binbin2_bin4   -2.7877e+00
+  prop_binbin2_bin4_In   -2.7887e+00
+     prop_binbin2_bin5    1.5415e+00
+  prop_binbin2_bin5_In    1.5425e+00
+     prop_binbin3_bin0    1.3464e+00
+  prop_binbin3_bin0_In    1.3477e+00
+     prop_binbin3_bin1   -1.5252e+00
+  prop_binbin3_bin1_In   -1.5260e+00
+     prop_binbin3_bin2    1.0662e+00
+  prop_binbin3_bin2_In    1.0659e+00
+     prop_binbin3_bin3   -4.8586e+00
+  prop_binbin3_bin3_In   -4.8605e+00
+     prop_binbin3_bin4    2.4699e+00
+  prop_binbin3_bin4_In    2.4703e+00
+     prop_binbin3_bin5   -1.1812e+00
+  prop_binbin3_bin5_In   -1.1820e+00
+     prop_binbin4_bin0   -5.3648e-01
+  prop_binbin4_bin0_In   -5.3765e-01
+     prop_binbin4_bin1   -2.0136e+00
+  prop_binbin4_bin1_In   -2.0141e+00
+     prop_binbin4_bin2   -2.3730e+00
+  prop_binbin4_bin2_In   -2.3738e+00
+     prop_binbin4_bin3   -1.3011e+00
+  prop_binbin4_bin3_In   -1.3015e+00
+     prop_binbin4_bin4   -3.6608e+00
+  prop_binbin4_bin4_In   -3.6619e+00
+     prop_binbin4_bin5    3.0081e+00
+  prop_binbin4_bin5_In    3.0086e+00
+     prop_binbin5_bin0    3.3014e+00
+  prop_binbin5_bin0_In    3.3041e+00
+     prop_binbin5_bin1   -2.7657e+00
+  prop_binbin5_bin1_In   -2.7649e+00
+     prop_binbin5_bin2    1.2013e-01
+  prop_binbin5_bin2_In    1.2150e-01
+     prop_binbin5_bin3   -2.6236e+00
+  prop_binbin5_bin3_In   -2.6234e+00
+     prop_binbin5_bin4    2.1829e+00
+  prop_binbin5_bin4_In    2.1853e+00
+     prop_binbin5_bin5    1.8017e-03
+  prop_binbin5_bin5_In    3.3977e-03
+                 pu_In    6.3667e-02
+
+    Floating Parameter  InitialValue    FinalValue +/-  Error     GblCorr.
+  --------------------  ------------  --------------------------  --------
+              datasyst   -3.1397e+00   -3.1312e+00 +/-  6.16e-01  <none>
+                   fsr   -2.4217e-02   -2.3217e-02 +/-  1.18e+00  <none>
+                   isr   -1.3138e-02   -1.3230e-02 +/-  1.54e+00  <none>
+   lumi_13TeV_fullRun2   -4.3240e+00   -4.3230e+00 +/-  1.41e+00  <none>
+               mcscale    8.4084e-01    8.3918e-01 +/-  3.70e-01  <none>
+                   pdf   -2.4439e-01   -2.4471e-01 +/-  1.29e+00  <none>
+                    pu    6.3667e-02    6.6244e-02 +/-  1.62e+00  <none>
+                     r    5.0000e-02    2.7174e-03 +/-  3.69e+00  <none>
+
+At r = 0.726562:	delta(nll) = 1.91693
+Median for expected limits: 0.726562
+Sigma  for expected limits: 0.370702
+At r = 1.214263:	delta(nll) = 6.58628
+SimNLL created with 5 channels, 0 generic constraints, 37 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 5 channels, 0 generic constraints, 37 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+Restricting r to positive values.
+  1) RooRealVar::                    ONE = 1
+  2) RooRealVar::               datasyst = 0 +/- 1
+  3) RooRealVar::            datasyst_In = 0
+  4) RooRealVar::                    fsr = 0 +/- 1
+  5) RooRealVar::                 fsr_In = 0
+  6) RooRealVar::                    isr = 0 +/- 1
+  7) RooRealVar::                 isr_In = 0
+  8) RooRealVar::    lumi_13TeV_fullRun2 = 0 +/- 1
+  9) RooRealVar:: lumi_13TeV_fullRun2_In = 0
+ 10) RooRealVar::                mcscale = 0 +/- 1
+ 11) RooRealVar::             mcscale_In = 0
+ 12) RooRealVar::                    pdf = 0 +/- 1
+ 13) RooRealVar::                 pdf_In = 0
+ 14) RooRealVar::      prop_binbin1_bin0 = 0 +/- 1
+ 15) RooRealVar::   prop_binbin1_bin0_In = 0
+ 16) RooRealVar::      prop_binbin1_bin1 = 0 +/- 1
+ 17) RooRealVar::   prop_binbin1_bin1_In = 0
+ 18) RooRealVar::      prop_binbin1_bin2 = 0 +/- 1
+ 19) RooRealVar::   prop_binbin1_bin2_In = 0
+ 20) RooRealVar::      prop_binbin1_bin3 = 0 +/- 1
+ 21) RooRealVar::   prop_binbin1_bin3_In = 0
+ 22) RooRealVar::      prop_binbin1_bin4 = 0 +/- 1
+ 23) RooRealVar::   prop_binbin1_bin4_In = 0
+ 24) RooRealVar::      prop_binbin1_bin5 = 0 +/- 1
+ 25) RooRealVar::   prop_binbin1_bin5_In = 0
+ 26) RooRealVar::      prop_binbin2_bin0 = 0 +/- 1
+ 27) RooRealVar::   prop_binbin2_bin0_In = 0
+ 28) RooRealVar::      prop_binbin2_bin1 = 0 +/- 1
+ 29) RooRealVar::   prop_binbin2_bin1_In = 0
+ 30) RooRealVar::      prop_binbin2_bin2 = 0 +/- 1
+ 31) RooRealVar::   prop_binbin2_bin2_In = 0
+ 32) RooRealVar::      prop_binbin2_bin3 = 0 +/- 1
+ 33) RooRealVar::   prop_binbin2_bin3_In = 0
+ 34) RooRealVar::      prop_binbin2_bin4 = 0 +/- 1
+ 35) RooRealVar::   prop_binbin2_bin4_In = 0
+ 36) RooRealVar::      prop_binbin2_bin5 = 0 +/- 1
+ 37) RooRealVar::   prop_binbin2_bin5_In = 0
+ 38) RooRealVar::      prop_binbin3_bin0 = 0 +/- 1
+ 39) RooRealVar::   prop_binbin3_bin0_In = 0
+ 40) RooRealVar::      prop_binbin3_bin1 = 0 +/- 1
+ 41) RooRealVar::   prop_binbin3_bin1_In = 0
+ 42) RooRealVar::      prop_binbin3_bin2 = 0 +/- 1
+ 43) RooRealVar::   prop_binbin3_bin2_In = 0
+ 44) RooRealVar::      prop_binbin3_bin3 = 0 +/- 1
+ 45) RooRealVar::   prop_binbin3_bin3_In = 0
+ 46) RooRealVar::      prop_binbin3_bin4 = 0 +/- 1
+ 47) RooRealVar::   prop_binbin3_bin4_In = 0
+ 48) RooRealVar::      prop_binbin3_bin5 = 0 +/- 1
+ 49) RooRealVar::   prop_binbin3_bin5_In = 0
+ 50) RooRealVar::      prop_binbin4_bin0 = 0 +/- 1
+ 51) RooRealVar::   prop_binbin4_bin0_In = 0
+ 52) RooRealVar::      prop_binbin4_bin1 = 0 +/- 1
+ 53) RooRealVar::   prop_binbin4_bin1_In = 0
+ 54) RooRealVar::      prop_binbin4_bin2 = 0 +/- 1
+ 55) RooRealVar::   prop_binbin4_bin2_In = 0
+ 56) RooRealVar::      prop_binbin4_bin3 = 0 +/- 1
+ 57) RooRealVar::   prop_binbin4_bin3_In = 0
+ 58) RooRealVar::      prop_binbin4_bin4 = 0 +/- 1
+ 59) RooRealVar::   prop_binbin4_bin4_In = 0
+ 60) RooRealVar::      prop_binbin4_bin5 = 0 +/- 1
+ 61) RooRealVar::   prop_binbin4_bin5_In = 0
+ 62) RooRealVar::      prop_binbin5_bin0 = 0 +/- 1
+ 63) RooRealVar::   prop_binbin5_bin0_In = 0
+ 64) RooRealVar::      prop_binbin5_bin1 = 0 +/- 1
+ 65) RooRealVar::   prop_binbin5_bin1_In = 0
+ 66) RooRealVar::      prop_binbin5_bin2 = 0 +/- 1
+ 67) RooRealVar::   prop_binbin5_bin2_In = 0
+ 68) RooRealVar::      prop_binbin5_bin3 = 0 +/- 1
+ 69) RooRealVar::   prop_binbin5_bin3_In = 0
+ 70) RooRealVar::      prop_binbin5_bin4 = 0 +/- 1
+ 71) RooRealVar::   prop_binbin5_bin4_In = 0
+ 72) RooRealVar::      prop_binbin5_bin5 = 0 +/- 1
+ 73) RooRealVar::   prop_binbin5_bin5_In = 0
+ 74) RooRealVar::                     pu = 0 +/- 1
+ 75) RooRealVar::                  pu_In = 0
+ 76) RooRealVar::                      r = 0.5
+
+Make global fit of real data
+NLL at global minimum of data: -64467 (r = 0.601982)
+   0) ONE                            =         1
+   1) datasyst                       =  -3.00918
+   2) datasyst_In                    =         0
+   3) fsr                            = 0.0120037
+   4) fsr_In                         =         0
+   5) isr                            = -0.0245173
+   6) isr_In                         =         0
+   7) lumi_13TeV_fullRun2            =  -3.79038
+   8) lumi_13TeV_fullRun2_In         =         0
+   9) mcscale                        =  0.892712
+  10) mcscale_In                     =         0
+  11) pdf                            = -0.409733
+  12) pdf_In                         =         0
+  13) prop_binbin1_bin0              =   3.49663
+  14) prop_binbin1_bin0_In           =         0
+  15) prop_binbin1_bin1              =    1.2053
+  16) prop_binbin1_bin1_In           =         0
+  17) prop_binbin1_bin2              =   0.89043
+  18) prop_binbin1_bin2_In           =         0
+  19) prop_binbin1_bin3              =  0.407278
+  20) prop_binbin1_bin3_In           =         0
+  21) prop_binbin1_bin4              =   2.29994
+  22) prop_binbin1_bin4_In           =         0
+  23) prop_binbin1_bin5              =   0.74145
+  24) prop_binbin1_bin5_In           =         0
+  25) prop_binbin2_bin0              =  -1.22958
+  26) prop_binbin2_bin0_In           =         0
+  27) prop_binbin2_bin1              =  -1.33726
+  28) prop_binbin2_bin1_In           =         0
+  29) prop_binbin2_bin2              =  -1.27973
+  30) prop_binbin2_bin2_In           =         0
+  31) prop_binbin2_bin3              =    1.1248
+  32) prop_binbin2_bin3_In           =         0
+  33) prop_binbin2_bin4              =  -2.42314
+  34) prop_binbin2_bin4_In           =         0
+  35) prop_binbin2_bin5              =   1.58843
+  36) prop_binbin2_bin5_In           =         0
+  37) prop_binbin3_bin0              =   1.14506
+  38) prop_binbin3_bin0_In           =         0
+  39) prop_binbin3_bin1              =  -1.33286
+  40) prop_binbin3_bin1_In           =         0
+  41) prop_binbin3_bin2              =   1.29617
+  42) prop_binbin3_bin2_In           =         0
+  43) prop_binbin3_bin3              =  -4.50481
+  44) prop_binbin3_bin3_In           =         0
+  45) prop_binbin3_bin4              =   2.56188
+  46) prop_binbin3_bin4_In           =         0
+  47) prop_binbin3_bin5              =  -1.34073
+  48) prop_binbin3_bin5_In           =         0
+  49) prop_binbin4_bin0              = -0.958632
+  50) prop_binbin4_bin0_In           =         0
+  51) prop_binbin4_bin1              =   -1.9641
+  52) prop_binbin4_bin1_In           =         0
+  53) prop_binbin4_bin2              =  -2.16201
+  54) prop_binbin4_bin2_In           =         0
+  55) prop_binbin4_bin3              =   -1.1218
+  56) prop_binbin4_bin3_In           =         0
+  57) prop_binbin4_bin4              =  -3.59976
+  58) prop_binbin4_bin4_In           =         0
+  59) prop_binbin4_bin5              =    2.4922
+  60) prop_binbin4_bin5_In           =         0
+  61) prop_binbin5_bin0              =    2.7505
+  62) prop_binbin5_bin0_In           =         0
+  63) prop_binbin5_bin1              =  -2.91214
+  64) prop_binbin5_bin1_In           =         0
+  65) prop_binbin5_bin2              = 0.00572373
+  66) prop_binbin5_bin2_In           =         0
+  67) prop_binbin5_bin3              =   -2.6866
+  68) prop_binbin5_bin3_In           =         0
+  69) prop_binbin5_bin4              =   1.92607
+  70) prop_binbin5_bin4_In           =         0
+  71) prop_binbin5_bin5              = -0.493857
+  72) prop_binbin5_bin5_In           =         0
+  73) pu                             = 0.0703978
+  74) pu_In                          =         0
+  75) r                              =  0.601982
+
+
+Make global fit of asimov data
+  [WARNING] Found [datasyst] at boundary. 
+NLL at global minimum of asimov: -64375.9 (r = 0.00216851)
+   0) ONE                            =         1
+   1) datasyst                       =  -3.08214
+   2) datasyst_In                    =         0
+   3) fsr                            = 0.0249322
+   4) fsr_In                         =         0
+   5) isr                            = -0.0284668
+   6) isr_In                         =         0
+   7) lumi_13TeV_fullRun2            =  -3.74337
+   8) lumi_13TeV_fullRun2_In         =         0
+   9) mcscale                        =  0.962858
+  10) mcscale_In                     =         0
+  11) pdf                            = -0.536646
+  12) pdf_In                         =         0
+  13) prop_binbin1_bin0              =   3.75823
+  14) prop_binbin1_bin0_In           =         0
+  15) prop_binbin1_bin1              =   1.33976
+  16) prop_binbin1_bin1_In           =         0
+  17) prop_binbin1_bin2              =   0.98033
+  18) prop_binbin1_bin2_In           =         0
+  19) prop_binbin1_bin3              =  0.493597
+  20) prop_binbin1_bin3_In           =         0
+  21) prop_binbin1_bin4              =   2.42158
+  22) prop_binbin1_bin4_In           =         0
+  23) prop_binbin1_bin5              =   1.00953
+  24) prop_binbin1_bin5_In           =         0
+  25) prop_binbin2_bin0              =  -1.08931
+  26) prop_binbin2_bin0_In           =         0
+  27) prop_binbin2_bin1              =   -1.1294
+  28) prop_binbin2_bin1_In           =         0
+  29) prop_binbin2_bin2              =  -1.09574
+  30) prop_binbin2_bin2_In           =         0
+  31) prop_binbin2_bin3              =   1.29154
+  32) prop_binbin2_bin3_In           =         0
+  33) prop_binbin2_bin4              =  -2.21261
+  34) prop_binbin2_bin4_In           =         0
+  35) prop_binbin2_bin5              =   1.71482
+  36) prop_binbin2_bin5_In           =         0
+  37) prop_binbin3_bin0              =   1.11724
+  38) prop_binbin3_bin0_In           =         0
+  39) prop_binbin3_bin1              =  -1.24467
+  40) prop_binbin3_bin1_In           =         0
+  41) prop_binbin3_bin2              =   1.38393
+  42) prop_binbin3_bin2_In           =         0
+  43) prop_binbin3_bin3              =  -4.38382
+  44) prop_binbin3_bin3_In           =         0
+  45) prop_binbin3_bin4              =   2.62038
+  46) prop_binbin3_bin4_In           =         0
+  47) prop_binbin3_bin5              =  -1.38247
+  48) prop_binbin3_bin5_In           =         0
+  49) prop_binbin4_bin0              =  -1.14959
+  50) prop_binbin4_bin0_In           =         0
+  51) prop_binbin4_bin1              =  -2.03204
+  52) prop_binbin4_bin1_In           =         0
+  53) prop_binbin4_bin2              =  -2.20477
+  54) prop_binbin4_bin2_In           =         0
+  55) prop_binbin4_bin3              =  -1.17431
+  56) prop_binbin4_bin3_In           =         0
+  57) prop_binbin4_bin4              =  -3.67295
+  58) prop_binbin4_bin4_In           =         0
+  59) prop_binbin4_bin5              =   2.28062
+  60) prop_binbin4_bin5_In           =         0
+  61) prop_binbin5_bin0              =   2.51875
+  62) prop_binbin5_bin0_In           =         0
+  63) prop_binbin5_bin1              =  -3.14564
+  64) prop_binbin5_bin1_In           =         0
+  65) prop_binbin5_bin2              = -0.245877
+  66) prop_binbin5_bin2_In           =         0
+  67) prop_binbin5_bin3              =  -2.93387
+  68) prop_binbin5_bin3_In           =         0
+  69) prop_binbin5_bin4              =   1.66794
+  70) prop_binbin5_bin4_In           =         0
+  71) prop_binbin5_bin5              = -0.718968
+  72) prop_binbin5_bin5_In           =         0
+  73) pu                             = 0.0713209
+  74) pu_In                          =         0
+  75) r                              =  0.886162
+
+   0) ONE                            =         1
+   1) datasyst                       =  -2.68092
+   2) datasyst_In                    =  -3.13975
+   3) fsr                            = -0.0285675
+   4) fsr_In                         = -0.0242171
+   5) isr                            = -0.010898
+   6) isr_In                         = -0.0131382
+   7) lumi_13TeV_fullRun2            =  -3.75149
+   8) lumi_13TeV_fullRun2_In         =  -4.32401
+   9) mcscale                        =  0.843773
+  10) mcscale_In                     =  0.840843
+  11) pdf                            = -0.531745
+  12) pdf_In                         = -0.244388
+  13) prop_binbin1_bin0              =   3.79275
+  14) prop_binbin1_bin0_In           =   3.06093
+  15) prop_binbin1_bin1              =   1.36037
+  16) prop_binbin1_bin1_In           =   0.95276
+  17) prop_binbin1_bin2              =  0.939977
+  18) prop_binbin1_bin2_In           =  0.749597
+  19) prop_binbin1_bin3              =  0.480404
+  20) prop_binbin1_bin3_In           =  0.253357
+  21) prop_binbin1_bin4              =   2.43556
+  22) prop_binbin1_bin4_In           =   2.08341
+  23) prop_binbin1_bin5              =   1.04978
+  24) prop_binbin1_bin5_In           =  0.272596
+  25) prop_binbin2_bin0              =  -1.02773
+  26) prop_binbin2_bin0_In           =  -1.36638
+  27) prop_binbin2_bin1              =  -1.16871
+  28) prop_binbin2_bin1_In           =  -1.69962
+  29) prop_binbin2_bin2              =  -1.18163
+  30) prop_binbin2_bin2_In           =  -1.61849
+  31) prop_binbin2_bin3              =   1.20068
+  32) prop_binbin2_bin3_In           =  0.837394
+  33) prop_binbin2_bin4              =   -2.2645
+  34) prop_binbin2_bin4_In           =  -2.78871
+  35) prop_binbin2_bin5              =   1.70496
+  36) prop_binbin2_bin5_In           =   1.54247
+  37) prop_binbin3_bin0              =   1.15991
+  38) prop_binbin3_bin0_In           =   1.34766
+  39) prop_binbin3_bin1              =  -1.27842
+  40) prop_binbin3_bin1_In           =  -1.52597
+  41) prop_binbin3_bin2              =    1.2984
+  42) prop_binbin3_bin2_In           =   1.06591
+  43) prop_binbin3_bin3              =  -4.42486
+  44) prop_binbin3_bin3_In           =   -4.8605
+  45) prop_binbin3_bin4              =   2.56188
+  46) prop_binbin3_bin4_In           =    2.4703
+  47) prop_binbin3_bin5              =  -1.25229
+  48) prop_binbin3_bin5_In           =  -1.18198
+  49) prop_binbin4_bin0              = -0.907199
+  50) prop_binbin4_bin0_In           = -0.537654
+  51) prop_binbin4_bin1              =  -2.08024
+  52) prop_binbin4_bin1_In           =  -2.01407
+  53) prop_binbin4_bin2              =  -2.32202
+  54) prop_binbin4_bin2_In           =  -2.37376
+  55) prop_binbin4_bin3              =   -1.2936
+  56) prop_binbin4_bin3_In           =  -1.30149
+  57) prop_binbin4_bin4              =  -3.69629
+  58) prop_binbin4_bin4_In           =  -3.66186
+  59) prop_binbin4_bin5              =   2.47417
+  60) prop_binbin4_bin5_In           =   3.00861
+  61) prop_binbin5_bin0              =   2.58864
+  62) prop_binbin5_bin0_In           =   3.30411
+  63) prop_binbin5_bin1              =  -3.23444
+  64) prop_binbin5_bin1_In           =  -2.76485
+  65) prop_binbin5_bin2              = -0.388663
+  66) prop_binbin5_bin2_In           =  0.121499
+  67) prop_binbin5_bin3              =  -3.03489
+  68) prop_binbin5_bin3_In           =  -2.62344
+  69) prop_binbin5_bin4              =   1.53913
+  70) prop_binbin5_bin4_In           =   2.18531
+  71) prop_binbin5_bin5              = -0.609798
+  72) prop_binbin5_bin5_In           = 0.00339773
+  73) pu                             = 0.0614745
+  74) pu_In                          = 0.0636672
+  75) r                              =  0.886162
+
+At r = 0.886162:	q_mu = 3.19934	q_A  = 5.92902	CLsb = 0.03683	CLb  = 0.74095	CLs  = 0.04971
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.8862
+Expected  2.5%: r < 0.3888
+Expected 16.0%: r < 0.5260
+Expected 50.0%: r < 0.7266
+Expected 84.0%: r < 0.9727
+Expected 97.5%: r < 1.2094
+
+Done in 0.01 min (cpu), 0.01 min (real)
+Printing Message Summary From ... combine_logger.out
+----------------------------------------------
+Messages of type INFO : 192
+Messages of type DEBUG : 34
+Messages of type ERROR : 0
+----------------------------------------------
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin1_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin2_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin3_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin4_obsOnly: in 6 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 139 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 214 -- Generating asimov with histogram for pdf pdf_binbin5_obsOnly: in 6 x-bins
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: runLimitExpected) AsymptoticLimits.cc: 436 -- Median for expected limits = 0.726562 (Sigma for expected limits = 0.370702)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: runLimit) AsymptoticLimits.cc: 193 -- NLL at global minimum of data = -64467 (r=0.601982)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: runLimit) AsymptoticLimits.cc: 213 -- NLL at global minimum of asimov = -64375.9 (r=0.00216851)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: getCLs) AsymptoticLimits.cc: 343 -- At r = 1.084091:	q_mu = 9.64091	q_A  = 9.70512	CLsb = 0.00095	CLb  = 0.50412	CLs  = 0.00189
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: getCLs) AsymptoticLimits.cc: 343 -- At r = 0.843037:	q_mu = 2.27475	q_A  = 5.29291	CLsb = 0.06575	CLb  = 0.78594	CLs  = 0.08366
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: getCLs) AsymptoticLimits.cc: 343 -- At r = 0.963564:	q_mu = 5.27663	q_A  = 7.22419	CLsb = 0.01081	CLb  = 0.65199	CLs  = 0.01658
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: getCLs) AsymptoticLimits.cc: 343 -- At r = 0.897798:	q_mu = 3.47694	q_A  = 6.11076	CLsb = 0.03111	CLb  = 0.72819	CLs  = 0.04273
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: getCLs) AsymptoticLimits.cc: 343 -- At r = 0.876599:	q_mu = 2.98104	q_A  = 5.78300	CLsb = 0.04212	CLb  = 0.75118	CLs  = 0.05607
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: getCLs) AsymptoticLimits.cc: 343 -- At r = 0.887994:	q_mu = 3.24223	q_A  = 5.95734	CLsb = 0.03588	CLb  = 0.73896	CLs  = 0.04856
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: getCLs) AsymptoticLimits.cc: 343 -- At r = 0.883860:	q_mu = 3.14584	q_A  = 5.89360	CLsb = 0.03806	CLb  = 0.74345	CLs  = 0.05119
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: getCLs) AsymptoticLimits.cc: 343 -- At r = 0.886162:	q_mu = 3.19934	q_A  = 5.92902	CLsb = 0.03683	CLb  = 0.74095	CLs  = 0.04971
