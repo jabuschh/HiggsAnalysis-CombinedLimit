@@ -1,0 +1,2072 @@
+
+>>> random number generator seed is 123456
+Will use a-priori expected background instead of a-posteriori one.
+>>> method used is AsymptoticLimits
+[#1] INFO:ObjectHandling -- RooWorkspace::import(w) importing RooUniform::prior
+>>> 0 out of 22 channels masked
+
+>>> Channel masks:
+  1) 0x93b3720 RooRealVar::   mask_UL16postVFP_el_SR_bin1_TopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_el_SR_bin1_TopTag"
+  2) 0x93b4480 RooRealVar:: mask_UL16postVFP_el_SR_bin1_NoTopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_el_SR_bin1_NoTopTag"
+  3) 0x93b5100 RooRealVar::   mask_UL16postVFP_el_SR_bin2_TopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_el_SR_bin2_TopTag"
+  4) 0x93b5d80 RooRealVar:: mask_UL16postVFP_el_SR_bin2_NoTopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_el_SR_bin2_NoTopTag"
+  5) 0x93b6a00 RooRealVar::   mask_UL16postVFP_el_SR_bin3_TopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_el_SR_bin3_TopTag"
+  6) 0x93b7680 RooRealVar:: mask_UL16postVFP_el_SR_bin3_NoTopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_el_SR_bin3_NoTopTag"
+  7) 0x93b8300 RooRealVar::          mask_UL16postVFP_el_SR_bin4 = 0 C  L(-INF - +INF)  "mask_UL16postVFP_el_SR_bin4"
+  8) 0x93b8f40 RooRealVar::          mask_UL16postVFP_el_SR_bin5 = 0 C  L(-INF - +INF)  "mask_UL16postVFP_el_SR_bin5"
+  9) 0x93b9b80 RooRealVar::          mask_UL16postVFP_el_SR_bin6 = 0 C  L(-INF - +INF)  "mask_UL16postVFP_el_SR_bin6"
+ 10) 0x93ba7c0 RooRealVar::              mask_UL16postVFP_el_CR1 = 0 C  L(-INF - +INF)  "mask_UL16postVFP_el_CR1"
+ 11) 0x93bb3d0 RooRealVar::              mask_UL16postVFP_el_CR2 = 0 C  L(-INF - +INF)  "mask_UL16postVFP_el_CR2"
+ 12) 0x93bc000 RooRealVar::   mask_UL16postVFP_mu_SR_bin1_TopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_mu_SR_bin1_TopTag"
+ 13) 0x93bcca0 RooRealVar:: mask_UL16postVFP_mu_SR_bin1_NoTopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_mu_SR_bin1_NoTopTag"
+ 14) 0x93bd920 RooRealVar::   mask_UL16postVFP_mu_SR_bin2_TopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_mu_SR_bin2_TopTag"
+ 15) 0x93be5a0 RooRealVar:: mask_UL16postVFP_mu_SR_bin2_NoTopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_mu_SR_bin2_NoTopTag"
+ 16) 0x93bf220 RooRealVar::   mask_UL16postVFP_mu_SR_bin3_TopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_mu_SR_bin3_TopTag"
+ 17) 0x93bfea0 RooRealVar:: mask_UL16postVFP_mu_SR_bin3_NoTopTag = 0 C  L(-INF - +INF)  "mask_UL16postVFP_mu_SR_bin3_NoTopTag"
+ 18) 0x93c0b20 RooRealVar::          mask_UL16postVFP_mu_SR_bin4 = 0 C  L(-INF - +INF)  "mask_UL16postVFP_mu_SR_bin4"
+ 19) 0x93c1760 RooRealVar::          mask_UL16postVFP_mu_SR_bin5 = 0 C  L(-INF - +INF)  "mask_UL16postVFP_mu_SR_bin5"
+ 20) 0x93c23a0 RooRealVar::          mask_UL16postVFP_mu_SR_bin6 = 0 C  L(-INF - +INF)  "mask_UL16postVFP_mu_SR_bin6"
+ 21) 0x93c2fe0 RooRealVar::              mask_UL16postVFP_mu_CR1 = 0 C  L(-INF - +INF)  "mask_UL16postVFP_mu_CR1"
+ 22) 0x93c3bf0 RooRealVar::              mask_UL16postVFP_mu_CR2 = 0 C  L(-INF - +INF)  "mask_UL16postVFP_mu_CR2"
+Saving snapshot 'clean'
+Saved snapshot 'clean'
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin1_TopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin1_NoTopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin2_TopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin2_NoTopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin3_TopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin3_NoTopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin4_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin5_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin6_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_el_CR1_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_el_CR2_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin1_TopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin1_NoTopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin2_TopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin2_NoTopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin3_TopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin3_NoTopTag_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin4_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin5_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin6_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_mu_CR1_obsOnly: in 9 x-bins 
+  ToyMCSampleOpt  -- Generating Asimov with histogram for pdf pdf_binUL16postVFP_mu_CR2_obsOnly: in 9 x-bins 
+SimNLL created with 22 channels, 0 generic constraints, 74 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+Minuit2Minimizer: Minimize with max-calls 15500 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -5.01310797578733869
+Edm   = 7.13640772456916849e-05
+Nfcn  = 3970
+btag_cferr1	  = 0.00116749	 +/-  0.629053	(limited)
+btag_cferr2	  = 0.000678921	 +/-  0.8979	(limited)
+btag_hf	  = -0.00338727	 +/-  0.800461	(limited)
+btag_hfstats1_UL16postVFP	  = -6.43967e-05	 +/-  0.973899	(limited)
+btag_hfstats2_UL16postVFP	  = -0.000236582	 +/-  0.971193	(limited)
+btag_lf	  = -0.00011972	 +/-  0.831717	(limited)
+btag_lfstats1_UL16postVFP	  = 0.00102963	 +/-  0.926361	(limited)
+btag_lfstats2_UL16postVFP	  = -1.84055e-06	 +/-  0.935434	(limited)
+ele_id	  = -1.39352e-06	 +/-  0.909669	(limited)
+ele_reco	  = 0.000419207	 +/-  0.962251	(limited)
+ele_trigger	  = -0.00199419	 +/-  0.44052	(limited)
+jec	  = -0.00146727	 +/-  0.341495	(limited)
+jer	  = -0.000333988	 +/-  0.638509	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = 4.80627e-05	 +/-  0.995321	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -2.59445e-06	 +/-  0.994392	(limited)
+mcscale	  = 0.000243862	 +/-  0.427751	(limited)
+mu_id	  = 0.000301765	 +/-  0.97803	(limited)
+mu_iso	  = 7.80767e-05	 +/-  0.989578	(limited)
+mu_reco	  = -0.000267723	 +/-  0.988247	(limited)
+mu_trigger	  = -0.000531974	 +/-  0.971753	(limited)
+others_rate	  = -0.00105604	 +/-  0.607855	(limited)
+pdf	  = 0.00598661	 +/-  0.393362	(limited)
+prefiring	  = 0.00260589	 +/-  0.91164	(limited)
+pu	  = 0.0013831	 +/-  0.725627	(limited)
+r	  = 0.0161592	 +/-  2.66606	(limited)
+st_rate	  = -1.78034e-05	 +/-  0.252689	(limited)
+tmistag	  = 0.00199067	 +/-  0.849274	(limited)
+ttag_corr	  = 0.00189848	 +/-  0.838771	(limited)
+ttag_uncorr_UL16postVFP	  = 0.00216543	 +/-  0.823808	(limited)
+ttbar_rate	  = 0.000824126	 +/-  0.286404	(limited)
+wjets_rate	  = -0.00096086	 +/-  0.283085	(limited)
+Fit to asimov dataset:
+
+  RooFitResult: minimized FCN value: -5.01311, estimated distance to minimum: 7.13641e-05
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MINIMIZE=0 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+                   ONE    1.0000e+00
+        btag_cferr1_In    0.0000e+00
+        btag_cferr2_In    0.0000e+00
+            btag_hf_In    0.0000e+00
+  btag_hfstats1_UL16postVFP_In    0.0000e+00
+  btag_hfstats2_UL16postVFP_In    0.0000e+00
+            btag_lf_In    0.0000e+00
+  btag_lfstats1_UL16postVFP_In    0.0000e+00
+  btag_lfstats2_UL16postVFP_In    0.0000e+00
+             ele_id_In    0.0000e+00
+           ele_reco_In    0.0000e+00
+        ele_trigger_In    0.0000e+00
+                jec_In    0.0000e+00
+                jer_In    0.0000e+00
+  lumi_13TeV_correlated_UL16_UL17_UL18_In    0.0000e+00
+  lumi_13TeV_uncorrelated_UL16_In    0.0000e+00
+            mcscale_In    0.0000e+00
+              mu_id_In    0.0000e+00
+             mu_iso_In    0.0000e+00
+            mu_reco_In    0.0000e+00
+         mu_trigger_In    0.0000e+00
+        others_rate_In    0.0000e+00
+                pdf_In    0.0000e+00
+          prefiring_In    0.0000e+00
+  prop_binUL16postVFP_el_CR1_bin0   -4.3099e-04
+  prop_binUL16postVFP_el_CR1_bin0_In    0.0000e+00
+  prop_binUL16postVFP_el_CR1_bin1    6.0620e-04
+  prop_binUL16postVFP_el_CR1_bin1_In    0.0000e+00
+  prop_binUL16postVFP_el_CR2_bin0   -5.3625e-04
+  prop_binUL16postVFP_el_CR2_bin0_In    0.0000e+00
+  prop_binUL16postVFP_el_CR2_bin1    7.6220e-04
+  prop_binUL16postVFP_el_CR2_bin1_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin1_NoTopTag_bin0    1.4082e-04
+  prop_binUL16postVFP_el_SR_bin1_NoTopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin1_NoTopTag_bin1   -1.9325e-03
+  prop_binUL16postVFP_el_SR_bin1_NoTopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin1_TopTag_bin0   -4.5953e-04
+  prop_binUL16postVFP_el_SR_bin1_TopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin1_TopTag_bin1   -4.0542e-04
+  prop_binUL16postVFP_el_SR_bin1_TopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin2_NoTopTag_bin0    2.5602e-04
+  prop_binUL16postVFP_el_SR_bin2_NoTopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin2_NoTopTag_bin1   -2.6459e-04
+  prop_binUL16postVFP_el_SR_bin2_NoTopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin2_TopTag_bin0    5.4020e-04
+  prop_binUL16postVFP_el_SR_bin2_TopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin2_TopTag_bin1    3.0334e-04
+  prop_binUL16postVFP_el_SR_bin2_TopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin3_NoTopTag_bin0    1.0083e-03
+  prop_binUL16postVFP_el_SR_bin3_NoTopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin3_NoTopTag_bin1    1.1399e-03
+  prop_binUL16postVFP_el_SR_bin3_NoTopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin3_TopTag_bin0    7.0975e-04
+  prop_binUL16postVFP_el_SR_bin3_TopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin3_TopTag_bin1    5.4922e-04
+  prop_binUL16postVFP_el_SR_bin3_TopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin4_bin0    1.8837e-03
+  prop_binUL16postVFP_el_SR_bin4_bin0_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin4_bin1    1.7007e-03
+  prop_binUL16postVFP_el_SR_bin4_bin1_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin5_bin0    5.5112e-04
+  prop_binUL16postVFP_el_SR_bin5_bin0_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin5_bin1    8.4800e-05
+  prop_binUL16postVFP_el_SR_bin5_bin1_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin6_bin0    1.0354e-03
+  prop_binUL16postVFP_el_SR_bin6_bin0_In    0.0000e+00
+  prop_binUL16postVFP_el_SR_bin6_bin1   -1.2669e-03
+  prop_binUL16postVFP_el_SR_bin6_bin1_In    0.0000e+00
+  prop_binUL16postVFP_mu_CR1_bin0   -3.1473e-04
+  prop_binUL16postVFP_mu_CR1_bin0_In    0.0000e+00
+  prop_binUL16postVFP_mu_CR1_bin1    3.5834e-05
+  prop_binUL16postVFP_mu_CR1_bin1_In    0.0000e+00
+  prop_binUL16postVFP_mu_CR2_bin0   -2.2735e-03
+  prop_binUL16postVFP_mu_CR2_bin0_In    0.0000e+00
+  prop_binUL16postVFP_mu_CR2_bin1    2.6162e-04
+  prop_binUL16postVFP_mu_CR2_bin1_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin1_NoTopTag_bin0    1.9043e-03
+  prop_binUL16postVFP_mu_SR_bin1_NoTopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin1_NoTopTag_bin1   -1.9292e-03
+  prop_binUL16postVFP_mu_SR_bin1_NoTopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin1_TopTag_bin0   -1.2562e-04
+  prop_binUL16postVFP_mu_SR_bin1_TopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin1_TopTag_bin1   -7.9162e-04
+  prop_binUL16postVFP_mu_SR_bin1_TopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin2_NoTopTag_bin0    2.7968e-03
+  prop_binUL16postVFP_mu_SR_bin2_NoTopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin2_NoTopTag_bin1   -1.0697e-03
+  prop_binUL16postVFP_mu_SR_bin2_NoTopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin2_TopTag_bin0    4.6774e-04
+  prop_binUL16postVFP_mu_SR_bin2_TopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin2_TopTag_bin1    3.7377e-04
+  prop_binUL16postVFP_mu_SR_bin2_TopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin3_NoTopTag_bin0    1.5853e-03
+  prop_binUL16postVFP_mu_SR_bin3_NoTopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin3_NoTopTag_bin1    1.0403e-03
+  prop_binUL16postVFP_mu_SR_bin3_NoTopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin3_TopTag_bin0    9.9659e-04
+  prop_binUL16postVFP_mu_SR_bin3_TopTag_bin0_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin3_TopTag_bin1   -1.9841e-04
+  prop_binUL16postVFP_mu_SR_bin3_TopTag_bin1_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin4_bin0    2.5996e-03
+  prop_binUL16postVFP_mu_SR_bin4_bin0_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin4_bin1    1.3023e-03
+  prop_binUL16postVFP_mu_SR_bin4_bin1_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin5_bin0    1.6194e-03
+  prop_binUL16postVFP_mu_SR_bin5_bin0_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin5_bin1   -1.8659e-03
+  prop_binUL16postVFP_mu_SR_bin5_bin1_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin6_bin0    1.2200e-03
+  prop_binUL16postVFP_mu_SR_bin6_bin0_In    0.0000e+00
+  prop_binUL16postVFP_mu_SR_bin6_bin1   -2.4421e-03
+  prop_binUL16postVFP_mu_SR_bin6_bin1_In    0.0000e+00
+                 pu_In    0.0000e+00
+            st_rate_In    0.0000e+00
+            tmistag_In    0.0000e+00
+          ttag_corr_In    0.0000e+00
+  ttag_uncorr_UL16postVFP_In    0.0000e+00
+         ttbar_rate_In    0.0000e+00
+         wjets_rate_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue +/-  Error     GblCorr.
+  --------------------  ------------  --------------------------  --------
+           btag_cferr1    0.0000e+00    1.1675e-03 +/-  6.29e-01  <none>
+           btag_cferr2    0.0000e+00    6.7892e-04 +/-  8.98e-01  <none>
+               btag_hf    0.0000e+00   -3.3873e-03 +/-  8.00e-01  <none>
+  btag_hfstats1_UL16postVFP    0.0000e+00   -6.4397e-05 +/-  9.74e-01  <none>
+  btag_hfstats2_UL16postVFP    0.0000e+00   -2.3658e-04 +/-  9.71e-01  <none>
+               btag_lf    0.0000e+00   -1.1972e-04 +/-  8.32e-01  <none>
+  btag_lfstats1_UL16postVFP    0.0000e+00    1.0296e-03 +/-  9.26e-01  <none>
+  btag_lfstats2_UL16postVFP    0.0000e+00   -1.8405e-06 +/-  9.35e-01  <none>
+                ele_id    0.0000e+00   -1.3935e-06 +/-  9.10e-01  <none>
+              ele_reco    0.0000e+00    4.1921e-04 +/-  9.62e-01  <none>
+           ele_trigger    0.0000e+00   -1.9942e-03 +/-  4.41e-01  <none>
+                   jec    0.0000e+00   -1.4673e-03 +/-  3.41e-01  <none>
+                   jer    0.0000e+00   -3.3399e-04 +/-  6.39e-01  <none>
+  lumi_13TeV_correlated_UL16_UL17_UL18    0.0000e+00    4.8063e-05 +/-  9.95e-01  <none>
+  lumi_13TeV_uncorrelated_UL16    0.0000e+00   -2.5944e-06 +/-  9.94e-01  <none>
+               mcscale    0.0000e+00    2.4386e-04 +/-  4.28e-01  <none>
+                 mu_id    0.0000e+00    3.0176e-04 +/-  9.78e-01  <none>
+                mu_iso    0.0000e+00    7.8077e-05 +/-  9.90e-01  <none>
+               mu_reco    0.0000e+00   -2.6772e-04 +/-  9.88e-01  <none>
+            mu_trigger    0.0000e+00   -5.3197e-04 +/-  9.72e-01  <none>
+           others_rate    0.0000e+00   -1.0560e-03 +/-  6.08e-01  <none>
+                   pdf    0.0000e+00    5.9866e-03 +/-  3.93e-01  <none>
+             prefiring    0.0000e+00    2.6059e-03 +/-  9.12e-01  <none>
+                    pu    0.0000e+00    1.3831e-03 +/-  7.26e-01  <none>
+                     r    2.0000e-01    1.6159e-02 +/-  2.67e+00  <none>
+               st_rate    0.0000e+00   -1.7803e-05 +/-  2.53e-01  <none>
+               tmistag    0.0000e+00    1.9907e-03 +/-  8.49e-01  <none>
+             ttag_corr    0.0000e+00    1.8985e-03 +/-  8.39e-01  <none>
+  ttag_uncorr_UL16postVFP    0.0000e+00    2.1654e-03 +/-  8.24e-01  <none>
+            ttbar_rate    0.0000e+00    8.2413e-04 +/-  2.86e-01  <none>
+            wjets_rate    0.0000e+00   -9.6086e-04 +/-  2.83e-01  <none>
+
+Will search for NLL crossing by stepping.
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -63.845057750603516
+Edm   = 1.43494458392555398e-05
+Nfcn  = 3142
+btag_cferr1	  = -0.0632466	 +/-  0.542014	(limited)
+btag_cferr2	  = -0.028662	 +/-  0.773569	(limited)
+btag_hf	  = -0.188051	 +/-  0.845253	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00877065	 +/-  1.01435	(limited)
+btag_hfstats2_UL16postVFP	  = 0.167948	 +/-  0.980766	(limited)
+btag_lf	  = 0.0403541	 +/-  0.871752	(limited)
+btag_lfstats1_UL16postVFP	  = 0.359895	 +/-  0.910273	(limited)
+btag_lfstats2_UL16postVFP	  = 0.26705	 +/-  0.940179	(limited)
+ele_id	  = -0.0327959	 +/-  0.916092	(limited)
+ele_reco	  = -0.0343408	 +/-  0.963262	(limited)
+ele_trigger	  = -0.0301856	 +/-  0.442459	(limited)
+jec	  = 0.0213424	 +/-  0.383069	(limited)
+jer	  = 0.0132377	 +/-  0.72568	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00457132	 +/-  0.996004	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00781808	 +/-  0.994591	(limited)
+mcscale	  = -0.0357006	 +/-  0.451224	(limited)
+mu_id	  = 0.0503622	 +/-  0.979022	(limited)
+mu_iso	  = 0.00881217	 +/-  0.989541	(limited)
+mu_reco	  = -0.0399855	 +/-  0.988088	(limited)
+mu_trigger	  = -0.100399	 +/-  0.972272	(limited)
+others_rate	  = -0.042661	 +/-  0.621416	(limited)
+pdf	  = 0.352301	 +/-  0.478217	(limited)
+prefiring	  = 0.120886	 +/-  0.885853	(limited)
+pu	  = 0.0147113	 +/-  0.752948	(limited)
+st_rate	  = 0.0101735	 +/-  0.251254	(limited)
+tmistag	  = 0.147737	 +/-  0.875963	(limited)
+ttag_corr	  = -0.0132203	 +/-  0.822988	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0602526	 +/-  0.813232	(limited)
+ttbar_rate	  = 0.211907	 +/-  0.286823	(limited)
+wjets_rate	  = 0.0225022	 +/-  0.273877	(limited)
+At r = 1.000000:	delta(nll) = 0.89751
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -3.14731525801786249
+Edm   = 2.57087534244113826e-05
+Nfcn  = 3566
+btag_cferr1	  = -0.258711	 +/-  0.568841	(limited)
+btag_cferr2	  = -0.110761	 +/-  0.770715	(limited)
+btag_hf	  = -0.298596	 +/-  0.838526	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0137242	 +/-  1.06043	(limited)
+btag_hfstats2_UL16postVFP	  = 0.382144	 +/-  0.979815	(limited)
+btag_lf	  = 0.0755681	 +/-  0.911771	(limited)
+btag_lfstats1_UL16postVFP	  = 0.738586	 +/-  0.906733	(limited)
+btag_lfstats2_UL16postVFP	  = 0.576828	 +/-  0.927934	(limited)
+ele_id	  = -0.091896	 +/-  0.922959	(limited)
+ele_reco	  = -0.10812	 +/-  0.964552	(limited)
+ele_trigger	  = 0.0339837	 +/-  0.457787	(limited)
+jec	  = 0.181615	 +/-  0.414576	(limited)
+jer	  = 0.121188	 +/-  0.774535	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0205425	 +/-  0.992069	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0347402	 +/-  0.992199	(limited)
+mcscale	  = -0.124941	 +/-  0.533272	(limited)
+mu_id	  = 0.0804063	 +/-  0.981155	(limited)
+mu_iso	  = 0.0150609	 +/-  0.989501	(limited)
+mu_reco	  = -0.0696186	 +/-  0.988052	(limited)
+mu_trigger	  = -0.180084	 +/-  0.973023	(limited)
+others_rate	  = -0.0279701	 +/-  0.580269	(limited)
+pdf	  = 0.403359	 +/-  0.470636	(limited)
+prefiring	  = 0.0949416	 +/-  0.891419	(limited)
+pu	  = -0.0735162	 +/-  0.764331	(limited)
+st_rate	  = 0.0308973	 +/-  0.25584	(limited)
+tmistag	  = 0.257782	 +/-  0.89357	(limited)
+ttag_corr	  = -0.0678199	 +/-  0.816692	(limited)
+ttag_uncorr_UL16postVFP	  = -0.177078	 +/-  0.81333	(limited)
+ttbar_rate	  = 0.453698	 +/-  0.275673	(limited)
+wjets_rate	  = 0.0816622	 +/-  0.269152	(limited)
+At r = 1.500000:	delta(nll) = 3.21074
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.63829782910148869
+Edm   = 6.92137870779451126e-05
+Nfcn  = 3630
+btag_cferr1	  = -0.148219	 +/-  0.430181	(limited)
+btag_cferr2	  = -0.0573959	 +/-  0.688558	(limited)
+btag_hf	  = -0.240218	 +/-  0.86547	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0120868	 +/-  1.03716	(limited)
+btag_hfstats2_UL16postVFP	  = 0.268519	 +/-  0.987321	(limited)
+btag_lf	  = 0.0497734	 +/-  0.961906	(limited)
+btag_lfstats1_UL16postVFP	  = 0.543425	 +/-  0.950178	(limited)
+btag_lfstats2_UL16postVFP	  = 0.418522	 +/-  0.997374	(limited)
+ele_id	  = -0.0581179	 +/-  0.929154	(limited)
+ele_reco	  = -0.0685715	 +/-  0.96396	(limited)
+ele_trigger	  = -0.00605179	 +/-  0.459851	(limited)
+jec	  = 0.0845892	 +/-  0.396652	(limited)
+jer	  = 0.0556395	 +/-  0.755077	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0120028	 +/-  0.993823	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0192967	 +/-  0.987939	(limited)
+mcscale	  = -0.0669225	 +/-  0.559395	(limited)
+mu_id	  = 0.0673427	 +/-  0.979933	(limited)
+mu_iso	  = 0.011778	 +/-  0.989551	(limited)
+mu_reco	  = -0.0549087	 +/-  0.987968	(limited)
+mu_trigger	  = -0.140545	 +/-  0.970835	(limited)
+others_rate	  = -0.0428264	 +/-  0.609449	(limited)
+pdf	  = 0.389442	 +/-  0.496119	(limited)
+prefiring	  = 0.114493	 +/-  0.884528	(limited)
+pu	  = -0.0172528	 +/-  0.763045	(limited)
+st_rate	  = 0.0222663	 +/-  0.256569	(limited)
+tmistag	  = 0.195982	 +/-  0.884769	(limited)
+ttag_corr	  = -0.0406502	 +/-  0.82037	(limited)
+ttag_uncorr_UL16postVFP	  = -0.116092	 +/-  0.811237	(limited)
+ttbar_rate	  = 0.323787	 +/-  0.269426	(limited)
+wjets_rate	  = 0.0505543	 +/-  0.295907	(limited)
+At r = 1.250000:	delta(nll) = 1.79023
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.174635016659469816
+Edm   = 2.40613736936681717e-05
+Nfcn  = 3241
+btag_cferr1	  = -0.195296	 +/-  0.130566	(limited)
+btag_cferr2	  = -0.0867897	 +/-  0.226163	(limited)
+btag_hf	  = -0.264899	 +/-  0.56055	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0124496	 +/-  1.0166	(limited)
+btag_hfstats2_UL16postVFP	  = 0.324105	 +/-  0.84735	(limited)
+btag_lf	  = 0.0666054	 +/-  0.879029	(limited)
+btag_lfstats1_UL16postVFP	  = 0.639004	 +/-  0.377682	(limited)
+btag_lfstats2_UL16postVFP	  = 0.496756	 +/-  0.437751	(limited)
+ele_id	  = -0.0761888	 +/-  0.705921	(limited)
+ele_reco	  = -0.0895878	 +/-  0.894104	(limited)
+ele_trigger	  = 0.0133396	 +/-  0.333117	(limited)
+jec	  = 0.128309	 +/-  0.239975	(limited)
+jer	  = 0.0856488	 +/-  0.660113	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0164019	 +/-  0.909484	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.024562	 +/-  0.798586	(limited)
+mcscale	  = -0.0920217	 +/-  0.390663	(limited)
+mu_id	  = 0.0756248	 +/-  0.95235	(limited)
+mu_iso	  = 0.0138724	 +/-  0.980936	(limited)
+mu_reco	  = -0.0620676	 +/-  0.979492	(limited)
+mu_trigger	  = -0.160895	 +/-  0.955901	(limited)
+others_rate	  = -0.0387998	 +/-  0.524318	(limited)
+pdf	  = 0.39842	 +/-  0.278903	(limited)
+prefiring	  = 0.106365	 +/-  0.794087	(limited)
+pu	  = -0.0409742	 +/-  0.71211	(limited)
+st_rate	  = 0.0267662	 +/-  0.220909	(limited)
+tmistag	  = 0.224088	 +/-  0.854128	(limited)
+ttag_corr	  = -0.0545562	 +/-  0.78372	(limited)
+ttag_uncorr_UL16postVFP	  = -0.146565	 +/-  0.77692	(limited)
+ttbar_rate	  = 0.385455	 +/-  0.0835719	(limited)
+wjets_rate	  = 0.0667783	 +/-  0.166493	(limited)
+At r = 1.375000:	delta(nll) = 2.42690
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0403282483143820591
+Edm   = 2.59705597673097255e-06
+Nfcn  = 2682
+btag_cferr1	  = -0.170811	 +/-  0.45557	(limited)
+btag_cferr2	  = -0.0729738	 +/-  0.748176	(limited)
+btag_hf	  = -0.253399	 +/-  0.817593	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0117359	 +/-  1.04561	(limited)
+btag_hfstats2_UL16postVFP	  = 0.295628	 +/-  0.970865	(limited)
+btag_lf	  = 0.0635671	 +/-  1.00937	(limited)
+btag_lfstats1_UL16postVFP	  = 0.591146	 +/-  0.984835	(limited)
+btag_lfstats2_UL16postVFP	  = 0.456122	 +/-  0.830279	(limited)
+ele_id	  = -0.0675418	 +/-  0.882477	(limited)
+ele_reco	  = -0.0787332	 +/-  0.954163	(limited)
+ele_trigger	  = 0.00343228	 +/-  0.424777	(limited)
+jec	  = 0.106154	 +/-  0.402456	(limited)
+jer	  = 0.0697732	 +/-  0.770729	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.012761	 +/-  0.989499	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0222821	 +/-  0.979878	(limited)
+mcscale	  = -0.0795884	 +/-  0.547373	(limited)
+mu_id	  = 0.0710958	 +/-  0.976487	(limited)
+mu_iso	  = 0.0127473	 +/-  0.98996	(limited)
+mu_reco	  = -0.0584601	 +/-  0.988439	(limited)
+mu_trigger	  = -0.150486	 +/-  0.975887	(limited)
+others_rate	  = -0.0416332	 +/-  0.592325	(limited)
+pdf	  = 0.392908	 +/-  0.467321	(limited)
+prefiring	  = 0.111264	 +/-  0.880814	(limited)
+pu	  = -0.02861	 +/-  0.753412	(limited)
+st_rate	  = 0.0242944	 +/-  0.256227	(limited)
+tmistag	  = 0.210351	 +/-  0.882113	(limited)
+ttag_corr	  = -0.0476558	 +/-  0.816955	(limited)
+ttag_uncorr_UL16postVFP	  = -0.131576	 +/-  0.816863	(limited)
+ttbar_rate	  = 0.354629	 +/-  0.276481	(limited)
+wjets_rate	  = 0.0587609	 +/-  0.262754	(limited)
+At r = 1.312500:	delta(nll) = 2.09098
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.0110969525738479555
+Edm   = 1.2222495698832512e-05
+Nfcn  = 1873
+btag_cferr1	  = -0.161603	 +/-  0.128636	(limited)
+btag_cferr2	  = -0.0645527	 +/-  0.231052	(limited)
+btag_hf	  = -0.246485	 +/-  0.553243	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0117842	 +/-  1.01976	(limited)
+btag_hfstats2_UL16postVFP	  = 0.282157	 +/-  0.851104	(limited)
+btag_lf	  = 0.0619236	 +/-  0.974391	(limited)
+btag_lfstats1_UL16postVFP	  = 0.563603	 +/-  0.380064	(limited)
+btag_lfstats2_UL16postVFP	  = 0.434149	 +/-  0.436057	(limited)
+ele_id	  = -0.0670797	 +/-  0.685158	(limited)
+ele_reco	  = -0.073035	 +/-  0.883416	(limited)
+ele_trigger	  = 0.00091269	 +/-  0.317635	(limited)
+jec	  = 0.0963838	 +/-  0.240196	(limited)
+jer	  = 0.0606681	 +/-  0.651617	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.012062	 +/-  0.908633	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0188803	 +/-  0.806617	(limited)
+mcscale	  = -0.0745298	 +/-  0.377336	(limited)
+mu_id	  = 0.0695801	 +/-  0.951127	(limited)
+mu_iso	  = 0.0123282	 +/-  0.981308	(limited)
+mu_reco	  = -0.0565888	 +/-  0.979973	(limited)
+mu_trigger	  = -0.14502	 +/-  0.955377	(limited)
+others_rate	  = -0.041952	 +/-  0.534558	(limited)
+pdf	  = 0.389587	 +/-  0.28309	(limited)
+prefiring	  = 0.114694	 +/-  0.793124	(limited)
+pu	  = -0.0219937	 +/-  0.710218	(limited)
+st_rate	  = 0.0226265	 +/-  0.227761	(limited)
+tmistag	  = 0.203869	 +/-  0.848691	(limited)
+ttag_corr	  = -0.0440948	 +/-  0.784134	(limited)
+ttag_uncorr_UL16postVFP	  = -0.123917	 +/-  0.773803	(limited)
+ttbar_rate	  = 0.339366	 +/-  0.0793191	(limited)
+wjets_rate	  = 0.0546869	 +/-  0.164976	(limited)
+At r = 1.281250:	delta(nll) = 1.93635
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.00307717136558025885
+Edm   = 1.00633305450999668e-06
+Nfcn  = 2426
+btag_cferr1	  = -0.151307	 +/-  0.128779	(limited)
+btag_cferr2	  = -0.0646033	 +/-  0.223279	(limited)
+btag_hf	  = -0.242925	 +/-  0.55327	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0113695	 +/-  1.01123	(limited)
+btag_hfstats2_UL16postVFP	  = 0.27562	 +/-  0.840756	(limited)
+btag_lf	  = 0.0582215	 +/-  0.922966	(limited)
+btag_lfstats1_UL16postVFP	  = 0.555455	 +/-  0.372293	(limited)
+btag_lfstats2_UL16postVFP	  = 0.426947	 +/-  0.428111	(limited)
+ele_id	  = -0.0625726	 +/-  0.693352	(limited)
+ele_reco	  = -0.0708668	 +/-  0.887726	(limited)
+ele_trigger	  = -0.00277542	 +/-  0.322314	(limited)
+jec	  = 0.0899465	 +/-  0.238762	(limited)
+jer	  = 0.0581391	 +/-  0.648543	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0116734	 +/-  0.897192	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0188427	 +/-  0.787112	(limited)
+mcscale	  = -0.0706024	 +/-  0.377141	(limited)
+mu_id	  = 0.0682609	 +/-  0.951447	(limited)
+mu_iso	  = 0.0122538	 +/-  0.980863	(limited)
+mu_reco	  = -0.0556571	 +/-  0.979483	(limited)
+mu_trigger	  = -0.143393	 +/-  0.954529	(limited)
+others_rate	  = -0.042346	 +/-  0.529622	(limited)
+pdf	  = 0.388421	 +/-  0.281706	(limited)
+prefiring	  = 0.114193	 +/-  0.788241	(limited)
+pu	  = -0.0196699	 +/-  0.707333	(limited)
+st_rate	  = 0.0224578	 +/-  0.222372	(limited)
+tmistag	  = 0.199275	 +/-  0.852096	(limited)
+ttag_corr	  = -0.0423535	 +/-  0.783568	(limited)
+ttag_uncorr_UL16postVFP	  = -0.120122	 +/-  0.77514	(limited)
+ttbar_rate	  = 0.331423	 +/-  0.0787895	(limited)
+wjets_rate	  = 0.0529268	 +/-  0.165703	(limited)
+At r = 1.265625:	delta(nll) = 1.86217
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.00282503906540813865
+Edm   = 3.45719417066965343e-05
+Nfcn  = 2296
+btag_cferr1	  = -0.153843	 +/-  0.840158	(limited)
+btag_cferr2	  = -0.0722293	 +/-  1.4218	(limited)
+btag_hf	  = -0.246402	 +/-  1.00652	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0112918	 +/-  1.04458	(limited)
+btag_hfstats2_UL16postVFP	  = 0.281561	 +/-  1.01258	(limited)
+btag_lf	  = 0.0599757	 +/-  1.02653	(limited)
+btag_lfstats1_UL16postVFP	  = 0.567206	 +/-  1.59703	(limited)
+btag_lfstats2_UL16postVFP	  = 0.437983	 +/-  1.32163	(limited)
+ele_id	  = -0.0638761	 +/-  0.947985	(limited)
+ele_reco	  = -0.0730756	 +/-  0.978586	(limited)
+ele_trigger	  = -0.00111484	 +/-  0.458921	(limited)
+jec	  = 0.0949053	 +/-  0.769952	(limited)
+jer	  = 0.0629149	 +/-  1.11818	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0120176	 +/-  1.06178	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0215185	 +/-  1.0499	(limited)
+mcscale	  = -0.073289	 +/-  0.534137	(limited)
+mu_id	  = 0.0695354	 +/-  0.999165	(limited)
+mu_iso	  = 0.0125135	 +/-  0.991632	(limited)
+mu_reco	  = -0.0563426	 +/-  0.989452	(limited)
+mu_trigger	  = -0.145933	 +/-  1.0125	(limited)
+others_rate	  = -0.0420295	 +/-  0.64621	(limited)
+pdf	  = 0.390952	 +/-  0.925621	(limited)
+prefiring	  = 0.112951	 +/-  0.952194	(limited)
+pu	  = -0.0227352	 +/-  0.807169	(limited)
+st_rate	  = 0.0231338	 +/-  0.28881	(limited)
+tmistag	  = 0.201889	 +/-  0.930657	(limited)
+ttag_corr	  = -0.0438359	 +/-  0.838798	(limited)
+ttag_uncorr_UL16postVFP	  = -0.123629	 +/-  0.859243	(limited)
+ttbar_rate	  = 0.338459	 +/-  0.698611	(limited)
+wjets_rate	  = 0.0545993	 +/-  0.282074	(limited)
+At r = 1.281250:	delta(nll) = 1.93633
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.000721266689069884406
+Edm   = 2.16454781288715689e-06
+Nfcn  = 1501
+btag_cferr1	  = -0.155898	 +/-  0.129156	(limited)
+btag_cferr2	  = -0.0667511	 +/-  0.22369	(limited)
+btag_hf	  = -0.242273	 +/-  0.545815	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0118219	 +/-  1.01298	(limited)
+btag_hfstats2_UL16postVFP	  = 0.278979	 +/-  0.840973	(limited)
+btag_lf	  = 0.0597846	 +/-  0.936486	(limited)
+btag_lfstats1_UL16postVFP	  = 0.560515	 +/-  0.372321	(limited)
+btag_lfstats2_UL16postVFP	  = 0.431327	 +/-  0.422167	(limited)
+ele_id	  = -0.0627138	 +/-  0.688644	(limited)
+ele_reco	  = -0.0716383	 +/-  0.88654	(limited)
+ele_trigger	  = -0.00214986	 +/-  0.316001	(limited)
+jec	  = 0.0935593	 +/-  0.23977	(limited)
+jer	  = 0.059204	 +/-  0.651336	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.01213	 +/-  0.910493	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0203987	 +/-  0.797994	(limited)
+mcscale	  = -0.0717286	 +/-  0.378614	(limited)
+mu_id	  = 0.0685548	 +/-  0.951691	(limited)
+mu_iso	  = 0.0123118	 +/-  0.980787	(limited)
+mu_reco	  = -0.0560427	 +/-  0.979774	(limited)
+mu_trigger	  = -0.144072	 +/-  0.954949	(limited)
+others_rate	  = -0.0427676	 +/-  0.534921	(limited)
+pdf	  = 0.388482	 +/-  0.283838	(limited)
+prefiring	  = 0.114542	 +/-  0.791489	(limited)
+pu	  = -0.022282	 +/-  0.708489	(limited)
+st_rate	  = 0.0225041	 +/-  0.223965	(limited)
+tmistag	  = 0.201238	 +/-  0.853179	(limited)
+ttag_corr	  = -0.0428404	 +/-  0.784791	(limited)
+ttag_uncorr_UL16postVFP	  = -0.121573	 +/-  0.777201	(limited)
+ttbar_rate	  = 0.33634	 +/-  0.0833975	(limited)
+wjets_rate	  = 0.0547598	 +/-  0.162825	(limited)
+At r = 1.273438:	delta(nll) = 1.89898
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.000677417430296019772
+Edm   = 1.07744129637712081e-06
+Nfcn  = 1496
+btag_cferr1	  = -0.155904	 +/-  0.131959	(limited)
+btag_cferr2	  = -0.0678957	 +/-  0.22791	(limited)
+btag_hf	  = -0.245673	 +/-  0.566588	(limited)
+btag_hfstats1_UL16postVFP	  = -0.011623	 +/-  1.01591	(limited)
+btag_hfstats2_UL16postVFP	  = 0.282225	 +/-  0.853487	(limited)
+btag_lf	  = 0.0596772	 +/-  0.935397	(limited)
+btag_lfstats1_UL16postVFP	  = 0.56744	 +/-  0.383249	(limited)
+btag_lfstats2_UL16postVFP	  = 0.434546	 +/-  0.440483	(limited)
+ele_id	  = -0.0638175	 +/-  0.694969	(limited)
+ele_reco	  = -0.0733605	 +/-  0.89645	(limited)
+ele_trigger	  = -0.000876564	 +/-  0.324594	(limited)
+jec	  = 0.0945609	 +/-  0.243663	(limited)
+jer	  = 0.0633944	 +/-  0.656877	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0116956	 +/-  0.907486	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0201562	 +/-  0.808787	(limited)
+mcscale	  = -0.0740885	 +/-  0.379722	(limited)
+mu_id	  = 0.0697022	 +/-  0.952818	(limited)
+mu_iso	  = 0.0125263	 +/-  0.981429	(limited)
+mu_reco	  = -0.0565891	 +/-  0.979629	(limited)
+mu_trigger	  = -0.146061	 +/-  0.955778	(limited)
+others_rate	  = -0.0420909	 +/-  0.535655	(limited)
+pdf	  = 0.390132	 +/-  0.277323	(limited)
+prefiring	  = 0.113454	 +/-  0.797015	(limited)
+pu	  = -0.0219517	 +/-  0.709092	(limited)
+st_rate	  = 0.0231802	 +/-  0.224551	(limited)
+tmistag	  = 0.202991	 +/-  0.852429	(limited)
+ttag_corr	  = -0.0444501	 +/-  0.783457	(limited)
+ttag_uncorr_UL16postVFP	  = -0.123971	 +/-  0.775483	(limited)
+ttbar_rate	  = 0.337978	 +/-  0.0831732	(limited)
+wjets_rate	  = 0.0546352	 +/-  0.169434	(limited)
+At r = 1.281250:	delta(nll) = 1.93630
+Median for expected limits: 1.27734
+Sigma  for expected limits: 0.651718
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -9.58327957687600573
+Edm   = 1.49682079901979995e-05
+Nfcn  = 3818
+btag_cferr1	  = 0.000438438	 +/-  0.583136	(limited)
+btag_cferr2	  = -0.00317923	 +/-  0.828691	(limited)
+btag_hf	  = -0.122982	 +/-  0.846913	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00490698	 +/-  0.996328	(limited)
+btag_hfstats2_UL16postVFP	  = 0.060764	 +/-  0.977907	(limited)
+btag_lf	  = 0.0198913	 +/-  0.981372	(limited)
+btag_lfstats1_UL16postVFP	  = 0.153338	 +/-  0.91158	(limited)
+btag_lfstats2_UL16postVFP	  = 0.104879	 +/-  0.93191	(limited)
+ele_id	  = -0.00827348	 +/-  0.914161	(limited)
+ele_reco	  = -0.00268824	 +/-  0.962239	(limited)
+ele_trigger	  = -0.0431735	 +/-  0.438009	(limited)
+jec	  = -0.0189018	 +/-  0.358881	(limited)
+jer	  = -0.00645139	 +/-  0.613656	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00128878	 +/-  0.995811	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.000945482	 +/-  0.994335	(limited)
+mcscale	  = -0.00932098	 +/-  0.429302	(limited)
+mu_id	  = 0.0251896	 +/-  0.978446	(limited)
+mu_iso	  = 0.00457299	 +/-  0.989538	(limited)
+mu_reco	  = -0.0206681	 +/-  0.988104	(limited)
+mu_trigger	  = -0.0488681	 +/-  0.971989	(limited)
+others_rate	  = -0.0341912	 +/-  0.615602	(limited)
+pdf	  = 0.249742	 +/-  0.565154	(limited)
+prefiring	  = 0.0969532	 +/-  0.881055	(limited)
+pu	  = 0.0281934	 +/-  0.743271	(limited)
+st_rate	  = -0.000479987	 +/-  0.267112	(limited)
+tmistag	  = 0.0883618	 +/-  0.868468	(limited)
+ttag_corr	  = 0.0169031	 +/-  0.828328	(limited)
+ttag_uncorr_UL16postVFP	  = 0.000314085	 +/-  0.816563	(limited)
+ttbar_rate	  = 0.0938232	 +/-  0.29356	(limited)
+wjets_rate	  = -0.00522986	 +/-  0.278908	(limited)
+At r = 0.638672:	delta(nll) = 0.26057
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -3.6761237227743937
+Edm   = 7.16672971868476848e-05
+Nfcn  = 2801
+btag_cferr1	  = -0.052518	 +/-  0.575138	(limited)
+btag_cferr2	  = -0.0257427	 +/-  0.856106	(limited)
+btag_hf	  = -0.182856	 +/-  0.842174	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0079651	 +/-  1.01127	(limited)
+btag_hfstats2_UL16postVFP	  = 0.153163	 +/-  0.977964	(limited)
+btag_lf	  = 0.0374135	 +/-  0.939214	(limited)
+btag_lfstats1_UL16postVFP	  = 0.333631	 +/-  0.90646	(limited)
+btag_lfstats2_UL16postVFP	  = 0.247111	 +/-  0.914863	(limited)
+ele_id	  = -0.0289567	 +/-  0.914843	(limited)
+ele_reco	  = -0.0290096	 +/-  0.962387	(limited)
+ele_trigger	  = -0.0334649	 +/-  0.440351	(limited)
+jec	  = 0.0149337	 +/-  0.380524	(limited)
+jer	  = 0.00837817	 +/-  0.696531	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00308099	 +/-  0.99788	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00901816	 +/-  1.0043	(limited)
+mcscale	  = -0.0326709	 +/-  0.453085	(limited)
+mu_id	  = 0.0466556	 +/-  0.979484	(limited)
+mu_iso	  = 0.00825888	 +/-  0.989531	(limited)
+mu_reco	  = -0.0375032	 +/-  0.988147	(limited)
+mu_trigger	  = -0.0936028	 +/-  0.972637	(limited)
+others_rate	  = -0.0423339	 +/-  0.622648	(limited)
+pdf	  = 0.338841	 +/-  0.578332	(limited)
+prefiring	  = 0.120096	 +/-  0.884402	(limited)
+pu	  = 0.0169819	 +/-  0.752493	(limited)
+st_rate	  = 0.00935738	 +/-  0.262157	(limited)
+tmistag	  = 0.141183	 +/-  0.876451	(limited)
+ttag_corr	  = -0.00906824	 +/-  0.82352	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0511173	 +/-  0.814794	(limited)
+ttbar_rate	  = 0.19733	 +/-  0.297995	(limited)
+wjets_rate	  = 0.0183982	 +/-  0.270755	(limited)
+At r = 0.958008:	delta(nll) = 0.78982
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.73416978646006481
+Edm   = 2.98465451423484635e-05
+Nfcn  = 3073
+btag_cferr1	  = -0.0232806	 +/-  0.558631	(limited)
+btag_cferr2	  = -0.00891726	 +/-  0.909483	(limited)
+btag_hf	  = -0.14962	 +/-  0.827188	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00650326	 +/-  1.00302	(limited)
+btag_hfstats2_UL16postVFP	  = 0.102922	 +/-  0.976153	(limited)
+btag_lf	  = 0.0296476	 +/-  0.977575	(limited)
+btag_lfstats1_UL16postVFP	  = 0.234633	 +/-  0.907935	(limited)
+btag_lfstats2_UL16postVFP	  = 0.172027	 +/-  0.940731	(limited)
+ele_id	  = -0.0159345	 +/-  0.914483	(limited)
+ele_reco	  = -0.0135478	 +/-  0.961663	(limited)
+ele_trigger	  = -0.0410703	 +/-  0.437884	(limited)
+jec	  = -0.00582726	 +/-  0.358239	(limited)
+jer	  = -0.00158345	 +/-  0.641422	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00218998	 +/-  0.995291	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00149284	 +/-  0.988535	(limited)
+mcscale	  = -0.0179005	 +/-  0.452264	(limited)
+mu_id	  = 0.0355912	 +/-  0.977619	(limited)
+mu_iso	  = 0.00636373	 +/-  0.989588	(limited)
+mu_reco	  = -0.0288212	 +/-  0.98803	(limited)
+mu_trigger	  = -0.0692209	 +/-  0.972392	(limited)
+others_rate	  = -0.0400534	 +/-  0.618382	(limited)
+pdf	  = 0.300629	 +/-  0.541908	(limited)
+prefiring	  = 0.112647	 +/-  0.879568	(limited)
+pu	  = 0.0256241	 +/-  0.748115	(limited)
+st_rate	  = 0.00292307	 +/-  0.26283	(limited)
+tmistag	  = 0.113826	 +/-  0.87249	(limited)
+ttag_corr	  = 0.00619293	 +/-  0.820352	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0220177	 +/-  0.816928	(limited)
+ttbar_rate	  = 0.141153	 +/-  0.297099	(limited)
+wjets_rate	  = 0.00582328	 +/-  0.259239	(limited)
+At r = 0.798340:	delta(nll) = 0.46902
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.207693797714429779
+Edm   = 2.14105485316015122e-05
+Nfcn  = 2248
+btag_cferr1	  = -0.0283123	 +/-  0.135892	(limited)
+btag_cferr2	  = -0.020619	 +/-  0.23562	(limited)
+btag_hf	  = -0.167834	 +/-  0.544796	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00733863	 +/-  0.981006	(limited)
+btag_hfstats2_UL16postVFP	  = 0.128131	 +/-  0.847895	(limited)
+btag_lf	  = 0.0329158	 +/-  0.88565	(limited)
+btag_lfstats1_UL16postVFP	  = 0.28703	 +/-  0.381009	(limited)
+btag_lfstats2_UL16postVFP	  = 0.208794	 +/-  0.43899	(limited)
+ele_id	  = -0.0217655	 +/-  0.697824	(limited)
+ele_reco	  = -0.0212411	 +/-  0.893517	(limited)
+ele_trigger	  = -0.0385766	 +/-  0.32062	(limited)
+jec	  = 0.00194056	 +/-  0.232329	(limited)
+jer	  = 0.00423553	 +/-  0.584483	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00249813	 +/-  0.903722	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00601817	 +/-  0.804228	(limited)
+mcscale	  = -0.0239874	 +/-  0.35856	(limited)
+mu_id	  = 0.0397633	 +/-  0.952301	(limited)
+mu_iso	  = 0.00749503	 +/-  0.981097	(limited)
+mu_reco	  = -0.0334013	 +/-  0.979481	(limited)
+mu_trigger	  = -0.0828627	 +/-  0.954813	(limited)
+others_rate	  = -0.0418696	 +/-  0.535573	(limited)
+pdf	  = 0.320632	 +/-  0.318302	(limited)
+prefiring	  = 0.11811	 +/-  0.787934	(limited)
+pu	  = 0.0232951	 +/-  0.695969	(limited)
+st_rate	  = 0.00647831	 +/-  0.223837	(limited)
+tmistag	  = 0.127578	 +/-  0.843978	(limited)
+ttag_corr	  = -0.00329495	 +/-  0.792842	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0376851	 +/-  0.782037	(limited)
+ttbar_rate	  = 0.166077	 +/-  0.0824592	(limited)
+wjets_rate	  = 0.011013	 +/-  0.166791	(limited)
+At r = 0.878174:	delta(nll) = 0.61315
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0488837987639194754
+Edm   = 9.3041933367831516e-05
+Nfcn  = 2181
+btag_cferr1	  = -0.0283451	 +/-  0.541004	(limited)
+btag_cferr2	  = -0.0178412	 +/-  0.626538	(limited)
+btag_hf	  = -0.156551	 +/-  1.10751	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00662422	 +/-  1.00422	(limited)
+btag_hfstats2_UL16postVFP	  = 0.112997	 +/-  1.02169	(limited)
+btag_lf	  = 0.0359201	 +/-  0.973798	(limited)
+btag_lfstats1_UL16postVFP	  = 0.256758	 +/-  1.2379	(limited)
+btag_lfstats2_UL16postVFP	  = 0.186939	 +/-  1.1056	(limited)
+ele_id	  = -0.0181161	 +/-  0.934585	(limited)
+ele_reco	  = -0.0161264	 +/-  0.963157	(limited)
+ele_trigger	  = -0.0390148	 +/-  0.442791	(limited)
+jec	  = -0.00209041	 +/-  0.34989	(limited)
+jer	  = -0.00215733	 +/-  0.632224	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00300856	 +/-  0.999352	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00824	 +/-  0.979111	(limited)
+mcscale	  = -0.0215169	 +/-  0.47826	(limited)
+mu_id	  = 0.0423608	 +/-  0.976481	(limited)
+mu_iso	  = 0.00683194	 +/-  0.990598	(limited)
+mu_reco	  = -0.030948	 +/-  0.989666	(limited)
+mu_trigger	  = -0.0752964	 +/-  0.97364	(limited)
+others_rate	  = -0.0382614	 +/-  0.623019	(limited)
+pdf	  = 0.306141	 +/-  0.55518	(limited)
+prefiring	  = 0.117888	 +/-  0.902014	(limited)
+pu	  = 0.0243891	 +/-  0.751373	(limited)
+st_rate	  = 0.00427025	 +/-  0.263672	(limited)
+tmistag	  = 0.120496	 +/-  0.877515	(limited)
+ttag_corr	  = 0.0021547	 +/-  0.825016	(limited)
+ttag_uncorr_UL16postVFP	  = -0.029788	 +/-  0.826148	(limited)
+ttbar_rate	  = 0.156257	 +/-  0.315912	(limited)
+wjets_rate	  = 0.00907135	 +/-  0.377091	(limited)
+At r = 0.838257:	delta(nll) = 0.53734
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0126654044664591126
+Edm   = 1.53650261715553127e-05
+Nfcn  = 2247
+btag_cferr1	  = -0.0295144	 +/-  0.420952	(limited)
+btag_cferr2	  = -0.0192151	 +/-  0.519027	(limited)
+btag_hf	  = -0.162538	 +/-  0.858573	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00689259	 +/-  1.00605	(limited)
+btag_hfstats2_UL16postVFP	  = 0.120646	 +/-  0.99708	(limited)
+btag_lf	  = 0.0318978	 +/-  0.975573	(limited)
+btag_lfstats1_UL16postVFP	  = 0.268476	 +/-  1.0459	(limited)
+btag_lfstats2_UL16postVFP	  = 0.195072	 +/-  1.11785	(limited)
+ele_id	  = -0.0220746	 +/-  0.935538	(limited)
+ele_reco	  = -0.0186827	 +/-  0.967928	(limited)
+ele_trigger	  = -0.0380231	 +/-  0.474069	(limited)
+jec	  = -5.98206e-05	 +/-  0.340497	(limited)
+jer	  = 0.00133056	 +/-  0.679996	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00305708	 +/-  0.997369	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0052453	 +/-  0.9926	(limited)
+mcscale	  = -0.0238954	 +/-  0.482598	(limited)
+mu_id	  = 0.0396431	 +/-  0.978777	(limited)
+mu_iso	  = 0.00711396	 +/-  0.989674	(limited)
+mu_reco	  = -0.0320561	 +/-  0.988157	(limited)
+mu_trigger	  = -0.0793661	 +/-  0.972666	(limited)
+others_rate	  = -0.0406905	 +/-  0.615639	(limited)
+pdf	  = 0.317691	 +/-  0.574182	(limited)
+prefiring	  = 0.116306	 +/-  0.885066	(limited)
+pu	  = 0.024186	 +/-  0.740057	(limited)
+st_rate	  = 0.00513081	 +/-  0.269357	(limited)
+tmistag	  = 0.123885	 +/-  0.890335	(limited)
+ttag_corr	  = 0.000541048	 +/-  0.821093	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0326103	 +/-  0.814686	(limited)
+ttbar_rate	  = 0.159895	 +/-  0.218563	(limited)
+wjets_rate	  = 0.00917044	 +/-  0.265753	(limited)
+At r = 0.858215:	delta(nll) = 0.57418
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.00320973388327708622
+Edm   = 1.67358382178941881e-05
+Nfcn  = 1565
+btag_cferr1	  = -0.02916	 +/-  0.535988	(limited)
+btag_cferr2	  = -0.0175259	 +/-  0.75729	(limited)
+btag_hf	  = -0.160366	 +/-  0.858422	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0075089	 +/-  1.00527	(limited)
+btag_hfstats2_UL16postVFP	  = 0.116852	 +/-  0.986094	(limited)
+btag_lf	  = 0.0319627	 +/-  0.967641	(limited)
+btag_lfstats1_UL16postVFP	  = 0.263525	 +/-  0.933845	(limited)
+btag_lfstats2_UL16postVFP	  = 0.192432	 +/-  0.901092	(limited)
+ele_id	  = -0.0195364	 +/-  0.89734	(limited)
+ele_reco	  = -0.0177502	 +/-  0.961492	(limited)
+ele_trigger	  = -0.0392041	 +/-  0.433448	(limited)
+jec	  = -0.000359169	 +/-  0.404318	(limited)
+jer	  = 1.04307e-05	 +/-  0.668921	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00244262	 +/-  0.996551	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00452667	 +/-  1.03028	(limited)
+mcscale	  = -0.0226254	 +/-  0.445789	(limited)
+mu_id	  = 0.0392549	 +/-  0.978369	(limited)
+mu_iso	  = 0.00701664	 +/-  0.989968	(limited)
+mu_reco	  = -0.0314535	 +/-  0.988207	(limited)
+mu_trigger	  = -0.0768634	 +/-  0.973746	(limited)
+others_rate	  = -0.0406346	 +/-  0.624439	(limited)
+pdf	  = 0.3121	 +/-  0.639668	(limited)
+prefiring	  = 0.11632	 +/-  0.878267	(limited)
+pu	  = 0.0237831	 +/-  0.750145	(limited)
+st_rate	  = 0.00500644	 +/-  0.265901	(limited)
+tmistag	  = 0.121811	 +/-  0.876482	(limited)
+ttag_corr	  = 0.0016534	 +/-  0.829232	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0308911	 +/-  0.818453	(limited)
+ttbar_rate	  = 0.157917	 +/-  0.340786	(limited)
+wjets_rate	  = 0.00903459	 +/-  0.295293	(limited)
+At r = 0.848236:	delta(nll) = 0.55547
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.000713085905056793853
+Edm   = 6.94725809355090909e-05
+Nfcn  = 819
+btag_cferr1	  = -0.0291056	 +/-  0.423491	(limited)
+btag_cferr2	  = -0.0174274	 +/-  0.620847	(limited)
+btag_hf	  = -0.160378	 +/-  0.923694	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00880274	 +/-  1.00463	(limited)
+btag_hfstats2_UL16postVFP	  = 0.116373	 +/-  1.00337	(limited)
+btag_lf	  = 0.032932	 +/-  0.954159	(limited)
+btag_lfstats1_UL16postVFP	  = 0.263394	 +/-  0.95821	(limited)
+btag_lfstats2_UL16postVFP	  = 0.192289	 +/-  0.979338	(limited)
+ele_id	  = -0.0191014	 +/-  0.912158	(limited)
+ele_reco	  = -0.0170517	 +/-  0.957972	(limited)
+ele_trigger	  = -0.0390133	 +/-  0.433892	(limited)
+jec	  = -0.000248312	 +/-  0.349996	(limited)
+jer	  = 0.000511327	 +/-  0.639517	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00170338	 +/-  1.01309	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00403601	 +/-  0.976303	(limited)
+mcscale	  = -0.0228131	 +/-  0.512739	(limited)
+mu_id	  = 0.0396491	 +/-  0.975476	(limited)
+mu_iso	  = 0.00704127	 +/-  0.989867	(limited)
+mu_reco	  = -0.031772	 +/-  0.988375	(limited)
+mu_trigger	  = -0.0774328	 +/-  0.973973	(limited)
+others_rate	  = -0.0405785	 +/-  0.618958	(limited)
+pdf	  = 0.312279	 +/-  0.606544	(limited)
+prefiring	  = 0.11593	 +/-  0.900587	(limited)
+pu	  = 0.0233802	 +/-  0.741838	(limited)
+st_rate	  = 0.00515854	 +/-  0.258281	(limited)
+tmistag	  = 0.120468	 +/-  0.876319	(limited)
+ttag_corr	  = 0.0002131	 +/-  0.823748	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0323493	 +/-  0.815649	(limited)
+ttbar_rate	  = 0.157956	 +/-  0.293301	(limited)
+wjets_rate	  = 0.00900483	 +/-  0.338389	(limited)
+At r = 0.853226:	delta(nll) = 0.56481
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.10049490096135116
+Edm   = 3.67736116189974001e-05
+Nfcn  = 2747
+btag_cferr1	  = -0.0785697	 +/-  0.553944	(limited)
+btag_cferr2	  = -0.0397191	 +/-  0.764109	(limited)
+btag_hf	  = -0.202465	 +/-  0.854514	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00949895	 +/-  1.02025	(limited)
+btag_hfstats2_UL16postVFP	  = 0.194582	 +/-  0.982046	(limited)
+btag_lf	  = 0.0439938	 +/-  0.957062	(limited)
+btag_lfstats1_UL16postVFP	  = 0.403662	 +/-  0.89125	(limited)
+btag_lfstats2_UL16postVFP	  = 0.303993	 +/-  0.950182	(limited)
+ele_id	  = -0.0389973	 +/-  0.920421	(limited)
+ele_reco	  = -0.0425544	 +/-  0.963232	(limited)
+ele_trigger	  = -0.0250376	 +/-  0.445076	(limited)
+jec	  = 0.0340747	 +/-  0.384061	(limited)
+jer	  = 0.022799	 +/-  0.734156	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00523119	 +/-  1.00252	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00977735	 +/-  0.997984	(limited)
+mcscale	  = -0.0431935	 +/-  0.455692	(limited)
+mu_id	  = 0.055541	 +/-  0.97929	(limited)
+mu_iso	  = 0.00945283	 +/-  0.98956	(limited)
+mu_reco	  = -0.043785	 +/-  0.988191	(limited)
+mu_trigger	  = -0.111102	 +/-  0.972579	(limited)
+others_rate	  = -0.0433567	 +/-  0.617911	(limited)
+pdf	  = 0.364727	 +/-  0.573515	(limited)
+prefiring	  = 0.119474	 +/-  0.888022	(limited)
+pu	  = 0.00901044	 +/-  0.75886	(limited)
+st_rate	  = 0.0131288	 +/-  0.262748	(limited)
+tmistag	  = 0.159577	 +/-  0.878422	(limited)
+ttag_corr	  = -0.020569	 +/-  0.821567	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0739121	 +/-  0.81328	(limited)
+ttbar_rate	  = 0.237909	 +/-  0.296992	(limited)
+wjets_rate	  = 0.0285376	 +/-  0.275406	(limited)
+At r = 1.065285:	delta(nll) = 1.08697
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.233109703880655883
+Edm   = 6.42705410158847031e-06
+Nfcn  = 2448
+btag_cferr1	  = -0.0528227	 +/-  0.511831	(limited)
+btag_cferr2	  = -0.0260039	 +/-  0.844259	(limited)
+btag_hf	  = -0.181052	 +/-  0.849825	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00867481	 +/-  1.02038	(limited)
+btag_hfstats2_UL16postVFP	  = 0.15399	 +/-  0.980559	(limited)
+btag_lf	  = 0.0392016	 +/-  1.11784	(limited)
+btag_lfstats1_UL16postVFP	  = 0.332564	 +/-  0.855462	(limited)
+btag_lfstats2_UL16postVFP	  = 0.247706	 +/-  0.938848	(limited)
+ele_id	  = -0.0288085	 +/-  0.925151	(limited)
+ele_reco	  = -0.0292144	 +/-  0.960861	(limited)
+ele_trigger	  = -0.0333292	 +/-  0.44308	(limited)
+jec	  = 0.0144858	 +/-  0.370052	(limited)
+jer	  = 0.00935938	 +/-  0.640781	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00443086	 +/-  0.991455	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00752512	 +/-  0.985739	(limited)
+mcscale	  = -0.0320001	 +/-  0.443058	(limited)
+mu_id	  = 0.0471826	 +/-  0.976906	(limited)
+mu_iso	  = 0.00807405	 +/-  0.988936	(limited)
+mu_reco	  = -0.0376841	 +/-  0.987877	(limited)
+mu_trigger	  = -0.0939263	 +/-  0.971153	(limited)
+others_rate	  = -0.0423936	 +/-  0.609988	(limited)
+pdf	  = 0.341372	 +/-  0.532443	(limited)
+prefiring	  = 0.119969	 +/-  0.878587	(limited)
+pu	  = 0.0173015	 +/-  0.74783	(limited)
+st_rate	  = 0.00854938	 +/-  0.269373	(limited)
+tmistag	  = 0.140973	 +/-  0.874481	(limited)
+ttag_corr	  = -0.00942338	 +/-  0.820506	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0513742	 +/-  0.811664	(limited)
+ttbar_rate	  = 0.197253	 +/-  0.28435	(limited)
+wjets_rate	  = 0.018879	 +/-  0.27573	(limited)
+At r = 0.959255:	delta(nll) = 0.79280
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0632483354261725722
+Edm   = 4.99240021964085401e-05
+Nfcn  = 1873
+btag_cferr1	  = -0.0649882	 +/-  0.507397	(limited)
+btag_cferr2	  = -0.031943	 +/-  0.739691	(limited)
+btag_hf	  = -0.195665	 +/-  0.905453	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00968918	 +/-  1.01904	(limited)
+btag_hfstats2_UL16postVFP	  = 0.172904	 +/-  0.982373	(limited)
+btag_lf	  = 0.0416376	 +/-  1.00452	(limited)
+btag_lfstats1_UL16postVFP	  = 0.366967	 +/-  0.884368	(limited)
+btag_lfstats2_UL16postVFP	  = 0.274202	 +/-  0.958938	(limited)
+ele_id	  = -0.0358614	 +/-  0.903697	(limited)
+ele_reco	  = -0.0364327	 +/-  0.961161	(limited)
+ele_trigger	  = -0.0284606	 +/-  0.431627	(limited)
+jec	  = 0.0233426	 +/-  0.383279	(limited)
+jer	  = 0.0161345	 +/-  0.695501	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00573222	 +/-  0.993584	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00946676	 +/-  0.977217	(limited)
+mcscale	  = -0.0377432	 +/-  0.481394	(limited)
+mu_id	  = 0.0511097	 +/-  0.97761	(limited)
+mu_iso	  = 0.00867161	 +/-  0.989533	(limited)
+mu_reco	  = -0.0405751	 +/-  0.987869	(limited)
+mu_trigger	  = -0.10225	 +/-  0.972535	(limited)
+others_rate	  = -0.043581	 +/-  0.623387	(limited)
+pdf	  = 0.353503	 +/-  0.567764	(limited)
+prefiring	  = 0.120188	 +/-  0.883694	(limited)
+pu	  = 0.0143654	 +/-  0.747039	(limited)
+st_rate	  = 0.0107747	 +/-  0.266757	(limited)
+tmistag	  = 0.149477	 +/-  0.874173	(limited)
+ttag_corr	  = -0.0158658	 +/-  0.821399	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0627419	 +/-  0.815299	(limited)
+ttbar_rate	  = 0.216666	 +/-  0.263627	(limited)
+wjets_rate	  = 0.0224348	 +/-  0.282921	(limited)
+At r = 1.012270:	delta(nll) = 0.93094
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0141477203312679184
+Edm   = 2.46383190130152512e-06
+Nfcn  = 2489
+btag_cferr1	  = -0.0726736	 +/-  0.35107	(limited)
+btag_cferr2	  = -0.0343792	 +/-  0.522793	(limited)
+btag_hf	  = -0.195388	 +/-  0.817398	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00951838	 +/-  1.01571	(limited)
+btag_hfstats2_UL16postVFP	  = 0.182688	 +/-  0.968901	(limited)
+btag_lf	  = 0.0427163	 +/-  0.94397	(limited)
+btag_lfstats1_UL16postVFP	  = 0.386672	 +/-  0.885913	(limited)
+btag_lfstats2_UL16postVFP	  = 0.290338	 +/-  0.915657	(limited)
+ele_id	  = -0.0365986	 +/-  0.904157	(limited)
+ele_reco	  = -0.0388812	 +/-  0.962424	(limited)
+ele_trigger	  = -0.0273864	 +/-  0.442902	(limited)
+jec	  = 0.0290644	 +/-  0.343658	(limited)
+jer	  = 0.0184448	 +/-  0.690371	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00575585	 +/-  0.987352	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00975878	 +/-  0.975543	(limited)
+mcscale	  = -0.0399414	 +/-  0.48831	(limited)
+mu_id	  = 0.0527804	 +/-  0.976226	(limited)
+mu_iso	  = 0.00920419	 +/-  0.989537	(limited)
+mu_reco	  = -0.0423835	 +/-  0.987672	(limited)
+mu_trigger	  = -0.107006	 +/-  0.972012	(limited)
+others_rate	  = -0.0429244	 +/-  0.599014	(limited)
+pdf	  = 0.357039	 +/-  0.496014	(limited)
+prefiring	  = 0.121269	 +/-  0.876718	(limited)
+pu	  = 0.0107217	 +/-  0.739564	(limited)
+st_rate	  = 0.0121779	 +/-  0.251233	(limited)
+tmistag	  = 0.154852	 +/-  0.872173	(limited)
+ttag_corr	  = -0.0174209	 +/-  0.817101	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0681535	 +/-  0.806606	(limited)
+ttbar_rate	  = 0.228358	 +/-  0.217567	(limited)
+wjets_rate	  = 0.0268887	 +/-  0.285144	(limited)
+At r = 1.038777:	delta(nll) = 1.00658
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.00338634506248694858
+Edm   = 1.23425391809173835e-05
+Nfcn  = 2183
+btag_cferr1	  = -0.0718828	 +/-  0.131868	(limited)
+btag_cferr2	  = -0.0344889	 +/-  0.231497	(limited)
+btag_hf	  = -0.195961	 +/-  0.541182	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00928995	 +/-  0.990782	(limited)
+btag_hfstats2_UL16postVFP	  = 0.174872	 +/-  0.841894	(limited)
+btag_lf	  = 0.0429544	 +/-  0.908023	(limited)
+btag_lfstats1_UL16postVFP	  = 0.376747	 +/-  0.371941	(limited)
+btag_lfstats2_UL16postVFP	  = 0.28249	 +/-  0.438829	(limited)
+ele_id	  = -0.0345235	 +/-  0.699922	(limited)
+ele_reco	  = -0.0374373	 +/-  0.893428	(limited)
+ele_trigger	  = -0.0285438	 +/-  0.321629	(limited)
+jec	  = 0.0280295	 +/-  0.234968	(limited)
+jer	  = 0.0157121	 +/-  0.599941	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00584326	 +/-  0.910931	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00784962	 +/-  0.792841	(limited)
+mcscale	  = -0.0389833	 +/-  0.363201	(limited)
+mu_id	  = 0.0519022	 +/-  0.952545	(limited)
+mu_iso	  = 0.00902837	 +/-  0.980998	(limited)
+mu_reco	  = -0.0415955	 +/-  0.97953	(limited)
+mu_trigger	  = -0.103686	 +/-  0.954827	(limited)
+others_rate	  = -0.0436317	 +/-  0.5319	(limited)
+pdf	  = 0.355344	 +/-  0.304297	(limited)
+prefiring	  = 0.120738	 +/-  0.786401	(limited)
+pu	  = 0.0111146	 +/-  0.702469	(limited)
+st_rate	  = 0.0114748	 +/-  0.224052	(limited)
+tmistag	  = 0.153179	 +/-  0.84255	(limited)
+ttag_corr	  = -0.0161105	 +/-  0.787726	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0643281	 +/-  0.777137	(limited)
+ttbar_rate	  = 0.224204	 +/-  0.0835175	(limited)
+wjets_rate	  = 0.0248696	 +/-  0.163334	(limited)
+At r = 1.025524:	delta(nll) = 0.96821
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.000763072868584994783
+Edm   = 7.39280765179089263e-05
+Nfcn  = 809
+btag_cferr1	  = -0.0718284	 +/-  0.13282	(limited)
+btag_cferr2	  = -0.0343898	 +/-  0.226232	(limited)
+btag_hf	  = -0.195937	 +/-  0.54545	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0105383	 +/-  0.991101	(limited)
+btag_hfstats2_UL16postVFP	  = 0.174505	 +/-  0.85024	(limited)
+btag_lf	  = 0.0438326	 +/-  0.896062	(limited)
+btag_lfstats1_UL16postVFP	  = 0.376623	 +/-  0.372933	(limited)
+btag_lfstats2_UL16postVFP	  = 0.282355	 +/-  0.42908	(limited)
+ele_id	  = -0.0340664	 +/-  0.677994	(limited)
+ele_reco	  = -0.0366865	 +/-  0.885175	(limited)
+ele_trigger	  = -0.0283365	 +/-  0.311306	(limited)
+jec	  = 0.0281516	 +/-  0.236204	(limited)
+jer	  = 0.016296	 +/-  0.604217	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.00503771	 +/-  0.902283	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.00735674	 +/-  0.798678	(limited)
+mcscale	  = -0.0392937	 +/-  0.359844	(limited)
+mu_id	  = 0.0524765	 +/-  0.95321	(limited)
+mu_iso	  = 0.00916519	 +/-  0.980948	(limited)
+mu_reco	  = -0.0419636	 +/-  0.979526	(limited)
+mu_trigger	  = -0.104722	 +/-  0.954226	(limited)
+others_rate	  = -0.043488	 +/-  0.538635	(limited)
+pdf	  = 0.355517	 +/-  0.313816	(limited)
+prefiring	  = 0.120352	 +/-  0.787626	(limited)
+pu	  = 0.0107362	 +/-  0.70138	(limited)
+st_rate	  = 0.0116449	 +/-  0.221885	(limited)
+tmistag	  = 0.150829	 +/-  0.845095	(limited)
+ttag_corr	  = -0.0183595	 +/-  0.789546	(limited)
+ttag_uncorr_UL16postVFP	  = -0.0667931	 +/-  0.779497	(limited)
+ttbar_rate	  = 0.224243	 +/-  0.084651	(limited)
+wjets_rate	  = 0.02485	 +/-  0.163446	(limited)
+At r = 1.032151:	delta(nll) = 0.98735
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -8.8340262764033497
+Edm   = 7.00445296527809664e-05
+Nfcn  = 4077
+btag_cferr1	  = -0.531168	 +/-  0.58051	(limited)
+btag_cferr2	  = -0.20317	 +/-  0.771666	(limited)
+btag_hf	  = -0.399358	 +/-  0.83926	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0135687	 +/-  1.12807	(limited)
+btag_hfstats2_UL16postVFP	  = 0.596273	 +/-  0.969318	(limited)
+btag_lf	  = 0.146374	 +/-  1.13876	(limited)
+btag_lfstats1_UL16postVFP	  = 1.08148	 +/-  0.895021	(limited)
+btag_lfstats2_UL16postVFP	  = 0.852261	 +/-  0.912172	(limited)
+ele_id	  = -0.155882	 +/-  0.930564	(limited)
+ele_reco	  = -0.182514	 +/-  0.9665	(limited)
+ele_trigger	  = 0.130135	 +/-  0.474219	(limited)
+jec	  = 0.386861	 +/-  0.351869	(limited)
+jer	  = 0.257753	 +/-  0.838354	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0496669	 +/-  0.994629	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0828405	 +/-  0.992562	(limited)
+mcscale	  = -0.290585	 +/-  0.522025	(limited)
+mu_id	  = 0.0959907	 +/-  0.980742	(limited)
+mu_iso	  = 0.0198906	 +/-  0.989514	(limited)
+mu_reco	  = -0.095315	 +/-  0.988056	(limited)
+mu_trigger	  = -0.245161	 +/-  0.973696	(limited)
+others_rate	  = 0.0736175	 +/-  0.56214	(limited)
+pdf	  = 0.411782	 +/-  0.394192	(limited)
+prefiring	  = 0.00514342	 +/-  0.887859	(limited)
+pu	  = -0.228228	 +/-  0.757844	(limited)
+st_rate	  = 0.0250985	 +/-  0.281189	(limited)
+tmistag	  = 0.40209	 +/-  0.885331	(limited)
+ttag_corr	  = -0.114315	 +/-  0.806811	(limited)
+ttag_uncorr_UL16postVFP	  = -0.288553	 +/-  0.814259	(limited)
+ttbar_rate	  = 0.710113	 +/-  0.276569	(limited)
+wjets_rate	  = 0.142382	 +/-  0.267097	(limited)
+At r = 1.929062:	delta(nll) = 7.17676
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -1.59272147834995281
+Edm   = 1.88593406352477081e-06
+Nfcn  = 2621
+btag_cferr1	  = -0.319028	 +/-  0.568251	(limited)
+btag_cferr2	  = -0.12949	 +/-  0.764682	(limited)
+btag_hf	  = -0.323698	 +/-  0.844795	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0136601	 +/-  1.07872	(limited)
+btag_hfstats2_UL16postVFP	  = 0.432125	 +/-  0.980464	(limited)
+btag_lf	  = 0.0951863	 +/-  1.10026	(limited)
+btag_lfstats1_UL16postVFP	  = 0.819935	 +/-  0.905589	(limited)
+btag_lfstats2_UL16postVFP	  = 0.643117	 +/-  0.903546	(limited)
+ele_id	  = -0.106705	 +/-  0.91468	(limited)
+ele_reco	  = -0.126346	 +/-  0.96274	(limited)
+ele_trigger	  = 0.0548192	 +/-  0.454919	(limited)
+jec	  = 0.229487	 +/-  0.388106	(limited)
+jer	  = 0.151137	 +/-  0.752465	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0270194	 +/-  0.993481	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.044493	 +/-  0.993098	(limited)
+mcscale	  = -0.157621	 +/-  0.548899	(limited)
+mu_id	  = 0.0848611	 +/-  0.980164	(limited)
+mu_iso	  = 0.0162211	 +/-  0.989447	(limited)
+mu_reco	  = -0.0756698	 +/-  0.988089	(limited)
+mu_trigger	  = -0.19558	 +/-  0.973164	(limited)
+others_rate	  = -0.0124563	 +/-  0.569175	(limited)
+pdf	  = 0.407648	 +/-  0.450306	(limited)
+prefiring	  = 0.080092	 +/-  0.891224	(limited)
+pu	  = -0.104769	 +/-  0.76553	(limited)
+st_rate	  = 0.0308479	 +/-  0.272531	(limited)
+tmistag	  = 0.288627	 +/-  0.895943	(limited)
+ttag_corr	  = -0.0779293	 +/-  0.812493	(limited)
+ttag_uncorr_UL16postVFP	  = -0.202586	 +/-  0.813937	(limited)
+ttbar_rate	  = 0.512614	 +/-  0.271043	(limited)
+wjets_rate	  = 0.0958185	 +/-  0.267998	(limited)
+At r = 1.603203:	delta(nll) = 3.97779
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.27620836609031385
+Edm   = 5.1384143627069786e-06
+Nfcn  = 4309
+btag_cferr1	  = -0.228795	 +/-  0.129028	(limited)
+btag_cferr2	  = -0.0941621	 +/-  0.223181	(limited)
+btag_hf	  = -0.283444	 +/-  0.561062	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0133042	 +/-  1.02987	(limited)
+btag_hfstats2_UL16postVFP	  = 0.354773	 +/-  0.84392	(limited)
+btag_lf	  = 0.0753806	 +/-  0.9621	(limited)
+btag_lfstats1_UL16postVFP	  = 0.696126	 +/-  0.379154	(limited)
+btag_lfstats2_UL16postVFP	  = 0.53669	 +/-  0.436174	(limited)
+ele_id	  = -0.0831306	 +/-  0.689668	(limited)
+ele_reco	  = -0.0990951	 +/-  0.887036	(limited)
+ele_trigger	  = 0.0229398	 +/-  0.323254	(limited)
+jec	  = 0.155322	 +/-  0.237281	(limited)
+jer	  = 0.105787	 +/-  0.660691	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0180747	 +/-  0.902199	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.031128	 +/-  0.798315	(limited)
+mcscale	  = -0.10762	 +/-  0.39685	(limited)
+mu_id	  = 0.0773635	 +/-  0.952564	(limited)
+mu_iso	  = 0.0144937	 +/-  0.981406	(limited)
+mu_reco	  = -0.0661029	 +/-  0.979939	(limited)
+mu_trigger	  = -0.171127	 +/-  0.95585	(limited)
+others_rate	  = -0.0338151	 +/-  0.52098	(limited)
+pdf	  = 0.400762	 +/-  0.269936	(limited)
+prefiring	  = 0.101551	 +/-  0.790602	(limited)
+pu	  = -0.0571846	 +/-  0.713983	(limited)
+st_rate	  = 0.0285803	 +/-  0.226927	(limited)
+tmistag	  = 0.241089	 +/-  0.855612	(limited)
+ttag_corr	  = -0.0619452	 +/-  0.781421	(limited)
+ttag_uncorr_UL16postVFP	  = -0.163449	 +/-  0.773824	(limited)
+ttbar_rate	  = 0.420669	 +/-  0.0820821	(limited)
+wjets_rate	  = 0.0747683	 +/-  0.16641	(limited)
+At r = 1.440273:	delta(nll) = 2.81699
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.068859875040830229
+Edm   = 1.78594085897980933e-05
+Nfcn  = 2673
+btag_cferr1	  = -0.263543	 +/-  0.127764	(limited)
+btag_cferr2	  = -0.12329	 +/-  0.219415	(limited)
+btag_hf	  = -0.30292	 +/-  0.559355	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0129278	 +/-  1.0405	(limited)
+btag_hfstats2_UL16postVFP	  = 0.394122	 +/-  0.848961	(limited)
+btag_lf	  = 0.0856627	 +/-  0.984188	(limited)
+btag_lfstats1_UL16postVFP	  = 0.761554	 +/-  0.374054	(limited)
+btag_lfstats2_UL16postVFP	  = 0.592798	 +/-  0.440793	(limited)
+ele_id	  = -0.0967454	 +/-  0.702893	(limited)
+ele_reco	  = -0.111336	 +/-  0.894062	(limited)
+ele_trigger	  = 0.038216	 +/-  0.332973	(limited)
+jec	  = 0.19039	 +/-  0.235909	(limited)
+jer	  = 0.126929	 +/-  0.649883	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0227849	 +/-  0.903259	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0370906	 +/-  0.795557	(limited)
+mcscale	  = -0.129965	 +/-  0.403204	(limited)
+mu_id	  = 0.0811996	 +/-  0.952747	(limited)
+mu_iso	  = 0.0153188	 +/-  0.981217	(limited)
+mu_reco	  = -0.0714087	 +/-  0.979461	(limited)
+mu_trigger	  = -0.18396	 +/-  0.955836	(limited)
+others_rate	  = -0.0260328	 +/-  0.51663	(limited)
+pdf	  = 0.402687	 +/-  0.266494	(limited)
+prefiring	  = 0.0908042	 +/-  0.796346	(limited)
+pu	  = -0.0803016	 +/-  0.713229	(limited)
+st_rate	  = 0.0306631	 +/-  0.227496	(limited)
+tmistag	  = 0.2624	 +/-  0.855375	(limited)
+ttag_corr	  = -0.0699743	 +/-  0.779654	(limited)
+ttag_uncorr_UL16postVFP	  = -0.183403	 +/-  0.775521	(limited)
+ttbar_rate	  = 0.466529	 +/-  0.0795414	(limited)
+wjets_rate	  = 0.0857797	 +/-  0.167182	(limited)
+At r = 1.521738:	delta(nll) = 3.36318
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.0179946479842209156
+Edm   = 4.44395707018129077e-05
+Nfcn  = 1867
+btag_cferr1	  = -0.298136	 +/-  0.414115	(limited)
+btag_cferr2	  = -0.113266	 +/-  0.631423	(limited)
+btag_hf	  = -0.31293	 +/-  0.869602	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0151016	 +/-  1.07511	(limited)
+btag_hfstats2_UL16postVFP	  = 0.409651	 +/-  0.994667	(limited)
+btag_lf	  = 0.0900431	 +/-  1.08176	(limited)
+btag_lfstats1_UL16postVFP	  = 0.788585	 +/-  1.05991	(limited)
+btag_lfstats2_UL16postVFP	  = 0.613406	 +/-  1.06023	(limited)
+ele_id	  = -0.104228	 +/-  0.932449	(limited)
+ele_reco	  = -0.120783	 +/-  0.964655	(limited)
+ele_trigger	  = 0.0480862	 +/-  0.461694	(limited)
+jec	  = 0.209275	 +/-  0.354521	(limited)
+jer	  = 0.139384	 +/-  0.774358	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0247621	 +/-  1.00998	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0389756	 +/-  0.990384	(limited)
+mcscale	  = -0.144847	 +/-  0.637268	(limited)
+mu_id	  = 0.0834472	 +/-  0.980779	(limited)
+mu_iso	  = 0.0153778	 +/-  0.989741	(limited)
+mu_reco	  = -0.0729894	 +/-  0.988278	(limited)
+mu_trigger	  = -0.189221	 +/-  0.971185	(limited)
+others_rate	  = -0.0202698	 +/-  0.572699	(limited)
+pdf	  = 0.406161	 +/-  0.476131	(limited)
+prefiring	  = 0.0837789	 +/-  0.923345	(limited)
+pu	  = -0.0909028	 +/-  0.780991	(limited)
+st_rate	  = 0.0301464	 +/-  0.268222	(limited)
+tmistag	  = 0.27491	 +/-  0.887949	(limited)
+ttag_corr	  = -0.0749065	 +/-  0.81485	(limited)
+ttag_uncorr_UL16postVFP	  = -0.19221	 +/-  0.815284	(limited)
+ttbar_rate	  = 0.487899	 +/-  0.336184	(limited)
+wjets_rate	  = 0.0906259	 +/-  0.296719	(limited)
+At r = 1.562470:	delta(nll) = 3.66170
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.00494188164519687029
+Edm   = 6.59544600818316369e-06
+Nfcn  = 1811
+btag_cferr1	  = -0.303212	 +/-  0.127092	(limited)
+btag_cferr2	  = -0.128801	 +/-  0.221723	(limited)
+btag_hf	  = -0.318062	 +/-  0.565093	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0137166	 +/-  1.04812	(limited)
+btag_hfstats2_UL16postVFP	  = 0.420908	 +/-  0.846571	(limited)
+btag_lf	  = 0.0919829	 +/-  1.01746	(limited)
+btag_lfstats1_UL16postVFP	  = 0.804962	 +/-  0.377425	(limited)
+btag_lfstats2_UL16postVFP	  = 0.630715	 +/-  0.438442	(limited)
+ele_id	  = -0.102584	 +/-  0.675779	(limited)
+ele_reco	  = -0.123142	 +/-  0.887014	(limited)
+ele_trigger	  = 0.0498753	 +/-  0.31887	(limited)
+jec	  = 0.218757	 +/-  0.23475	(limited)
+jer	  = 0.146394	 +/-  0.646678	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0255793	 +/-  0.902166	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0415235	 +/-  0.799015	(limited)
+mcscale	  = -0.149901	 +/-  0.410462	(limited)
+mu_id	  = 0.0841627	 +/-  0.954558	(limited)
+mu_iso	  = 0.0162058	 +/-  0.9817	(limited)
+mu_reco	  = -0.0751762	 +/-  0.980068	(limited)
+mu_trigger	  = -0.193623	 +/-  0.956188	(limited)
+others_rate	  = -0.0155911	 +/-  0.512523	(limited)
+pdf	  = 0.407157	 +/-  0.263878	(limited)
+prefiring	  = 0.0829993	 +/-  0.795215	(limited)
+pu	  = -0.0985844	 +/-  0.714709	(limited)
+st_rate	  = 0.0309264	 +/-  0.233493	(limited)
+tmistag	  = 0.280868	 +/-  0.856871	(limited)
+ttag_corr	  = -0.0765432	 +/-  0.7798	(limited)
+ttag_uncorr_UL16postVFP	  = -0.197489	 +/-  0.775487	(limited)
+ttbar_rate	  = 0.500038	 +/-  0.081033	(limited)
+wjets_rate	  = 0.0929313	 +/-  0.165313	(limited)
+At r = 1.582837:	delta(nll) = 3.81751
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.000866315331084224587
+Edm   = 4.66840436730903404e-05
+Nfcn  = 1003
+btag_cferr1	  = -0.303143	 +/-  0.126616	(limited)
+btag_cferr2	  = -0.128604	 +/-  0.221242	(limited)
+btag_hf	  = -0.318429	 +/-  0.553676	(limited)
+btag_hfstats1_UL16postVFP	  = -0.014622	 +/-  1.04484	(limited)
+btag_hfstats2_UL16postVFP	  = 0.417624	 +/-  0.84172	(limited)
+btag_lf	  = 0.0897612	 +/-  0.992654	(limited)
+btag_lfstats1_UL16postVFP	  = 0.804358	 +/-  0.370595	(limited)
+btag_lfstats2_UL16postVFP	  = 0.62994	 +/-  0.43615	(limited)
+ele_id	  = -0.104199	 +/-  0.683457	(limited)
+ele_reco	  = -0.121259	 +/-  0.889816	(limited)
+ele_trigger	  = 0.0486807	 +/-  0.324599	(limited)
+jec	  = 0.218942	 +/-  0.238345	(limited)
+jer	  = 0.138805	 +/-  0.63958	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0264714	 +/-  0.902701	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.042537	 +/-  0.791119	(limited)
+mcscale	  = -0.144136	 +/-  0.409704	(limited)
+mu_id	  = 0.0832815	 +/-  0.953248	(limited)
+mu_iso	  = 0.0162475	 +/-  0.981168	(limited)
+mu_reco	  = -0.0750538	 +/-  0.97958	(limited)
+mu_trigger	  = -0.189769	 +/-  0.956297	(limited)
+others_rate	  = -0.0191937	 +/-  0.512212	(limited)
+pdf	  = 0.406791	 +/-  0.261663	(limited)
+prefiring	  = 0.0821331	 +/-  0.794287	(limited)
+pu	  = -0.100159	 +/-  0.714337	(limited)
+st_rate	  = 0.0303705	 +/-  0.228375	(limited)
+tmistag	  = 0.278299	 +/-  0.854263	(limited)
+ttag_corr	  = -0.0735895	 +/-  0.778688	(limited)
+ttag_uncorr_UL16postVFP	  = -0.192139	 +/-  0.775559	(limited)
+ttbar_rate	  = 0.499949	 +/-  0.0806537	(limited)
+wjets_rate	  = 0.0928728	 +/-  0.163099	(limited)
+At r = 1.572653:	delta(nll) = 3.73924
+Will search for NLL crossing by bisection
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -49.1841130285729662
+Edm   = 3.74067059934425346e-06
+Nfcn  = 5157
+btag_cferr1	  = -1.185	 +/-  0.553569	(limited)
+btag_cferr2	  = -0.314118	 +/-  0.750754	(limited)
+btag_hf	  = -0.487053	 +/-  0.815952	(limited)
+btag_hfstats1_UL16postVFP	  = -0.00539312	 +/-  1.30571	(limited)
+btag_hfstats2_UL16postVFP	  = 1.04908	 +/-  0.967282	(limited)
+btag_lf	  = 0.294363	 +/-  0.884238	(limited)
+btag_lfstats1_UL16postVFP	  = 1.7761	 +/-  0.882773	(limited)
+btag_lfstats2_UL16postVFP	  = 1.42315	 +/-  0.908902	(limited)
+ele_id	  = -0.302785	 +/-  0.9417	(limited)
+ele_reco	  = -0.311565	 +/-  0.967918	(limited)
+ele_trigger	  = 0.358416	 +/-  0.49349	(limited)
+jec	  = 0.726496	 +/-  0.306587	(limited)
+jer	  = 0.669475	 +/-  0.624016	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.137063	 +/-  0.995339	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.227994	 +/-  0.993217	(limited)
+mcscale	  = -0.601383	 +/-  0.466469	(limited)
+mu_id	  = 0.130047	 +/-  0.981748	(limited)
+mu_iso	  = 0.0280527	 +/-  0.989499	(limited)
+mu_reco	  = -0.144503	 +/-  0.988149	(limited)
+mu_trigger	  = -0.360144	 +/-  0.974859	(limited)
+others_rate	  = 0.42885	 +/-  0.612623	(limited)
+pdf	  = 0.416268	 +/-  0.322347	(limited)
+prefiring	  = -0.27556	 +/-  0.883938	(limited)
+pu	  = -0.552617	 +/-  0.741081	(limited)
+st_rate	  = -0.0507445	 +/-  0.283045	(limited)
+tmistag	  = 0.680675	 +/-  0.829915	(limited)
+ttag_corr	  = -0.268824	 +/-  0.810538	(limited)
+ttag_uncorr_UL16postVFP	  = -0.582499	 +/-  0.818793	(limited)
+ttbar_rate	  = 1.23986	 +/-  0.245662	(limited)
+wjets_rate	  = 0.288603	 +/-  0.25789	(limited)
+At r = 2.725889:	delta(nll) = 20.44342
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -15.2893760367991511
+Edm   = 2.11732983566548748e-06
+Nfcn  = 4054
+btag_cferr1	  = -0.689136	 +/-  0.594622	(limited)
+btag_cferr2	  = -0.230556	 +/-  0.756077	(limited)
+btag_hf	  = -0.4373	 +/-  0.828848	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0147011	 +/-  1.16621	(limited)
+btag_hfstats2_UL16postVFP	  = 0.714655	 +/-  0.961366	(limited)
+btag_lf	  = 0.198643	 +/-  1.19318	(limited)
+btag_lfstats1_UL16postVFP	  = 1.26415	 +/-  0.897052	(limited)
+btag_lfstats2_UL16postVFP	  = 0.997778	 +/-  0.91534	(limited)
+ele_id	  = -0.192133	 +/-  0.931644	(limited)
+ele_reco	  = -0.217207	 +/-  0.967142	(limited)
+ele_trigger	  = 0.184345	 +/-  0.481642	(limited)
+jec	  = 0.482367	 +/-  0.321167	(limited)
+jer	  = 0.416667	 +/-  1.34864	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0698576	 +/-  0.995324	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.116114	 +/-  0.992516	(limited)
+mcscale	  = -0.382235	 +/-  0.487992	(limited)
+mu_id	  = 0.105183	 +/-  0.98075	(limited)
+mu_iso	  = 0.0221319	 +/-  0.9895	(limited)
+mu_reco	  = -0.109268	 +/-  0.988055	(limited)
+mu_trigger	  = -0.276168	 +/-  0.974592	(limited)
+others_rate	  = 0.146631	 +/-  0.588874	(limited)
+pdf	  = 0.416307	 +/-  0.36749	(limited)
+prefiring	  = -0.0546309	 +/-  0.892868	(limited)
+pu	  = -0.322142	 +/-  0.749833	(limited)
+st_rate	  = 0.00893075	 +/-  0.290601	(limited)
+tmistag	  = 0.478444	 +/-  0.863169	(limited)
+ttag_corr	  = -0.149414	 +/-  0.803071	(limited)
+ttag_uncorr_UL16postVFP	  = -0.360148	 +/-  0.814929	(limited)
+ttbar_rate	  = 0.840564	 +/-  0.302595	(limited)
+wjets_rate	  = 0.176616	 +/-  0.267693	(limited)
+At r = 2.146725:	delta(nll) = 10.01623
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -2.02252978552232365
+Edm   = 1.35569372092585123e-05
+Nfcn  = 2870
+btag_cferr1	  = -0.48369	 +/-  0.581152	(limited)
+btag_cferr2	  = -0.181851	 +/-  0.760243	(limited)
+btag_hf	  = -0.386699	 +/-  0.852409	(limited)
+btag_hfstats1_UL16postVFP	  = -0.014458	 +/-  1.11015	(limited)
+btag_hfstats2_UL16postVFP	  = 0.557798	 +/-  0.971863	(limited)
+btag_lf	  = 0.133712	 +/-  1.10913	(limited)
+btag_lfstats1_UL16postVFP	  = 1.02105	 +/-  0.902967	(limited)
+btag_lfstats2_UL16postVFP	  = 0.804655	 +/-  0.949117	(limited)
+ele_id	  = -0.143926	 +/-  0.933294	(limited)
+ele_reco	  = -0.169911	 +/-  0.965615	(limited)
+ele_trigger	  = 0.112072	 +/-  0.472899	(limited)
+jec	  = 0.352115	 +/-  0.362441	(limited)
+jer	  = 0.230844	 +/-  0.784618	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0445242	 +/-  0.995827	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.075017	 +/-  1.00094	(limited)
+mcscale	  = -0.261493	 +/-  0.538866	(limited)
+mu_id	  = 0.0928423	 +/-  0.980703	(limited)
+mu_iso	  = 0.0187886	 +/-  0.989493	(limited)
+mu_reco	  = -0.0913208	 +/-  0.988091	(limited)
+mu_trigger	  = -0.234609	 +/-  0.973372	(limited)
+others_rate	  = 0.0506926	 +/-  0.561995	(limited)
+pdf	  = 0.41054	 +/-  0.412679	(limited)
+prefiring	  = 0.0235524	 +/-  0.887811	(limited)
+pu	  = -0.198635	 +/-  0.761697	(limited)
+st_rate	  = 0.0279898	 +/-  0.280505	(limited)
+tmistag	  = 0.375973	 +/-  0.889823	(limited)
+ttag_corr	  = -0.104895	 +/-  0.808249	(limited)
+ttag_uncorr_UL16postVFP	  = -0.268221	 +/-  0.813748	(limited)
+ttbar_rate	  = 0.664802	 +/-  0.280829	(limited)
+wjets_rate	  = 0.130928	 +/-  0.268677	(limited)
+At r = 1.857144:	delta(nll) = 6.36473
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.461102919462387517
+Edm   = 5.09621022921821872e-06
+Nfcn  = 3493
+btag_cferr1	  = -0.587304	 +/-  0.957183	(limited)
+btag_cferr2	  = -0.209664	 +/-  0.966553	(limited)
+btag_hf	  = -0.413189	 +/-  0.853385	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0139119	 +/-  1.13705	(limited)
+btag_hfstats2_UL16postVFP	  = 0.63534	 +/-  0.962539	(limited)
+btag_lf	  = 0.161481	 +/-  1.16803	(limited)
+btag_lfstats1_UL16postVFP	  = 1.13929	 +/-  0.963673	(limited)
+btag_lfstats2_UL16postVFP	  = 0.898541	 +/-  0.868924	(limited)
+ele_id	  = -0.167656	 +/-  0.907096	(limited)
+ele_reco	  = -0.195621	 +/-  0.966576	(limited)
+ele_trigger	  = 0.148607	 +/-  0.462171	(limited)
+jec	  = 0.419914	 +/-  0.394547	(limited)
+jer	  = 0.291391	 +/-  0.973472	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0552977	 +/-  1.00071	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.093665	 +/-  0.982967	(limited)
+mcscale	  = -0.322892	 +/-  0.538996	(limited)
+mu_id	  = 0.0993656	 +/-  0.980117	(limited)
+mu_iso	  = 0.0206676	 +/-  0.989507	(limited)
+mu_reco	  = -0.100043	 +/-  0.98839	(limited)
+mu_trigger	  = -0.256314	 +/-  0.979174	(limited)
+others_rate	  = 0.0986352	 +/-  0.564938	(limited)
+pdf	  = 0.413369	 +/-  0.370266	(limited)
+prefiring	  = -0.0162076	 +/-  0.886047	(limited)
+pu	  = -0.258084	 +/-  0.75878	(limited)
+st_rate	  = 0.0211617	 +/-  0.301415	(limited)
+tmistag	  = 0.428172	 +/-  0.875473	(limited)
+ttag_corr	  = -0.124581	 +/-  0.81367	(limited)
+ttag_uncorr_UL16postVFP	  = -0.310973	 +/-  0.826848	(limited)
+ttbar_rate	  = 0.754616	 +/-  0.402547	(limited)
+wjets_rate	  = 0.153852	 +/-  0.309152	(limited)
+At r = 2.001934:	delta(nll) = 8.06300
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.119857538177946865
+Edm   = 3.90330035692253093e-05
+Nfcn  = 2872
+btag_cferr1	  = -0.542104	 +/-  0.127384	(limited)
+btag_cferr2	  = -0.186449	 +/-  0.214286	(limited)
+btag_hf	  = -0.404719	 +/-  0.543196	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0155618	 +/-  1.09346	(limited)
+btag_hfstats2_UL16postVFP	  = 0.594578	 +/-  0.838041	(limited)
+btag_lf	  = 0.151524	 +/-  1.02411	(limited)
+btag_lfstats1_UL16postVFP	  = 1.08393	 +/-  0.378119	(limited)
+btag_lfstats2_UL16postVFP	  = 0.855686	 +/-  0.430837	(limited)
+ele_id	  = -0.157301	 +/-  0.70414	(limited)
+ele_reco	  = -0.183045	 +/-  0.891307	(limited)
+ele_trigger	  = 0.131266	 +/-  0.337471	(limited)
+jec	  = 0.38909	 +/-  0.222296	(limited)
+jer	  = 0.258347	 +/-  0.672057	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0500207	 +/-  0.903117	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0826951	 +/-  0.802555	(limited)
+mcscale	  = -0.290788	 +/-  0.399913	(limited)
+mu_id	  = 0.0966963	 +/-  0.952024	(limited)
+mu_iso	  = 0.0200708	 +/-  0.980695	(limited)
+mu_reco	  = -0.0961536	 +/-  0.978811	(limited)
+mu_trigger	  = -0.244396	 +/-  0.956402	(limited)
+others_rate	  = 0.0747335	 +/-  0.508174	(limited)
+pdf	  = 0.412495	 +/-  0.254724	(limited)
+prefiring	  = 0.00516181	 +/-  0.796953	(limited)
+pu	  = -0.228427	 +/-  0.706582	(limited)
+st_rate	  = 0.0238034	 +/-  0.238031	(limited)
+tmistag	  = 0.401566	 +/-  0.847502	(limited)
+ttag_corr	  = -0.113107	 +/-  0.770581	(limited)
+ttag_uncorr_UL16postVFP	  = -0.288511	 +/-  0.774731	(limited)
+ttbar_rate	  = 0.711039	 +/-  0.0832602	(limited)
+wjets_rate	  = 0.142292	 +/-  0.160762	(limited)
+At r = 1.929539:	delta(nll) = 7.18246
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = -0.0279141674067951706
+Edm   = 2.10480229840722217e-05
+Nfcn  = 2297
+btag_cferr1	  = -0.51922	 +/-  0.125831	(limited)
+btag_cferr2	  = -0.18065	 +/-  0.219866	(limited)
+btag_hf	  = -0.394525	 +/-  0.532006	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0139	 +/-  1.08169	(limited)
+btag_hfstats2_UL16postVFP	  = 0.575929	 +/-  0.834774	(limited)
+btag_lf	  = 0.143579	 +/-  0.988254	(limited)
+btag_lfstats1_UL16postVFP	  = 1.04314	 +/-  0.354195	(limited)
+btag_lfstats2_UL16postVFP	  = 0.823204	 +/-  0.405783	(limited)
+ele_id	  = -0.1504	 +/-  0.664013	(limited)
+ele_reco	  = -0.177447	 +/-  0.881434	(limited)
+ele_trigger	  = 0.122296	 +/-  0.321178	(limited)
+jec	  = 0.371616	 +/-  0.226434	(limited)
+jer	  = 0.242363	 +/-  0.654803	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.045883	 +/-  0.89956	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0760019	 +/-  0.792895	(limited)
+mcscale	  = -0.278992	 +/-  0.400526	(limited)
+mu_id	  = 0.0941846	 +/-  0.951987	(limited)
+mu_iso	  = 0.0193518	 +/-  0.980464	(limited)
+mu_reco	  = -0.0931286	 +/-  0.978829	(limited)
+mu_trigger	  = -0.239812	 +/-  0.956314	(limited)
+others_rate	  = 0.0628795	 +/-  0.506668	(limited)
+pdf	  = 0.414068	 +/-  0.253271	(limited)
+prefiring	  = 0.0150506	 +/-  0.784749	(limited)
+pu	  = -0.213258	 +/-  0.707485	(limited)
+st_rate	  = 0.0256365	 +/-  0.233229	(limited)
+tmistag	  = 0.390588	 +/-  0.845608	(limited)
+ttag_corr	  = -0.107804	 +/-  0.770311	(limited)
+ttag_uncorr_UL16postVFP	  = -0.277818	 +/-  0.772572	(limited)
+ttbar_rate	  = 0.687027	 +/-  0.0826919	(limited)
+wjets_rate	  = 0.13591	 +/-  0.157379	(limited)
+At r = 1.893341:	delta(nll) = 6.76587
+Minuit2Minimizer: Minimize with max-calls 15000 convergence for edm < 0.1 strategy 1
+Minuit2Minimizer::Minuit  - Changing default options
+             StorageLevel :               0
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = -0.00668258212728405077
+Edm   = 2.44321107343519816e-05
+Nfcn  = 1860
+btag_cferr1	  = -0.500819	 +/-  0.591305	(limited)
+btag_cferr2	  = -0.179326	 +/-  0.945034	(limited)
+btag_hf	  = -0.389016	 +/-  1.01274	(limited)
+btag_hfstats1_UL16postVFP	  = -0.0143616	 +/-  1.1811	(limited)
+btag_hfstats2_UL16postVFP	  = 0.567008	 +/-  1.10615	(limited)
+btag_lf	  = 0.137324	 +/-  1.134	(limited)
+btag_lfstats1_UL16postVFP	  = 1.03225	 +/-  1.51813	(limited)
+btag_lfstats2_UL16postVFP	  = 0.815101	 +/-  1.86386	(limited)
+ele_id	  = -0.149706	 +/-  0.941348	(limited)
+ele_reco	  = -0.174297	 +/-  0.962267	(limited)
+ele_trigger	  = 0.118647	 +/-  0.501285	(limited)
+jec	  = 0.361681	 +/-  0.358269	(limited)
+jer	  = 0.237975	 +/-  0.886579	(limited)
+lumi_13TeV_correlated_UL16_UL17_UL18	  = -0.0447117	 +/-  1.03089	(limited)
+lumi_13TeV_uncorrelated_UL16	  = -0.0746606	 +/-  1.0454	(limited)
+mcscale	  = -0.269889	 +/-  1.05552	(limited)
+mu_id	  = 0.0950222	 +/-  0.980733	(limited)
+mu_iso	  = 0.0193622	 +/-  0.990838	(limited)
+mu_reco	  = -0.0923504	 +/-  0.987508	(limited)
+mu_trigger	  = -0.237347	 +/-  0.970376	(limited)
+others_rate	  = 0.0565319	 +/-  0.559581	(limited)
+pdf	  = 0.411753	 +/-  0.417575	(limited)
+prefiring	  = 0.0205452	 +/-  0.945269	(limited)
+pu	  = -0.205037	 +/-  0.792757	(limited)
+st_rate	  = 0.0268316	 +/-  0.274111	(limited)
+tmistag	  = 0.383587	 +/-  0.916821	(limited)
+ttag_corr	  = -0.106945	 +/-  0.802794	(limited)
+ttag_uncorr_UL16postVFP	  = -0.273056	 +/-  0.809795	(limited)
+ttbar_rate	  = 0.675171	 +/-  0.261569	(limited)
+wjets_rate	  = 0.133698	 +/-  0.376729	(limited)
+At r = 1.875242:	delta(nll) = 6.56331
+
+ -- AsymptoticLimits ( CLs ) --
+Expected  2.5%: r < 0.8532
+Expected 16.0%: r < 1.0355
+Expected 50.0%: r < 1.2773
+Expected 84.0%: r < 1.5676
+Expected 97.5%: r < 1.8662
+
+Done in 0.33 min (cpu), 0.34 min (real)
+Printing Message Summary From ... combine_logger.out
+----------------------------------------------
+Messages of type INFO : 337
+Messages of type DEBUG : 14
+Messages of type ERROR : 0
+----------------------------------------------
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 23 -- Parameters after fit for asimov dataset
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_channel = 21 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- CMS_th1x = 8.5 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ONE = 1 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_cferr1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_cferr1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_cferr2 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_cferr2_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_hf = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_hf_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_hfstats1_UL16postVFP = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_hfstats1_UL16postVFP_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_hfstats2_UL16postVFP = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_hfstats2_UL16postVFP_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_lf = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_lf_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_lfstats1_UL16postVFP = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_lfstats1_UL16postVFP_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_lfstats2_UL16postVFP = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- btag_lfstats2_UL16postVFP_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ele_id = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ele_id_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ele_reco = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ele_reco_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ele_trigger = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ele_trigger_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- jec = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- jec_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- jer = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- jer_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- lumi_13TeV_correlated_UL16_UL17_UL18 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- lumi_13TeV_correlated_UL16_UL17_UL18_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- lumi_13TeV_uncorrelated_UL16 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- lumi_13TeV_uncorrelated_UL16_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_el_CR1 = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_el_CR2 = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_el_SR_bin1_NoTopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_el_SR_bin1_TopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_el_SR_bin2_NoTopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_el_SR_bin2_TopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_el_SR_bin3_NoTopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_el_SR_bin3_TopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_el_SR_bin4 = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_el_SR_bin5 = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_el_SR_bin6 = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_mu_CR1 = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_mu_CR2 = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_mu_SR_bin1_NoTopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_mu_SR_bin1_TopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_mu_SR_bin2_NoTopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_mu_SR_bin2_TopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_mu_SR_bin3_NoTopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_mu_SR_bin3_TopTag = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_mu_SR_bin4 = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_mu_SR_bin5 = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mask_UL16postVFP_mu_SR_bin6 = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mcscale = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mcscale_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mu_id = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mu_id_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mu_iso = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mu_iso_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mu_reco = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mu_reco_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mu_trigger = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- mu_trigger_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- others_rate = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- others_rate_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- pdf = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- pdf_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prefiring = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prefiring_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_CR1_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_CR1_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_CR1_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_CR1_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_CR2_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_CR2_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_CR2_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_CR2_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin1_NoTopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin1_NoTopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin1_NoTopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin1_NoTopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin1_TopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin1_TopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin1_TopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin1_TopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin2_NoTopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin2_NoTopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin2_NoTopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin2_NoTopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin2_TopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin2_TopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin2_TopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin2_TopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin3_NoTopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin3_NoTopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin3_NoTopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin3_NoTopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin3_TopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin3_TopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin3_TopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin3_TopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin4_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin4_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin4_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin4_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin5_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin5_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin5_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin5_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin6_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin6_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin6_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_el_SR_bin6_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_CR1_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_CR1_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_CR1_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_CR1_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_CR2_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_CR2_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_CR2_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_CR2_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin1_NoTopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin1_NoTopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin1_NoTopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin1_NoTopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin1_TopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin1_TopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin1_TopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin1_TopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin2_NoTopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin2_NoTopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin2_NoTopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin2_NoTopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin2_TopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin2_TopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin2_TopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin2_TopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin3_NoTopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin3_NoTopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin3_NoTopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin3_NoTopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin3_TopTag_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin3_TopTag_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin3_TopTag_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin3_TopTag_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin4_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin4_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin4_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin4_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin5_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin5_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin5_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin5_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin6_bin0 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin6_bin0_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin6_bin1 = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- prop_binUL16postVFP_mu_SR_bin6_bin1_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- pu = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- pu_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- r = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- st_rate = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- st_rate_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- tmistag = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- tmistag_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ttag_corr = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ttag_corr_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ttag_uncorr_UL16postVFP = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ttag_uncorr_UL16postVFP_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ttbar_rate = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- ttbar_rate_In = 0 (constant)
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- wjets_rate = 0 
+INFO: (function: asimovDatasetNominal) AsimovUtils.cc: 27 -- wjets_rate_In = 0 (constant)
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin1_TopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin1_NoTopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin2_TopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin2_NoTopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin3_TopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin3_NoTopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin4_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin5_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_el_SR_bin6_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_el_CR1_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_el_CR2_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin1_TopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin1_NoTopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin2_TopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin2_NoTopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin3_TopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin3_NoTopTag_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin4_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin5_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_mu_SR_bin6_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_mu_CR1_obsOnly: in 9 x-bins
+INFO: (function: generateAsimov) ToyMCSamplerOpt.cc: 146 -- Using internal logic for binned/unbinned Asimov dataset generation
+INFO: (function: generateWithHisto) ToyMCSamplerOpt.cc: 221 -- Generating asimov with histogram for pdf pdf_binUL16postVFP_mu_CR2_obsOnly: in 9 x-bins
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: runLimitExpected) AsymptoticLimits.cc: 436 -- Median for expected limits = 1.27734 (Sigma for expected limits = 0.651718)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0

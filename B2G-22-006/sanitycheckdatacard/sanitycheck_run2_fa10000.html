@@ -1,0 +1,693 @@
+
+<html>
+<head>
+<style type="text/css">
+body { font-family: 'Consolas', 'Courier New', courier, monospace; font-size: small; }
+td, th { border-bottom: 1px solid black; padding: 1px 1em; vertical-align: top; }
+td.channDetails { font-size: x-small; }
+</style>
+<script type="text/javascript">
+function toggleChann(id) {
+    if (document.getElementById(id+"_chann_toggle").innerHTML == "[+]") {
+        document.getElementById(id+"_chann").style = "";
+        document.getElementById(id+"_chann_toggle").innerHTML = "[-]";
+    } else {
+        document.getElementById(id+"_chann").style = "display: none";
+        document.getElementById(id+"_chann_toggle").innerHTML = "[+]";
+    }
+}
+</script>
+<title>Nuisance Report</title>
+</head><body>
+<h1>Nuisance Report</h1>
+All numbers shown report the +/- 1-sigma variation in the yield for each affected channel/process. The Range shows the minimum and maximum effects across all channels/processes.
+You didn't run with the option --t2w so param types will only show the line from the datacard
+<table>
+<tr><th>Nuisance (types)</th><th colspan="2">Range</th><th>Processes</th><th>Channels</th></tr>
+
+<tr><td><a name="lumi_13TeV_correlated_UL16_UL17_UL18"><b>lumi_13TeV_correlated_UL16_UL17_UL18  (lnN)</b></a></td>
+<td>1.006</td><td>1.020</td>
+<td> ALP_ttbar_interference, ALP_ttbar_signal, ST, TTbar, WJets, others </td>
+<td>UL16postVFP(22), UL16preVFP(22), UL17(22), UL18(22) <a id="lumi_13TeV_correlated_UL16_UL17_UL18_chann_toggle" href="#lumi_13TeV_correlated_UL16_UL17_UL18" onclick="toggleChann(&quot;lumi_13TeV_correlated_UL16_UL17_UL18&quot;)">[+]</a></td>
+</tr>
+<tr id="lumi_13TeV_correlated_UL16_UL17_UL18_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>UL16postVFP_el_CR1</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_el_CR2</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin4</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin5</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin6</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_mu_CR1</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_mu_CR2</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin4</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin5</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin6</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_el_CR1</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_el_CR2</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin4</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin5</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin6</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_mu_CR1</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_mu_CR2</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin4</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin5</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin6</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_el_CR1</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_el_CR2</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_el_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_el_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_el_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_el_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_el_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_el_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_el_SR_bin4</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_el_SR_bin5</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_el_SR_bin6</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_mu_CR1</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_mu_CR2</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_mu_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_mu_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_mu_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_mu_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_mu_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_mu_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_mu_SR_bin4</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_mu_SR_bin5</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL17_mu_SR_bin6</td><td>ALP_ttbar_signal(1.009), ALP_ttbar_interference(1.009), TTbar(1.009), ST(1.009), WJets(1.009), others(1.009)</td></li>
+		<tr><td>UL18_el_CR1</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_el_CR2</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_el_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_el_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_el_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_el_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_el_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_el_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_el_SR_bin4</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_el_SR_bin5</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_el_SR_bin6</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_mu_CR1</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_mu_CR2</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_mu_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_mu_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_mu_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_mu_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_mu_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_mu_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_mu_SR_bin4</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_mu_SR_bin5</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL18_mu_SR_bin6</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+	</table></td>
+</tr>
+
+<tr><td><a name="lumi_13TeV_correlated_UL17_UL18"><b>lumi_13TeV_correlated_UL17_UL18  (lnN)</b></a></td>
+<td>1.002</td><td>1.006</td>
+<td> ALP_ttbar_interference, ALP_ttbar_signal, ST, TTbar, WJets, others </td>
+<td>UL17(22), UL18(22) <a id="lumi_13TeV_correlated_UL17_UL18_chann_toggle" href="#lumi_13TeV_correlated_UL17_UL18" onclick="toggleChann(&quot;lumi_13TeV_correlated_UL17_UL18&quot;)">[+]</a></td>
+</tr>
+<tr id="lumi_13TeV_correlated_UL17_UL18_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>UL17_el_CR1</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_el_CR2</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_el_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_el_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_el_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_el_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_el_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_el_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_el_SR_bin4</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_el_SR_bin5</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_el_SR_bin6</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_mu_CR1</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_mu_CR2</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_mu_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_mu_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_mu_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_mu_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_mu_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_mu_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_mu_SR_bin4</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_mu_SR_bin5</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL17_mu_SR_bin6</td><td>ALP_ttbar_signal(1.006), ALP_ttbar_interference(1.006), TTbar(1.006), ST(1.006), WJets(1.006), others(1.006)</td></li>
+		<tr><td>UL18_el_CR1</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_el_CR2</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_el_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_el_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_el_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_el_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_el_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_el_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_el_SR_bin4</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_el_SR_bin5</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_el_SR_bin6</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_mu_CR1</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_mu_CR2</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_mu_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_mu_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_mu_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_mu_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_mu_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_mu_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_mu_SR_bin4</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_mu_SR_bin5</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+		<tr><td>UL18_mu_SR_bin6</td><td>ALP_ttbar_signal(1.002), ALP_ttbar_interference(1.002), TTbar(1.002), ST(1.002), WJets(1.002), others(1.002)</td></li>
+	</table></td>
+</tr>
+
+<tr><td><a name="lumi_13TeV_uncorrelated_UL16"><b>lumi_13TeV_uncorrelated_UL16  (lnN)</b></a></td>
+<td>1.010</td><td>1.010</td>
+<td> ALP_ttbar_interference, ALP_ttbar_signal, ST, TTbar, WJets, others </td>
+<td>UL16postVFP(22), UL16preVFP(22) <a id="lumi_13TeV_uncorrelated_UL16_chann_toggle" href="#lumi_13TeV_uncorrelated_UL16" onclick="toggleChann(&quot;lumi_13TeV_uncorrelated_UL16&quot;)">[+]</a></td>
+</tr>
+<tr id="lumi_13TeV_uncorrelated_UL16_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>UL16postVFP_el_CR1</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_el_CR2</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin4</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin5</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin6</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_mu_CR1</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_mu_CR2</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin4</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin5</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin6</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_el_CR1</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_el_CR2</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin4</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin5</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin6</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_mu_CR1</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_mu_CR2</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin4</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin5</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin6</td><td>ALP_ttbar_signal(1.01), ALP_ttbar_interference(1.01), TTbar(1.01), ST(1.01), WJets(1.01), others(1.01)</td></li>
+	</table></td>
+</tr>
+
+<tr><td><a name="lumi_13TeV_uncorrelated_UL17"><b>lumi_13TeV_uncorrelated_UL17  (lnN)</b></a></td>
+<td>1.020</td><td>1.020</td>
+<td> ALP_ttbar_interference, ALP_ttbar_signal, ST, TTbar, WJets, others </td>
+<td>UL17(22) <a id="lumi_13TeV_uncorrelated_UL17_chann_toggle" href="#lumi_13TeV_uncorrelated_UL17" onclick="toggleChann(&quot;lumi_13TeV_uncorrelated_UL17&quot;)">[+]</a></td>
+</tr>
+<tr id="lumi_13TeV_uncorrelated_UL17_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>UL17_el_CR1</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_el_CR2</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_el_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_el_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_el_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_el_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_el_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_el_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_el_SR_bin4</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_el_SR_bin5</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_el_SR_bin6</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_mu_CR1</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_mu_CR2</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_mu_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_mu_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_mu_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_mu_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_mu_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_mu_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_mu_SR_bin4</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_mu_SR_bin5</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+		<tr><td>UL17_mu_SR_bin6</td><td>ALP_ttbar_signal(1.02), ALP_ttbar_interference(1.02), TTbar(1.02), ST(1.02), WJets(1.02), others(1.02)</td></li>
+	</table></td>
+</tr>
+
+<tr><td><a name="lumi_13TeV_uncorrelated_UL18"><b>lumi_13TeV_uncorrelated_UL18  (lnN)</b></a></td>
+<td>1.015</td><td>1.015</td>
+<td> ALP_ttbar_interference, ALP_ttbar_signal, ST, TTbar, WJets, others </td>
+<td>UL18(22) <a id="lumi_13TeV_uncorrelated_UL18_chann_toggle" href="#lumi_13TeV_uncorrelated_UL18" onclick="toggleChann(&quot;lumi_13TeV_uncorrelated_UL18&quot;)">[+]</a></td>
+</tr>
+<tr id="lumi_13TeV_uncorrelated_UL18_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>UL18_el_CR1</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_el_CR2</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_el_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_el_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_el_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_el_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_el_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_el_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_el_SR_bin4</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_el_SR_bin5</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_el_SR_bin6</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_mu_CR1</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_mu_CR2</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_mu_SR_bin1_NoTopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_mu_SR_bin1_TopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_mu_SR_bin2_NoTopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_mu_SR_bin2_TopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_mu_SR_bin3_NoTopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_mu_SR_bin3_TopTag</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_mu_SR_bin4</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_mu_SR_bin5</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+		<tr><td>UL18_mu_SR_bin6</td><td>ALP_ttbar_signal(1.015), ALP_ttbar_interference(1.015), TTbar(1.015), ST(1.015), WJets(1.015), others(1.015)</td></li>
+	</table></td>
+</tr>
+
+<tr><td><a name="others_rate"><b>others_rate  (lnN)</b></a></td>
+<td>1.500</td><td>1.500</td>
+<td> others </td>
+<td>UL16postVFP(22), UL16preVFP(22), UL17(22), UL18(22) <a id="others_rate_chann_toggle" href="#others_rate" onclick="toggleChann(&quot;others_rate&quot;)">[+]</a></td>
+</tr>
+<tr id="others_rate_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>UL16postVFP_el_CR1</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_el_CR2</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin4</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin5</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin6</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_CR1</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_CR2</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin4</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin5</td><td>others(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin6</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_el_CR1</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_el_CR2</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin4</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin5</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin6</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_CR1</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_CR2</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin4</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin5</td><td>others(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin6</td><td>others(1.5)</td></li>
+		<tr><td>UL17_el_CR1</td><td>others(1.5)</td></li>
+		<tr><td>UL17_el_CR2</td><td>others(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin1_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin1_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin2_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin2_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin3_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin3_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin4</td><td>others(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin5</td><td>others(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin6</td><td>others(1.5)</td></li>
+		<tr><td>UL17_mu_CR1</td><td>others(1.5)</td></li>
+		<tr><td>UL17_mu_CR2</td><td>others(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin1_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin1_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin2_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin2_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin3_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin3_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin4</td><td>others(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin5</td><td>others(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin6</td><td>others(1.5)</td></li>
+		<tr><td>UL18_el_CR1</td><td>others(1.5)</td></li>
+		<tr><td>UL18_el_CR2</td><td>others(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin1_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin1_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin2_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin2_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin3_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin3_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin4</td><td>others(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin5</td><td>others(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin6</td><td>others(1.5)</td></li>
+		<tr><td>UL18_mu_CR1</td><td>others(1.5)</td></li>
+		<tr><td>UL18_mu_CR2</td><td>others(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin1_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin1_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin2_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin2_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin3_NoTopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin3_TopTag</td><td>others(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin4</td><td>others(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin5</td><td>others(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin6</td><td>others(1.5)</td></li>
+	</table></td>
+</tr>
+
+<tr><td><a name="st_rate"><b>st_rate  (lnN)</b></a></td>
+<td>1.300</td><td>1.300</td>
+<td> ST </td>
+<td>UL16postVFP(22), UL16preVFP(22), UL17(22), UL18(22) <a id="st_rate_chann_toggle" href="#st_rate" onclick="toggleChann(&quot;st_rate&quot;)">[+]</a></td>
+</tr>
+<tr id="st_rate_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>UL16postVFP_el_CR1</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_el_CR2</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin4</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin5</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin6</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_mu_CR1</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_mu_CR2</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin4</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin5</td><td>ST(1.3)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin6</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_el_CR1</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_el_CR2</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin4</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin5</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin6</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_mu_CR1</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_mu_CR2</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin4</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin5</td><td>ST(1.3)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin6</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_el_CR1</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_el_CR2</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_el_SR_bin1_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_el_SR_bin1_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_el_SR_bin2_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_el_SR_bin2_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_el_SR_bin3_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_el_SR_bin3_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_el_SR_bin4</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_el_SR_bin5</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_el_SR_bin6</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_mu_CR1</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_mu_CR2</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_mu_SR_bin1_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_mu_SR_bin1_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_mu_SR_bin2_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_mu_SR_bin2_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_mu_SR_bin3_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_mu_SR_bin3_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_mu_SR_bin4</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_mu_SR_bin5</td><td>ST(1.3)</td></li>
+		<tr><td>UL17_mu_SR_bin6</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_el_CR1</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_el_CR2</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_el_SR_bin1_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_el_SR_bin1_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_el_SR_bin2_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_el_SR_bin2_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_el_SR_bin3_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_el_SR_bin3_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_el_SR_bin4</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_el_SR_bin5</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_el_SR_bin6</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_mu_CR1</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_mu_CR2</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_mu_SR_bin1_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_mu_SR_bin1_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_mu_SR_bin2_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_mu_SR_bin2_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_mu_SR_bin3_NoTopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_mu_SR_bin3_TopTag</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_mu_SR_bin4</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_mu_SR_bin5</td><td>ST(1.3)</td></li>
+		<tr><td>UL18_mu_SR_bin6</td><td>ST(1.3)</td></li>
+	</table></td>
+</tr>
+
+<tr><td><a name="ttbar_rate"><b>ttbar_rate  (lnN)</b></a></td>
+<td>1.200</td><td>1.200</td>
+<td> TTbar </td>
+<td>UL16postVFP(22), UL16preVFP(22), UL17(22), UL18(22) <a id="ttbar_rate_chann_toggle" href="#ttbar_rate" onclick="toggleChann(&quot;ttbar_rate&quot;)">[+]</a></td>
+</tr>
+<tr id="ttbar_rate_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>UL16postVFP_el_CR1</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_el_CR2</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin4</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin5</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin6</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_mu_CR1</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_mu_CR2</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin4</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin5</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin6</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_el_CR1</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_el_CR2</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin4</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin5</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin6</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_mu_CR1</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_mu_CR2</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin4</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin5</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin6</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_el_CR1</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_el_CR2</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_el_SR_bin1_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_el_SR_bin1_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_el_SR_bin2_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_el_SR_bin2_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_el_SR_bin3_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_el_SR_bin3_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_el_SR_bin4</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_el_SR_bin5</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_el_SR_bin6</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_mu_CR1</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_mu_CR2</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_mu_SR_bin1_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_mu_SR_bin1_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_mu_SR_bin2_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_mu_SR_bin2_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_mu_SR_bin3_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_mu_SR_bin3_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_mu_SR_bin4</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_mu_SR_bin5</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL17_mu_SR_bin6</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_el_CR1</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_el_CR2</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_el_SR_bin1_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_el_SR_bin1_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_el_SR_bin2_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_el_SR_bin2_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_el_SR_bin3_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_el_SR_bin3_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_el_SR_bin4</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_el_SR_bin5</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_el_SR_bin6</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_mu_CR1</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_mu_CR2</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_mu_SR_bin1_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_mu_SR_bin1_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_mu_SR_bin2_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_mu_SR_bin2_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_mu_SR_bin3_NoTopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_mu_SR_bin3_TopTag</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_mu_SR_bin4</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_mu_SR_bin5</td><td>TTbar(1.2)</td></li>
+		<tr><td>UL18_mu_SR_bin6</td><td>TTbar(1.2)</td></li>
+	</table></td>
+</tr>
+
+<tr><td><a name="wjets_rate"><b>wjets_rate  (lnN)</b></a></td>
+<td>1.500</td><td>1.500</td>
+<td> WJets </td>
+<td>UL16postVFP(22), UL16preVFP(22), UL17(22), UL18(22) <a id="wjets_rate_chann_toggle" href="#wjets_rate" onclick="toggleChann(&quot;wjets_rate&quot;)">[+]</a></td>
+</tr>
+<tr id="wjets_rate_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>UL16postVFP_el_CR1</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_el_CR2</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin1_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin2_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin3_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin4</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin5</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_el_SR_bin6</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_CR1</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_CR2</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin1_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin2_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin3_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin4</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin5</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16postVFP_mu_SR_bin6</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_el_CR1</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_el_CR2</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin1_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin2_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin3_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin4</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin5</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_el_SR_bin6</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_CR1</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_CR2</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin1_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin2_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin3_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin4</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin5</td><td>WJets(1.5)</td></li>
+		<tr><td>UL16preVFP_mu_SR_bin6</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_el_CR1</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_el_CR2</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin1_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin1_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin2_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin2_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin3_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin3_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin4</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin5</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_el_SR_bin6</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_mu_CR1</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_mu_CR2</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin1_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin1_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin2_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin2_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin3_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin3_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin4</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin5</td><td>WJets(1.5)</td></li>
+		<tr><td>UL17_mu_SR_bin6</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_el_CR1</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_el_CR2</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin1_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin1_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin2_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin2_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin3_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin3_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin4</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin5</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_el_SR_bin6</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_mu_CR1</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_mu_CR2</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin1_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin1_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin2_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin2_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin3_NoTopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin3_TopTag</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin4</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin5</td><td>WJets(1.5)</td></li>
+		<tr><td>UL18_mu_SR_bin6</td><td>WJets(1.5)</td></li>
+	</table></td>
+</tr>
+
+
+</table>
+</body>
+</html>
