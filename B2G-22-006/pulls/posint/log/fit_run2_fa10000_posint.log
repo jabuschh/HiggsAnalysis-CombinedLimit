@@ -1,0 +1,17 @@
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+>>> method used is FitDiagnostics
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+>>> 0 out of 11 channels masked
+
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 11 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.00454358  -0.00454358/+0.288695  (68% CL)
+Done in 0.15 min (cpu), 0.15 min (real)
+>> combine -t -1 -M FitDiagnostics -m 125 -d ../../asymptoticlimits/workspace_run2_fa10000_posint.root --setParameterRanges ttag_corr=-5,5:ttag_uncorr_UL16preVFP=-5,5:ttag_uncorr_UL16postVFP=-5,5:ttag_uncorr_UL17=-5,5:ttag_uncorr_UL18=-5,5 -n _posint

@@ -11,12 +11,12 @@ Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
->>> 0 out of 88 channels masked
+>>> 0 out of 11 channels masked
 
-SimNLL created with 88 channels, 5 generic constraints, 836 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 11 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
 
  --- MultiDimFit ---
 best fit parameter values and profile-likelihood uncertainties: 
-   r :    +0.000   -0.309/+0.254 (68%)
-Done in 3.53 min (cpu), 3.54 min (real)
+   r :    -0.000   -0.349/+0.302 (68%)
+Done in 0.31 min (cpu), 0.31 min (real)
 >> combine -M MultiDimFit -n _initialFit_Test --algo singles --redefineSignalPOIs r --rMin -5 --rMax 5 --robustFit 1 -t -1 --setParameterRanges ttag_corr=-5,5:ttag_uncorr_UL16preVFP=-5,5:ttag_uncorr_UL16postVFP=-5,5:ttag_uncorr_UL17=-5,5:ttag_uncorr_UL18=-5,5 -m 125 -d ../../asymptoticlimits/workspace_run2_fa10000_posint.root

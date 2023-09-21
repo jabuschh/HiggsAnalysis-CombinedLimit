@@ -1,0 +1,1292 @@
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+Configured fallback algorithm , type Minuit2, algo Migrad, strategy 1, tolerance 0.01
+>>> method used is FitDiagnostics
+Set Default Value of Parameter r To : 0
+>>> 0 out of 11 channels masked
+
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 11 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: -0.151354  -0.0486462/+0.351354  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+  [WARNING] Found [ttag_corr] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+  [WARNING] Found [ttag_corr] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199994  -0.399994/+6.31299e-06  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_corr] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199987  -0.345133/+1.27821e-05  (68% CL)
+Done in 0.13 min (cpu), 0.13 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0840976  -0.115902/+0.284098  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.132435  -0.227731/+0.0675648  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199997  -2.53776e-06/+0.097023  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0381038  -0.218429/+0.161896  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0923953  -0.107605/+0.292395  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.151489  -0.0485107/+0.292541  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199002  -0.000997721/+0.164248  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0240107  -0.175989/+0.224011  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.12628  -0.289326/+0.0737203  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0338127  -0.166187/+0.233813  (68% CL)
+Done in 0.14 min (cpu), 0.14 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199923  -0.247588/+7.68287e-05  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0942143  -0.202832/+0.105786  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199996  -3.802e-06/+0.124619  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.181653/+6.46364e-08  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199812  -0.000187936/+0.399812  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0833174  -0.253306/+0.116683  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.19963  -0.39963/+0.000370292  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.19961  -0.000389947/+0.39961  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199992  -0.128005/+8.42691e-06  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199998  -0.168681/+1.90349e-06  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199839  -0.399288/+0.000160725  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199122  -0.000878335/+0.250872  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0281769  -0.171823/+0.228177  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.118381  -0.247102/+0.0816195  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199864  -0.336381/+0.000136352  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0575297  -0.14247/+0.25753  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0423472  -0.233857/+0.157653  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199985  -0.237431/+1.46303e-05  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.197399  -0.00260087/+0.397399  (68% CL)
+Done in 0.14 min (cpu), 0.14 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199996  -0.399996/+3.84396e-06  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199762  -0.351554/+0.000237985  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0521128  -0.147887/+0.252113  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199968  -0.274229/+3.17967e-05  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199996  -3.95897e-06/+0.105962  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0539353  -0.146065/+0.241756  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0577117  -0.224793/+0.142288  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199147  -0.000853097/+0.184572  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.127109  -0.0728911/+0.297064  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.191538  -0.389448/+0.00846246  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.107179  -0.233627/+0.0928213  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.130634  -0.0693658/+0.244334  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.198776  -0.398776/+0.00122403  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.0957795/+3.12882e-08  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0194667  -0.219467/+0.180533  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.4/+6.56632e-09  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199996  -0.399996/+3.99913e-06  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.2  -1.05617e-07/+0.303102  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.196331  -0.396331/+0.00366881  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199459  -0.000540973/+0.11908  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199441  -0.000558845/+0.269684  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199953  -4.66589e-05/+0.205175  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199502  -0.000498208/+0.327152  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199993  -7.01844e-06/+0.238266  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0402348  -0.237525/+0.159765  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199975  -0.399975/+2.5478e-05  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199989  -0.157546/+1.10936e-05  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199426  -0.000574322/+0.113591  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0919251  -0.291925/+0.108075  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199977  -2.31856e-05/+0.361546  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.113825  -0.0861751/+0.264538  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.197167  -0.00283314/+0.397167  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199022  -0.000977861/+0.234008  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.130441  -0.330441/+0.0695593  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199881  -0.241536/+0.000118897  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199997  -3.34922e-06/+0.174483  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.165346  -0.0346538/+0.365346  (68% CL)
+Done in 0.09 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0689168  -0.268917/+0.131083  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0226796  -0.19422/+0.17732  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.198913  -0.00108719/+0.266998  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.4/+3.8147e-07  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199392  -0.000608477/+0.1433  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.369207/+5.25196e-08  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199988  -0.399988/+1.2052e-05  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0187742  -0.21529/+0.181226  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0731659  -0.126834/+0.273166  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.016334  -0.216334/+0.183666  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0325775  -0.167422/+0.232578  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.00140618  -0.198528/+0.191575  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.189786  -0.0102137/+0.211214  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199998  -0.14129/+2.03015e-06  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199967  -0.214749/+3.32517e-05  (68% CL)
+Done in 0.07 min (cpu), 0.07 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.172216  -0.0277844/+0.348723  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199999  -0.312092/+5.66741e-07  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.119007  -0.251127/+0.0809931  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.2  -1.1542e-08/+0.270766  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199996  -4.3687e-06/+0.159351  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.00800952  -0.19199/+0.20801  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199441  -0.399441/+0.000558746  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.110907  -0.0890935/+0.310907  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.030182  -0.169818/+0.230182  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0583727  -0.141627/+0.258373  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199933  -0.247887/+6.66886e-05  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.195858  -0.00414159/+0.287807  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199995  -0.274048/+5.16799e-06  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.197938  -0.397938/+0.00206165  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199982  -0.187082/+1.76626e-05  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.195606  -0.400066/+0.00439435  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.198039  -0.00196113/+0.247777  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0164084  -0.183592/+0.216408  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199994  -0.29542/+6.46849e-06  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0461411  -0.153859/+0.246141  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.198743  -0.00125749/+0.333109  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199941  -0.399941/+5.93154e-05  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199998  -0.140669/+2.00083e-06  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199992  -0.192119/+7.78492e-06  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0418132  -0.158187/+0.194399  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199984  -0.118146/+1.63742e-05  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.186241  -0.0137586/+0.363663  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199999  -0.180541/+9.98536e-07  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199585  -0.000415362/+0.30515  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199999  -0.230537/+1.25829e-06  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.182973  -0.0170267/+0.33084  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.193504  -0.00649639/+0.352889  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.196274  -0.00372607/+0.236167  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.107464  -0.092536/+0.307464  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.241903/+2.46015e-07  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.11766  -0.0823401/+0.23628  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199916  -0.399916/+8.35631e-05  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.198552  -0.398552/+0.00144825  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.169186/+1.37352e-08  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199934  -0.324268/+6.6158e-05  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.219085/+4.20347e-12  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199844  -0.399844/+0.000156261  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0276048  -0.172395/+0.221062  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.10003  -0.204427/+0.0999699  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: -0.184551  -0.0154493/+0.25454  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199696  -0.399696/+0.00030371  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199519  -0.399519/+0.000481474  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0590555  -0.252037/+0.140944  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199602  -0.281243/+0.000397891  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199972  -2.79516e-05/+0.242181  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199994  -0.355295/+6.16925e-06  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.194301  -0.00569907/+0.261706  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.195504  -0.00449559/+0.309457  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0341189  -0.165881/+0.234119  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.2  -1.4261e-07/+0.103216  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.179509  -0.0204908/+0.320768  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199777  -0.347038/+0.000223328  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199999  -0.225737/+5.38751e-07  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199364  -0.000635647/+0.181445  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.2  -3.77551e-08/+0.185168  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199962  -0.399962/+3.7959e-05  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199991  -0.166522/+9.11029e-06  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199997  -2.75702e-06/+0.186195  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199999  -0.334735/+1.36885e-06  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.198792  -0.00120819/+0.312928  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199594  -0.000405876/+0.087427  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199995  -4.70954e-06/+0.222596  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199999  -6.87495e-07/+0.280897  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.101937/+1.36643e-09  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0849035  -0.115097/+0.284903  (68% CL)
+Done in 0.11 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.104943  -0.0950572/+0.304943  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199993  -0.15452/+6.75072e-06  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199998  -0.134569/+1.86388e-06  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.2  -1.64186e-11/+0.196893  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199599  -0.000400827/+0.134992  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.120141/+3.4681e-08  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199996  -0.214231/+3.77295e-06  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199954  -4.57751e-05/+0.224672  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.166471  -0.0335286/+0.33934  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199998  -1.759e-06/+0.182235  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199987  -0.188199/+1.33207e-05  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0887758  -0.111224/+0.222489  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.132169  -0.0678307/+0.253409  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.342742/+3.15173e-07  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199933  -0.399933/+6.66699e-05  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199948  -5.19211e-05/+0.271425  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199999  -0.114942/+1.42653e-06  (68% CL)
+Done in 0.09 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.112949  -0.248407/+0.0870507  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199978  -0.399978/+0.245671  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199182  -0.000818457/+0.399182  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199999  -0.327229/+1.17048e-06  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199998  -0.399998/+2.33136e-06  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.19987  -0.223988/+0.000130453  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.130006  -0.0699937/+0.330006  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199216  -0.000784045/+0.191083  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.189971  -0.0100287/+0.278645  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0800873  -0.192651/+0.119913  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199997  -3.07503e-06/+0.173867  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.198643  -0.00135683/+0.302304  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.4/+3.8147e-07  (68% CL)
+Done in 0.08 min (cpu), 0.07 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199987  -0.237249/+1.259e-05  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199999  -6.82693e-07/+0.126269  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.198953  -0.0010466/+0.282757  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.2  -2.72669e-07/+0.106899  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199971  -2.85309e-05/+0.169364  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.125634  -0.0743661/+0.325634  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199999  -7.06737e-07/+0.220194  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.106331  -0.208033/+0.0936686  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199897  -0.260809/+0.000102845  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199999  -1.04149e-06/+0.0970134  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199998  -1.50524e-06/+0.11282  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199914  -0.219193/+8.6302e-05  (68% CL)
+Done in 0.07 min (cpu), 0.07 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.2  -6.45853e-10/+0.131344  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0765323  -0.123468/+0.253192  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199629  -0.399629/+0.000370554  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199883  -0.223146/+0.000117445  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.113603  -0.0863967/+0.313603  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199658  -0.000342074/+0.0874163  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.195776  -0.00422362/+0.395776  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.195685  -0.395685/+0.00431517  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.15183  -0.0481697/+0.211358  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.172041  -0.0279595/+0.349972  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.11501  -0.313762/+0.0849901  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.115601  -0.231164/+0.0843988  (68% CL)
+Done in 0.09 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.182889  -0.0171108/+0.382889  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199995  -4.88852e-06/+0.182666  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.181555  -0.018445/+0.266508  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0268481  -0.208884/+0.173152  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.035136  -0.235136/+0.164864  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199854  -0.251236/+0.000146128  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.00721251  -0.192787/+0.207213  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_corr] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199107  -0.000892827/+0.238019  (68% CL)
+Done in 0.07 min (cpu), 0.07 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.145168  -0.0548318/+0.338911  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_corr] at boundary. 
+  [WARNING] Found [ttag_corr] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199642  -0.0003578/+0.0971232  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.171084  -0.0289156/+0.269077  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.19997  -0.185509/+2.97839e-05  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0518415  -0.251841/+0.148159  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199999  -6.34737e-07/+0.109294  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199999  -0.171119/+6.7284e-07  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.2  -0.19465/+9.18092e-08  (68% CL)
+Done in 0.13 min (cpu), 0.13 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.00965094  -0.209651/+0.190349  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199998  -0.289094/+1.90786e-06  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.0912411  -0.291241/+0.108759  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.144938  -0.0550616/+0.210635  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.14686  -0.0531401/+0.274881  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.19849  -0.39849/+0.00150973  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0594178  -0.140582/+0.252443  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199998  -0.173886/+2.0824e-06  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199999  -0.399999/+5.99441e-07  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199452  -0.367389/+0.000548353  (68% CL)
+Done in 0.07 min (cpu), 0.07 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.112571  -0.0874288/+0.312571  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.2  -3.10328e-07/+0.0978484  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199909  -0.266331/+9.06785e-05  (68% CL)
+Done in 0.07 min (cpu), 0.07 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.107089  -0.0929105/+0.294823  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.2  -1.4292e-08/+0.363653  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.199957  -0.317661/+4.25344e-05  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199128  -0.000871686/+0.26863  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.2  -2.27347e-08/+0.151122  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199991  -8.58126e-06/+0.261073  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199976  -2.42746e-05/+0.181992  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.015435  -0.184565/+0.215435  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0969339  -0.103066/+0.292723  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.19872  -0.39872/+0.00128029  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.0565485  -0.143451/+0.220003  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199396  -0.000604497/+0.130025  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: -0.199975  -2.51799e-05/+0.399975  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+mean   expected limit: r < -0.00150027 +/- 0.0109242 @ 95%CL (250 toyMC)
+median expected limit: r < -0.0258077 @ 95%CL (250 toyMC)
+   68% expected band : -0.199599 < r < 0.199991
+   95% expected band : -0.2 < r < 0.2

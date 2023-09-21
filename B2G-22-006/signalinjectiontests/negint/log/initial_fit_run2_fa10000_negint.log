@@ -1,0 +1,2559 @@
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+>>> method used is MultiDimFit
+Set Default Value of Parameter r To : 0
+>>> 0 out of 11 channels masked
+
+Generate toy 1/250
+SimNLL created with 11 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+  [WARNING] Found [ttag_corr] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 2/250
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+  [WARNING] Found [ttag_corr] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 3/250
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.400 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 4/250
+  [WARNING] Found [ttag_corr] at boundary. 
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 5/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 6/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 7/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.133/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 8/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 9/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 10/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 11/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.292/+0.000 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 12/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.081   -0.119/+0.281 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 13/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 14/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.400 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 15/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.309/+0.000 (68%)
+Done in 0.09 min (cpu), 0.08 min (real)
+Generate toy 16/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 17/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 18/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.127/+0.000 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 19/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.169/+0.000 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 20/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.067 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 21/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 22/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 23/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.034   -0.201/+0.166 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 24/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 25/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.340/+0.000 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 26/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 27/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 28/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.400 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 29/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 30/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 31/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.215 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 32/250
+WARNING: underflow to -nan in pdf_binSR_bin1_TopTag_obsOnly for bin 0, weight 1904
+FASTEXIT from pdf_binSR_bin1_TopTag_obsOnly
+WARNING: underflow to -nan in pdf_binSR_bin2_TopTag_obsOnly for bin 0, weight 848
+FASTEXIT from pdf_binSR_bin2_TopTag_obsOnly
+WARNING: underflow to -nan in pdf_binSR_bin3_TopTag_obsOnly for bin 0, weight 1141
+FASTEXIT from pdf_binSR_bin3_TopTag_obsOnly
+WARNING: underflow to -nan in pdf_binSR_bin6_obsOnly for bin 0, weight 818870
+FASTEXIT from pdf_binSR_bin6_obsOnly
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (1.70624) to force MIGRAD to back out of this region. Error log follows
+Parameter values: btag_cferr1=782.622, btag_cferr2=459.514, btag_hf=-139.06, btag_hfstats1_UL16postVFP=-0.641602, btag_hfstats1_UL16preVFP=-0.367033, btag_hfstats1_UL17=0.0185833, btag_hfstats1_UL18=0.532139, btag_hfstats2_UL16postVFP=-6.44422, btag_hfstats2_UL16preVFP=-9.74623, btag_hfstats2_UL17=-15.3228, btag_hfstats2_UL18=-17.4978, btag_lf=92.9831, btag_lfstats1_UL16postVFP=-40.5952, btag_lfstats1_UL16preVFP=-46.1774, btag_lfstats1_UL17=-80.8764, btag_lfstats1_UL18=-116.028, btag_lfstats2_UL16postVFP=-34.9164, btag_lfstats2_UL16preVFP=-39.7605, btag_lfstats2_UL17=-68.146, btag_lfstats2_UL18=-98.0911, ele_id=46.8596, ele_reco=22.8267, ele_trigger=98.9372, jec=461.768, jer=89.7404, lumi_13TeV=134.569, mcscale=189.626, mu_id=0.333015, mu_iso=-0.514148, mu_reco=0.785573, mu_trigger=8.1022, others_rate=167.625, prefiring=-40.1719, pu=2.73468, r=-0.0270231, st_rate=309.704, tmistag=7.70192, ttag_corr=0.921425, ttag_uncorr_UL16postVFP=0.452395, ttag_uncorr_UL16preVFP=0.163099, ttag_uncorr_UL17=0.917297, ttag_uncorr_UL18=0.95984, ttbar_rate=1153.17, wjets_rate=232.876
+RooAbsReal::SR_bin1_TopTag[ params=(ONE,btag_cferr1,btag_cferr2,btag_hf,btag_hfstats1_UL16postVFP,btag_hfstats1_UL16preVFP,btag_hfstats1_UL17,btag_hfstats1_UL18,btag_hfstats2_UL16postVFP,btag_hfstats2_UL16preVFP,btag_hfstats2_UL17,btag_hfstats2_UL18,btag_lf,btag_lfstats1_UL16postVFP,btag_lfstats1_UL16preVFP,btag_lfstats1_UL17,btag_lfstats1_UL18,btag_lfstats2_UL16postVFP,btag_lfstats2_UL16preVFP,btag_lfstats2_UL17,btag_lfstats2_UL18,ele_id,ele_reco,ele_trigger,jec,jer,lumi_13TeV,mcscale,mu_id,mu_iso,mu_reco,mu_trigger,others_rate,prefiring,prop_binSR_bin1_TopTag_bin0,prop_binSR_bin1_TopTag_bin1,prop_binSR_bin1_TopTag_bin2,prop_binSR_bin1_TopTag_bin3,prop_binSR_bin1_TopTag_bin4,prop_binSR_bin1_TopTag_bin5,prop_binSR_bin1_TopTag_bin6,prop_binSR_bin1_TopTag_bin7,prop_binSR_bin1_TopTag_bin8,pu,r,st_rate,tmistag,ttag_corr,ttag_uncorr_UL16postVFP,ttag_uncorr_UL16preVFP,ttag_uncorr_UL17,ttag_uncorr_UL18,ttbar_rate,wjets_rate) catParams=() ]
+     Number of events is negative or error @ params=(ONE = 1,btag_cferr1 = 782.622 +/- 0.465459,btag_cferr2 = 459.514 +/- 0.727177,btag_hf = -139.06 +/- 0.31768,btag_hfstats1_UL16postVFP = -0.641602 +/- 0.968516,btag_hfstats1_UL16preVFP = -0.367033 +/- 0.906786,btag_hfstats1_UL17 = 0.0185833 +/- 0.935927,btag_hfstats1_UL18 = 0.532139 +/- 0.952666,btag_hfstats2_UL16postVFP = -6.44422 +/- 0.944698,btag_hfstats2_UL16preVFP = -9.74623 +/- 0.91523,btag_hfstats2_UL17 = -15.3228 +/- 0.98325,btag_hfstats2_UL18 = -17.4978 +/- 0.972951,btag_lf = 92.9831 +/- 0.293136,btag_lfstats1_UL16postVFP = -40.5952 +/- 0.990812,btag_lfstats1_UL16preVFP = -46.1774 +/- 0.949125,btag_lfstats1_UL17 = -80.8764 +/- 0.717897,btag_lfstats1_UL18 = -116.028 +/- 0.886161,btag_lfstats2_UL16postVFP = -34.9164 +/- 0.981558,btag_lfstats2_UL16preVFP = -39.7605 +/- 0.952057,btag_lfstats2_UL17 = -68.146 +/- 0.742389,btag_lfstats2_UL18 = -98.0911 +/- 0.819319,ele_id = 46.8596 +/- 0.869501,ele_reco = 22.8267 +/- 0.930934,ele_trigger = 98.9372 +/- 0.47559,jec = 461.768 +/- 0.0899783,jer = 89.7404 +/- 0.240765,lumi_13TeV = 134.569 +/- 0.838611,mcscale = 189.626 +/- 0.131869,mu_id = 0.333015 +/- 0.926059,mu_iso = -0.514148 +/- 0.924801,mu_reco = 0.785573 +/- 0.924946,mu_trigger = 8.1022 +/- 0.922194,others_rate = 167.625 +/- 0.172162,prefiring = -40.1719 +/- 0.774508,prop_binSR_bin1_TopTag_bin0 = -0 +/- 1,prop_binSR_bin1_TopTag_bin1 = -0 +/- 1,prop_binSR_bin1_TopTag_bin2 = -0 +/- 1,prop_binSR_bin1_TopTag_bin3 = -0 +/- 1,prop_binSR_bin1_TopTag_bin4 = -0 +/- 1,prop_binSR_bin1_TopTag_bin5 = -0 +/- 1,prop_binSR_bin1_TopTag_bin6 = -0 +/- 1,prop_binSR_bin1_TopTag_bin7 = -0 +/- 1,prop_binSR_bin1_TopTag_bin8 = -0 +/- 1,pu = 2.73468 +/- 0.37796,r = -0.0270231 +/- 0.0328469,st_rate = 309.704 +/- 0.111088,tmistag = 7.70192 +/- 0.396063,ttag_corr = 0.921425 +/- 0.0079406,ttag_uncorr_UL16postVFP = 0.452395 +/- 1.75788,ttag_uncorr_UL16preVFP = 0.163099 +/- 1.58475,ttag_uncorr_UL17 = 0.917297 +/- 1.25537,ttag_uncorr_UL18 = 0.95984 +/- 0.324843,ttbar_rate = 1153.17 +/- 0.21343,wjets_rate = 232.876 +/- 0.139161), catParams=()
+RooAbsReal::SR_bin2_TopTag[ params=(ONE,btag_cferr1,btag_cferr2,btag_hf,btag_hfstats1_UL16postVFP,btag_hfstats1_UL16preVFP,btag_hfstats1_UL17,btag_hfstats1_UL18,btag_hfstats2_UL16postVFP,btag_hfstats2_UL16preVFP,btag_hfstats2_UL17,btag_hfstats2_UL18,btag_lf,btag_lfstats1_UL16postVFP,btag_lfstats1_UL16preVFP,btag_lfstats1_UL17,btag_lfstats1_UL18,btag_lfstats2_UL16postVFP,btag_lfstats2_UL16preVFP,btag_lfstats2_UL17,btag_lfstats2_UL18,ele_id,ele_reco,ele_trigger,jec,jer,lumi_13TeV,mcscale,mu_id,mu_iso,mu_reco,mu_trigger,others_rate,prefiring,prop_binSR_bin2_TopTag_bin0,prop_binSR_bin2_TopTag_bin1,prop_binSR_bin2_TopTag_bin2,prop_binSR_bin2_TopTag_bin3,prop_binSR_bin2_TopTag_bin4,prop_binSR_bin2_TopTag_bin5,prop_binSR_bin2_TopTag_bin6,prop_binSR_bin2_TopTag_bin7,prop_binSR_bin2_TopTag_bin8,pu,r,st_rate,tmistag,ttag_corr,ttag_uncorr_UL16postVFP,ttag_uncorr_UL16preVFP,ttag_uncorr_UL17,ttag_uncorr_UL18,ttbar_rate,wjets_rate) catParams=() ]
+     Number of events is negative or error @ params=(ONE = 1,btag_cferr1 = 782.622 +/- 0.465459,btag_cferr2 = 459.514 +/- 0.727177,btag_hf = -139.06 +/- 0.31768,btag_hfstats1_UL16postVFP = -0.641602 +/- 0.968516,btag_hfstats1_UL16preVFP = -0.367033 +/- 0.906786,btag_hfstats1_UL17 = 0.0185833 +/- 0.935927,btag_hfstats1_UL18 = 0.532139 +/- 0.952666,btag_hfstats2_UL16postVFP = -6.44422 +/- 0.944698,btag_hfstats2_UL16preVFP = -9.74623 +/- 0.91523,btag_hfstats2_UL17 = -15.3228 +/- 0.98325,btag_hfstats2_UL18 = -17.4978 +/- 0.972951,btag_lf = 92.9831 +/- 0.293136,btag_lfstats1_UL16postVFP = -40.5952 +/- 0.990812,btag_lfstats1_UL16preVFP = -46.1774 +/- 0.949125,btag_lfstats1_UL17 = -80.8764 +/- 0.717897,btag_lfstats1_UL18 = -116.028 +/- 0.886161,btag_lfstats2_UL16postVFP = -34.9164 +/- 0.981558,btag_lfstats2_UL16preVFP = -39.7605 +/- 0.952057,btag_lfstats2_UL17 = -68.146 +/- 0.742389,btag_lfstats2_UL18 = -98.0911 +/- 0.819319,ele_id = 46.8596 +/- 0.869501,ele_reco = 22.8267 +/- 0.930934,ele_trigger = 98.9372 +/- 0.47559,jec = 461.768 +/- 0.0899783,jer = 89.7404 +/- 0.240765,lumi_13TeV = 134.569 +/- 0.838611,mcscale = 189.626 +/- 0.131869,mu_id = 0.333015 +/- 0.926059,mu_iso = -0.514148 +/- 0.924801,mu_reco = 0.785573 +/- 0.924946,mu_trigger = 8.1022 +/- 0.922194,others_rate = 167.625 +/- 0.172162,prefiring = -40.1719 +/- 0.774508,prop_binSR_bin2_TopTag_bin0 = -0 +/- 1,prop_binSR_bin2_TopTag_bin1 = -0 +/- 1,prop_binSR_bin2_TopTag_bin2 = -0 +/- 1,prop_binSR_bin2_TopTag_bin3 = -0 +/- 1,prop_binSR_bin2_TopTag_bin4 = -0 +/- 1,prop_binSR_bin2_TopTag_bin5 = -0 +/- 1,prop_binSR_bin2_TopTag_bin6 = -0 +/- 1,prop_binSR_bin2_TopTag_bin7 = -0 +/- 1,prop_binSR_bin2_TopTag_bin8 = -0 +/- 1,pu = 2.73468 +/- 0.37796,r = -0.0270231 +/- 0.0328469,st_rate = 309.704 +/- 0.111088,tmistag = 7.70192 +/- 0.396063,ttag_corr = 0.921425 +/- 0.0079406,ttag_uncorr_UL16postVFP = 0.452395 +/- 1.75788,ttag_uncorr_UL16preVFP = 0.163099 +/- 1.58475,ttag_uncorr_UL17 = 0.917297 +/- 1.25537,ttag_uncorr_UL18 = 0.95984 +/- 0.324843,ttbar_rate = 1153.17 +/- 0.21343,wjets_rate = 232.876 +/- 0.139161), catParams=()
+RooAbsReal::SR_bin3_TopTag[ params=(ONE,btag_cferr1,btag_cferr2,btag_hf,btag_hfstats1_UL16postVFP,btag_hfstats1_UL16preVFP,btag_hfstats1_UL17,btag_hfstats1_UL18,btag_hfstats2_UL16postVFP,btag_hfstats2_UL16preVFP,btag_hfstats2_UL17,btag_hfstats2_UL18,btag_lf,btag_lfstats1_UL16postVFP,btag_lfstats1_UL16preVFP,btag_lfstats1_UL17,btag_lfstats1_UL18,btag_lfstats2_UL16postVFP,btag_lfstats2_UL16preVFP,btag_lfstats2_UL17,btag_lfstats2_UL18,ele_id,ele_reco,ele_trigger,jec,jer,lumi_13TeV,mcscale,mu_id,mu_iso,mu_reco,mu_trigger,others_rate,prefiring,prop_binSR_bin3_TopTag_bin0,prop_binSR_bin3_TopTag_bin1,prop_binSR_bin3_TopTag_bin2,prop_binSR_bin3_TopTag_bin3,prop_binSR_bin3_TopTag_bin4,prop_binSR_bin3_TopTag_bin5,prop_binSR_bin3_TopTag_bin6,prop_binSR_bin3_TopTag_bin7,prop_binSR_bin3_TopTag_bin8,pu,r,st_rate,tmistag,ttag_corr,ttag_uncorr_UL16postVFP,ttag_uncorr_UL16preVFP,ttag_uncorr_UL17,ttag_uncorr_UL18,ttbar_rate,wjets_rate) catParams=() ]
+     Number of events is negative or error @ params=(ONE = 1,btag_cferr1 = 782.622 +/- 0.465459,btag_cferr2 = 459.514 +/- 0.727177,btag_hf = -139.06 +/- 0.31768,btag_hfstats1_UL16postVFP = -0.641602 +/- 0.968516,btag_hfstats1_UL16preVFP = -0.367033 +/- 0.906786,btag_hfstats1_UL17 = 0.0185833 +/- 0.935927,btag_hfstats1_UL18 = 0.532139 +/- 0.952666,btag_hfstats2_UL16postVFP = -6.44422 +/- 0.944698,btag_hfstats2_UL16preVFP = -9.74623 +/- 0.91523,btag_hfstats2_UL17 = -15.3228 +/- 0.98325,btag_hfstats2_UL18 = -17.4978 +/- 0.972951,btag_lf = 92.9831 +/- 0.293136,btag_lfstats1_UL16postVFP = -40.5952 +/- 0.990812,btag_lfstats1_UL16preVFP = -46.1774 +/- 0.949125,btag_lfstats1_UL17 = -80.8764 +/- 0.717897,btag_lfstats1_UL18 = -116.028 +/- 0.886161,btag_lfstats2_UL16postVFP = -34.9164 +/- 0.981558,btag_lfstats2_UL16preVFP = -39.7605 +/- 0.952057,btag_lfstats2_UL17 = -68.146 +/- 0.742389,btag_lfstats2_UL18 = -98.0911 +/- 0.819319,ele_id = 46.8596 +/- 0.869501,ele_reco = 22.8267 +/- 0.930934,ele_trigger = 98.9372 +/- 0.47559,jec = 461.768 +/- 0.0899783,jer = 89.7404 +/- 0.240765,lumi_13TeV = 134.569 +/- 0.838611,mcscale = 189.626 +/- 0.131869,mu_id = 0.333015 +/- 0.926059,mu_iso = -0.514148 +/- 0.924801,mu_reco = 0.785573 +/- 0.924946,mu_trigger = 8.1022 +/- 0.922194,others_rate = 167.625 +/- 0.172162,prefiring = -40.1719 +/- 0.774508,prop_binSR_bin3_TopTag_bin0 = -0 +/- 1,prop_binSR_bin3_TopTag_bin1 = -0 +/- 1,prop_binSR_bin3_TopTag_bin2 = -0 +/- 1,prop_binSR_bin3_TopTag_bin3 = -0 +/- 1,prop_binSR_bin3_TopTag_bin4 = -0 +/- 1,prop_binSR_bin3_TopTag_bin5 = -0 +/- 1,prop_binSR_bin3_TopTag_bin6 = -0 +/- 1,prop_binSR_bin3_TopTag_bin7 = -0 +/- 1,prop_binSR_bin3_TopTag_bin8 = -0 +/- 1,pu = 2.73468 +/- 0.37796,r = -0.0270231 +/- 0.0328469,st_rate = 309.704 +/- 0.111088,tmistag = 7.70192 +/- 0.396063,ttag_corr = 0.921425 +/- 0.0079406,ttag_uncorr_UL16postVFP = 0.452395 +/- 1.75788,ttag_uncorr_UL16preVFP = 0.163099 +/- 1.58475,ttag_uncorr_UL17 = 0.917297 +/- 1.25537,ttag_uncorr_UL18 = 0.95984 +/- 0.324843,ttbar_rate = 1153.17 +/- 0.21343,wjets_rate = 232.876 +/- 0.139161), catParams=()
+RooAbsReal::SR_bin6[ params=(ONE,btag_cferr1,btag_cferr2,btag_hf,btag_hfstats1_UL16postVFP,btag_hfstats1_UL16preVFP,btag_hfstats1_UL17,btag_hfstats1_UL18,btag_hfstats2_UL16postVFP,btag_hfstats2_UL16preVFP,btag_hfstats2_UL17,btag_hfstats2_UL18,btag_lf,btag_lfstats1_UL16postVFP,btag_lfstats1_UL16preVFP,btag_lfstats1_UL17,btag_lfstats1_UL18,btag_lfstats2_UL16postVFP,btag_lfstats2_UL16preVFP,btag_lfstats2_UL17,btag_lfstats2_UL18,ele_id,ele_reco,ele_trigger,jec,jer,lumi_13TeV,mcscale,mu_id,mu_iso,mu_reco,mu_trigger,others_rate,prefiring,prop_binSR_bin6_bin0,prop_binSR_bin6_bin1,prop_binSR_bin6_bin2,prop_binSR_bin6_bin3,prop_binSR_bin6_bin4,prop_binSR_bin6_bin5,prop_binSR_bin6_bin6,prop_binSR_bin6_bin7,prop_binSR_bin6_bin8,pu,r,st_rate,tmistag,ttag_corr,ttag_uncorr_UL16postVFP,ttag_uncorr_UL16preVFP,ttag_uncorr_UL17,ttag_uncorr_UL18,ttbar_rate,wjets_rate) catParams=() ]
+     Number of events is negative or error @ params=(ONE = 1,btag_cferr1 = 782.622 +/- 0.465459,btag_cferr2 = 459.514 +/- 0.727177,btag_hf = -139.06 +/- 0.31768,btag_hfstats1_UL16postVFP = -0.641602 +/- 0.968516,btag_hfstats1_UL16preVFP = -0.367033 +/- 0.906786,btag_hfstats1_UL17 = 0.0185833 +/- 0.935927,btag_hfstats1_UL18 = 0.532139 +/- 0.952666,btag_hfstats2_UL16postVFP = -6.44422 +/- 0.944698,btag_hfstats2_UL16preVFP = -9.74623 +/- 0.91523,btag_hfstats2_UL17 = -15.3228 +/- 0.98325,btag_hfstats2_UL18 = -17.4978 +/- 0.972951,btag_lf = 92.9831 +/- 0.293136,btag_lfstats1_UL16postVFP = -40.5952 +/- 0.990812,btag_lfstats1_UL16preVFP = -46.1774 +/- 0.949125,btag_lfstats1_UL17 = -80.8764 +/- 0.717897,btag_lfstats1_UL18 = -116.028 +/- 0.886161,btag_lfstats2_UL16postVFP = -34.9164 +/- 0.981558,btag_lfstats2_UL16preVFP = -39.7605 +/- 0.952057,btag_lfstats2_UL17 = -68.146 +/- 0.742389,btag_lfstats2_UL18 = -98.0911 +/- 0.819319,ele_id = 46.8596 +/- 0.869501,ele_reco = 22.8267 +/- 0.930934,ele_trigger = 98.9372 +/- 0.47559,jec = 461.768 +/- 0.0899783,jer = 89.7404 +/- 0.240765,lumi_13TeV = 134.569 +/- 0.838611,mcscale = 189.626 +/- 0.131869,mu_id = 0.333015 +/- 0.926059,mu_iso = -0.514148 +/- 0.924801,mu_reco = 0.785573 +/- 0.924946,mu_trigger = 8.1022 +/- 0.922194,others_rate = 167.625 +/- 0.172162,prefiring = -40.1719 +/- 0.774508,prop_binSR_bin6_bin0 = -0 +/- 1,prop_binSR_bin6_bin1 = -8866.25 +/- 1,prop_binSR_bin6_bin2 = -7977.27 +/- 1,prop_binSR_bin6_bin3 = -5403.86 +/- 1,prop_binSR_bin6_bin4 = -4366.21 +/- 1,prop_binSR_bin6_bin5 = -2969.06 +/- 1,prop_binSR_bin6_bin6 = -2720.99 +/- 1,prop_binSR_bin6_bin7 = -1368.9 +/- 1,prop_binSR_bin6_bin8 = -1389.7 +/- 1,pu = 2.73468 +/- 0.37796,r = -0.0270231 +/- 0.0328469,st_rate = 309.704 +/- 0.111088,tmistag = 7.70192 +/- 0.396063,ttag_corr = 0.921425 +/- 0.0079406,ttag_uncorr_UL16postVFP = 0.452395 +/- 1.75788,ttag_uncorr_UL16preVFP = 0.163099 +/- 1.58475,ttag_uncorr_UL17 = 0.917297 +/- 1.25537,ttag_uncorr_UL18 = 0.95984 +/- 0.324843,ttbar_rate = 1153.17 +/- 0.21343,wjets_rate = 232.876 +/- 0.139161), catParams=()
+
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (1.70624) to force MIGRAD to back out of this region. Error log follows
+Parameter values: btag_cferr1=391.461, btag_cferr2=229.597, btag_hf=-69.756, btag_hfstats1_UL16postVFP=-0.318975, btag_hfstats1_UL16preVFP=-0.180563, btag_hfstats1_UL17=0.0244551, btag_hfstats1_UL18=0.303141, btag_hfstats2_UL16postVFP=-3.21539, btag_hfstats2_UL16preVFP=-4.92643, btag_hfstats2_UL17=-7.6939, btag_hfstats2_UL18=-8.76404, btag_lf=46.4243, btag_lfstats1_UL16postVFP=-20.42, btag_lfstats1_UL16preVFP=-23.2176, btag_lfstats1_UL17=-40.5707, btag_lfstats1_UL18=-58.2644, btag_lfstats2_UL16postVFP=-17.5809, btag_lfstats2_UL16preVFP=-19.9941, btag_lfstats2_UL17=-34.1474, btag_lfstats2_UL18=-49.2867, ele_id=23.293, ele_reco=11.4073, ele_trigger=49.2424, jec=231.184, jer=45.0535, lumi_13TeV=67.3096, mcscale=94.4278, mu_id=0.151517, mu_iso=-0.267231, mu_reco=0.373586, mu_trigger=3.99029, others_rate=84.6989, prefiring=-20.1603, pu=1.28119, r=0.12434, st_rate=155.647, tmistag=3.51609, ttag_corr=0.78581, ttag_uncorr_UL16postVFP=0.898193, ttag_uncorr_UL16preVFP=-0.204549, ttag_uncorr_UL17=0.991777, ttag_uncorr_UL18=0.491303, ttbar_rate=575.91, wjets_rate=116.422
+
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.199/+0.000 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 33/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.107 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 34/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.063   -0.137/+0.263 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 35/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.048   -0.222/+0.152 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 36/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.01 min (cpu), 0.01 min (real)
+Generate toy 37/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 38/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 39/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.261 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 40/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 41/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 42/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 43/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 44/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 45/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 46/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.043   -0.212/+0.157 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 47/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.127/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 48/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 49/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 50/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 51/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.339/+0.000 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 52/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.399 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 53/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.400 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 54/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.400 (68%)
+Done in 0.05 min (cpu), 0.06 min (real)
+Generate toy 55/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 56/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.400 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 57/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 58/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 59/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 60/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.121/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 61/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.170/+0.000 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 62/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.147 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 63/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.400 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 64/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 65/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.200   +0.139/+0.400 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 66/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.209/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 67/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.106 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 68/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.400/+0.000 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 69/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.061 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 70/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 71/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 72/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 73/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 74/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 75/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 76/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 77/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 78/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 79/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 80/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 81/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 82/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 83/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 84/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.267 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 85/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.082 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 86/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 87/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 88/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 89/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.244/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 90/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 91/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 92/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.154 (68%)
+Done in 0.09 min (cpu), 0.09 min (real)
+Generate toy 93/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 94/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 95/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 96/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 97/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.316/+0.000 (68%)
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 98/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 99/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.300/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 100/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.116/+0.000 (68%)
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 101/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 102/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.336 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 103/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 104/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 105/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 106/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 107/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.200   -0.000/+0.386 (68%)
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 108/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 109/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 110/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 111/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 112/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 113/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.400/+0.000 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 114/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 115/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 116/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.339/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 117/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 118/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 119/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 120/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 121/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.031   -0.194/+0.169 (68%)
+Done in 0.06 min (cpu), 0.07 min (real)
+Generate toy 122/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 123/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.093 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 124/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.373/+0.000 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 125/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.234/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 126/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.400/+0.000 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 127/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 128/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.315/+0.000 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 129/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 130/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.196/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 131/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 132/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 133/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.204 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 134/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.400/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 135/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 136/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.134   -0.276/+0.066 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 137/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 138/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 139/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 140/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 141/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 142/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 143/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 144/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.033   -0.167/+0.233 (68%)
+Done in 0.09 min (cpu), 0.09 min (real)
+Generate toy 145/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.292 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 146/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.082   -0.227/+0.118 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 147/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.115 (68%)
+Done in 0.10 min (cpu), 0.10 min (real)
+Generate toy 148/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 149/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 150/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 151/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.200   +0.039/+0.400 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 152/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.217 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 153/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 154/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.130   -0.070/+0.264 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 155/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.228/+0.000 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 156/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 157/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 158/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 159/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 160/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 161/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 162/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.178 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 163/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.127 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 164/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.400 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 165/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 166/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.400/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 167/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 168/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 169/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.119 (68%)
+Done in 0.12 min (cpu), 0.12 min (real)
+Generate toy 170/250
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (2.21892e+08) to force MIGRAD to back out of this region. Error log follows
+Parameter values: btag_cferr1=-18.9165, btag_cferr2=-34.8988, btag_hf=-420.86, btag_hfstats1_UL16postVFP=21.6758, btag_hfstats1_UL16preVFP=37.4115, btag_hfstats1_UL17=24.8937, btag_hfstats1_UL18=33.14, btag_hfstats2_UL16postVFP=-38.4577, btag_hfstats2_UL16preVFP=7.54207, btag_hfstats2_UL17=25.3006, btag_hfstats2_UL18=28.1928, btag_lf=-53.8989, btag_lfstats1_UL16postVFP=-2.75815, btag_lfstats1_UL16preVFP=3.06609, btag_lfstats1_UL17=-6.38967, btag_lfstats1_UL18=-13.699, btag_lfstats2_UL16postVFP=-9.45642, btag_lfstats2_UL16preVFP=-18.1638, btag_lfstats2_UL17=-18.1155, btag_lfstats2_UL18=-26.0324, ele_id=46.2312, ele_reco=13.3012, ele_trigger=69.7283, jec=-180.753, jer=27.3667, lumi_13TeV=27.3762, mcscale=105.374, mu_id=-7.45786, mu_iso=-0.575008, mu_reco=13.0365, mu_trigger=38.4956, others_rate=453.37, prefiring=40.3122, pu=102.254, r=0.2, st_rate=-175.994, tmistag=47.475, ttag_corr=-0.78987, ttag_uncorr_UL16postVFP=0.960935, ttag_uncorr_UL16preVFP=0.99149, ttag_uncorr_UL17=0.391828, ttag_uncorr_UL18=0.999838, ttbar_rate=-92.4316, wjets_rate=664.709
+
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.273/+0.000 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 171/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 172/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.167/+0.000 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 173/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 174/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 175/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 176/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 177/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 178/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.112/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 179/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 180/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 181/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 182/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 183/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 184/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 185/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 186/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.400/+0.000 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 187/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 188/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 189/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 190/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.124/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 191/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 192/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.200   -0.400/-0.136 (68%)
+Done in 0.12 min (cpu), 0.12 min (real)
+Generate toy 193/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 194/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.200   -0.007/+0.306 (68%)
+Done in 0.09 min (cpu), 0.09 min (real)
+Generate toy 195/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.200   -0.192/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 196/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 197/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 198/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 199/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 200/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 201/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.063   -0.137/+0.185 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 202/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.400 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 203/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 204/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 205/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 206/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 207/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.016   -0.184/+0.216 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 208/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.200   +0.038/+0.400 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 209/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 210/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.075   -0.125/+0.275 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 211/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.077 (68%)
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 212/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.108   -0.241/+0.092 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 213/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 214/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 215/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 216/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 217/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.181/+0.000 (68%)
+Done in 0.10 min (cpu), 0.10 min (real)
+Generate toy 218/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.01 min (cpu), 0.02 min (real)
+Generate toy 219/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.200   +0.137/+0.400 (68%)
+Done in 0.11 min (cpu), 0.11 min (real)
+Generate toy 220/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 221/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.071   -0.129/+0.271 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 222/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 223/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.196 (68%)
+Done in 0.05 min (cpu), 0.05 min (real)
+Generate toy 224/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 225/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.364 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 226/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    -0.200   +0.013/+0.400 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 227/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 228/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 229/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 230/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 231/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 232/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.120 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 233/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.262 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Generate toy 234/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   r :    +0.200   -0.400/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 235/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 236/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 237/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.02 min (real)
+Generate toy 238/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    -0.200   -0.000/+0.107 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Generate toy 239/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 240/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 241/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 242/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 243/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 244/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 245/250
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : r
+   r :    +0.200   -0.247/+0.000 (68%)
+Done in 0.06 min (cpu), 0.06 min (real)
+Generate toy 246/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 247/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.03 min (cpu), 0.03 min (real)
+Generate toy 248/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Generate toy 249/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.02 min (cpu), 0.02 min (real)
+Generate toy 250/250
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.03 min (real)
+mean   expected limit: r < 0 +/- 0 @ 95%CL (250 toyMC)
+median expected limit: r < 0 @ 95%CL (250 toyMC)
+   68% expected band : 1.14623e-321 < r < 1.14623e-321
+   95% expected band : 1.14623e-321 < r < 1.14623e-321

@@ -9,14 +9,43 @@ Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
 Set Default Value of Parameter r To : 0
 Freezing the following parameters: RooArgSet:: = (r)
->>> 0 out of 88 channels masked
+>>> 0 out of 11 channels masked
 
-ask_UL18_mu_CR1 To : 0
-Set Default Value of Parameter mask_UL18_mu_CR2 To : 0
+Set Default Value of Parameter mask_SR_bin1_TopTag To : 0
+Set Default Value of Parameter mask_SR_bin1_NoTopTag To : 0
+Set Default Value of Parameter mask_SR_bin2_TopTag To : 0
+Set Default Value of Parameter mask_SR_bin2_NoTopTag To : 0
+Set Default Value of Parameter mask_SR_bin3_TopTag To : 0
+Set Default Value of Parameter mask_SR_bin3_NoTopTag To : 0
+Set Default Value of Parameter mask_SR_bin4 To : 0
+Set Default Value of Parameter mask_SR_bin5 To : 0
+Set Default Value of Parameter mask_SR_bin6 To : 0
+Set Default Value of Parameter mask_CR1 To : 0
+Set Default Value of Parameter mask_CR2 To : 0
+Set Default Value of Parameter mask_SR_bin1_TopTag To : 1
+Set Default Value of Parameter mask_SR_bin1_NoTopTag To : 1
+Set Default Value of Parameter mask_SR_bin2_TopTag To : 1
+Set Default Value of Parameter mask_SR_bin2_NoTopTag To : 1
+Set Default Value of Parameter mask_SR_bin3_TopTag To : 1
+Set Default Value of Parameter mask_SR_bin3_NoTopTag To : 1
+Set Default Value of Parameter mask_SR_bin4 To : 1
+Set Default Value of Parameter mask_SR_bin5 To : 1
+Set Default Value of Parameter mask_SR_bin6 To : 1
+Set Default Value of Parameter mask_SR_bin1_TopTag To : 0
+Set Default Value of Parameter mask_SR_bin1_NoTopTag To : 0
+Set Default Value of Parameter mask_SR_bin2_TopTag To : 0
+Set Default Value of Parameter mask_SR_bin2_NoTopTag To : 0
+Set Default Value of Parameter mask_SR_bin3_TopTag To : 0
+Set Default Value of Parameter mask_SR_bin3_NoTopTag To : 0
+Set Default Value of Parameter mask_SR_bin4 To : 0
+Set Default Value of Parameter mask_SR_bin5 To : 0
+Set Default Value of Parameter mask_SR_bin6 To : 0
+Set Default Value of Parameter mask_CR1 To : 0
+Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 378931
-Done in 0.32 min (cpu), 0.41 min (real)
+Best fit test statistic: 91448.2
+Done in 0.02 min (cpu), 0.02 min (real)
 Printing Message Summary From ... combine_logger.out
 ----------------------------------------------
 Messages of type INFO : 2
