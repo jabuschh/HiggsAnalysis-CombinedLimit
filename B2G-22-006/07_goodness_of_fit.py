@@ -42,7 +42,7 @@ print(len(masks))
 fa = '10000'
 
 scenarios = [
-    # 'negint',
+    'negint',
     'posint',
 ]
 
@@ -66,7 +66,7 @@ for scenario in scenarios:
     command_step1 += ' -v 1' # level of verbosity for output
     command_step1 += ' --algo=saturated' # algorithm
     command_step1 += ' --freezeParameters r --setParameters r=0' # freeze and set signal strength modifier to 0
-    command_step1 += ' --toysFrequentist' # use Frequentist toys
+    command_step1 += ' --toysFrequentist --bypassFrequentistFit' # use Frequentist toys
     command_step1 += ' --setParameterRanges ttag_corr=-5,5' + ''.join(':ttag_uncorr_' + year + '=-5,5' for year in years)
     command_step1 += ' --setParametersForFit '
     for mask in masks:
@@ -94,7 +94,7 @@ for scenario in scenarios:
     command_step2 += ' --algo=saturated' # algorithm
     command_step2 += ' -t 250 -s 12345' # set number of toys and seed
     command_step2 += ' --freezeParameters r --setParameters r=0' # freeze and set signal strength modifier to 0
-    command_step2 += ' --toysFrequentist' # use Frequentist toys
+    command_step2 += ' --toysFrequentist --bypassFrequentistFit' # use Frequentist toys
     command_step2 += ' --setParameterRanges ttag_corr=-5,5' + ''.join(':ttag_uncorr_' + year + '=-5,5' for year in years)
     command_step2 += ' --setParametersForFit '
     for mask in masks:

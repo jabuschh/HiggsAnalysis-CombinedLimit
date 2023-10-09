@@ -32,7 +32,7 @@ regions = [
     'CR2',
 ]
 systematics = [
-    # 'pdf',
+    'pdf',
     'mcscale',
     'pu',
     'prefiring',

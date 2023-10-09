@@ -108,7 +108,7 @@ rates['lumi_13TeV'] = 1.016
 
 # shape systematics: up/down variations
 shapes = OrderedDict()
-# shapes['pdf']           = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # pdf uncertainty # TODO: comment in once ST is fixed
+shapes['pdf']           = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # pdf uncertainty # TODO: comment in once ST is fixed
 shapes['mcscale']       = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # mcscale uncertainty: envelope of muR and muF up/down combinations
 shapes['pu']            = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # pileup
 shapes['prefiring']     = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # prefiring
