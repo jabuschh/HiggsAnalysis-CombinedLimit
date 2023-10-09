@@ -1,6 +1,0 @@
- <<< Combine >>> 
->>> random number generator seed is 123456
->>> method used is GenerateOnly
-TFile**		/nfs/dust/cms/user/jabuschh/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/B2G-22-006/signalinjectiontests/negint/posint/higgsCombine_r0_posint.MultiDimFit.mH125.123456.root	
- TFile*		/nfs/dust/cms/user/jabuschh/combine/CMSSW_11_3_4/src/HiggsAnalysis/CombinedLimit/B2G-22-006/signalinjectiontests/negint/posint/higgsCombine_r0_posint.MultiDimFit.mH125.123456.root	
-  KEY: TDirectoryFile	toys;1	toys
