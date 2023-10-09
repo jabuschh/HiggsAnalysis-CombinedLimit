@@ -8,14 +8,12 @@ Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
 >>> 0 out of 11 channels masked
 
-SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
-SimNLL created with 11 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
-  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+SimNLL created with 0 channels, 5 generic constraints, 138 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 11 channels, 5 generic constraints, 138 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
   [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
-  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
   [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
 
  --- FitDiagnostics ---
-Best fit r: 0.00759769  -0.00759769/+0.342895  (68% CL)
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit r: 0.0050397  -0.0050397/+0.34492  (68% CL)
+Done in 0.12 min (cpu), 0.12 min (real)
 >> combine -t -1 -M FitDiagnostics -m 125 -d ../../asymptoticlimits/workspace_run2_fa10000_negint.root --setParameterRanges ttag_corr=-5,5:ttag_uncorr_UL16preVFP=-5,5:ttag_uncorr_UL16postVFP=-5,5:ttag_uncorr_UL17=-5,5:ttag_uncorr_UL18=-5,5 -n _negint

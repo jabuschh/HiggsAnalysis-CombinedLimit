@@ -50,7 +50,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1.31059e+06
+Best fit test statistic: 140155
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -100,7 +100,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 14950.9
+Best fit test statistic: 7964.04
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -150,7 +150,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 46366.3
+Best fit test statistic: 21675.4
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -158,6 +158,15 @@ Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
 Generate toy 4/250
+Set Default Value of Parameter mask_SR_bin1_TopTag To : 1
+Set Default Value of Parameter mask_SR_bin1_NoTopTag To : 1
+Set Default Value of Parameter mask_SR_bin2_TopTag To : 1
+Set Default Value of Parameter mask_SR_bin2_NoTopTag To : 1
+Set Default Value of Parameter mask_SR_bin3_TopTag To : 1
+Set Default Value of Parameter mask_SR_bin3_NoTopTag To : 1
+Set Default Value of Parameter mask_SR_bin4 To : 1
+Set Default Value of Parameter mask_SR_bin5 To : 1
+Set Default Value of Parameter mask_SR_bin6 To : 1
 Set Default Value of Parameter mask_SR_bin1_TopTag To : 0
 Set Default Value of Parameter mask_SR_bin1_NoTopTag To : 0
 Set Default Value of Parameter mask_SR_bin2_TopTag To : 0
@@ -191,7 +200,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 211549
+Best fit test statistic: 68724.2
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -241,7 +250,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 52740.7
+Best fit test statistic: 9267.92
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -291,7 +300,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 41136.4
+Best fit test statistic: 543139
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -341,7 +350,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 377040
+Best fit test statistic: 87872.8
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -391,7 +400,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 50470.1
+Best fit test statistic: 30671.3
 Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -441,7 +450,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 23674.4
+Best fit test statistic: 369987
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -491,8 +500,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 299565
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 102867
+Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -541,7 +550,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 30135.8
+Best fit test statistic: 202328
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -591,7 +600,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 43353.8
+Best fit test statistic: 38746.7
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -641,7 +650,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 63736.8
+Best fit test statistic: 16829
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -691,7 +700,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 4515.7
+Best fit test statistic: 179539
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -699,6 +708,15 @@ Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
 Generate toy 15/250
+Set Default Value of Parameter mask_SR_bin1_TopTag To : 1
+Set Default Value of Parameter mask_SR_bin1_NoTopTag To : 1
+Set Default Value of Parameter mask_SR_bin2_TopTag To : 1
+Set Default Value of Parameter mask_SR_bin2_NoTopTag To : 1
+Set Default Value of Parameter mask_SR_bin3_TopTag To : 1
+Set Default Value of Parameter mask_SR_bin3_NoTopTag To : 1
+Set Default Value of Parameter mask_SR_bin4 To : 1
+Set Default Value of Parameter mask_SR_bin5 To : 1
+Set Default Value of Parameter mask_SR_bin6 To : 1
 Set Default Value of Parameter mask_SR_bin1_TopTag To : 0
 Set Default Value of Parameter mask_SR_bin1_NoTopTag To : 0
 Set Default Value of Parameter mask_SR_bin2_TopTag To : 0
@@ -732,8 +750,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 136203
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 5181.56
+Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -782,8 +800,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 8998.03
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 177159
+Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -832,8 +850,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 15665.8
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 12769.1
+Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -882,8 +900,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 8362.54
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 70360
+Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -932,8 +950,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 110353
-Done in 0.01 min (cpu), 0.01 min (real)
+Best fit test statistic: 50245.2
+Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -982,8 +1000,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 268706
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 24786.7
+Done in 0.01 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -1032,7 +1050,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 109563
+Best fit test statistic: 13979.8
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -1082,7 +1100,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 383856
+Best fit test statistic: 28800.1
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -1132,8 +1150,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 96847.5
-Done in 0.01 min (cpu), 0.01 min (real)
+Best fit test statistic: 44569.8
+Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -1182,7 +1200,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 158384
+Best fit test statistic: 4885
 Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -1232,7 +1250,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 2900.93
+Best fit test statistic: 27986.2
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -1282,8 +1300,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 36511.4
-Done in 0.01 min (cpu), 0.01 min (real)
+Best fit test statistic: 120448
+Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -1332,7 +1350,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 95314.6
+Best fit test statistic: 14165.5
 Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -1382,7 +1400,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 69065.3
+Best fit test statistic: 4083.96
 Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -1432,23 +1450,14 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 118142
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 25660.6
+Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
 Generate toy 30/250
-Set Default Value of Parameter mask_SR_bin1_TopTag To : 1
-Set Default Value of Parameter mask_SR_bin1_NoTopTag To : 1
-Set Default Value of Parameter mask_SR_bin2_TopTag To : 1
-Set Default Value of Parameter mask_SR_bin2_NoTopTag To : 1
-Set Default Value of Parameter mask_SR_bin3_TopTag To : 1
-Set Default Value of Parameter mask_SR_bin3_NoTopTag To : 1
-Set Default Value of Parameter mask_SR_bin4 To : 1
-Set Default Value of Parameter mask_SR_bin5 To : 1
-Set Default Value of Parameter mask_SR_bin6 To : 1
 Set Default Value of Parameter mask_SR_bin1_TopTag To : 0
 Set Default Value of Parameter mask_SR_bin1_NoTopTag To : 0
 Set Default Value of Parameter mask_SR_bin2_TopTag To : 0
@@ -1482,8 +1491,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 22406.8
-Done in 0.01 min (cpu), 0.01 min (real)
+Best fit test statistic: 38462.2
+Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -1532,23 +1541,14 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 4702.6
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 231512
+Done in 0.01 min (cpu), 0.01 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
 Generate toy 32/250
-Set Default Value of Parameter mask_SR_bin1_TopTag To : 1
-Set Default Value of Parameter mask_SR_bin1_NoTopTag To : 1
-Set Default Value of Parameter mask_SR_bin2_TopTag To : 1
-Set Default Value of Parameter mask_SR_bin2_NoTopTag To : 1
-Set Default Value of Parameter mask_SR_bin3_TopTag To : 1
-Set Default Value of Parameter mask_SR_bin3_NoTopTag To : 1
-Set Default Value of Parameter mask_SR_bin4 To : 1
-Set Default Value of Parameter mask_SR_bin5 To : 1
-Set Default Value of Parameter mask_SR_bin6 To : 1
 Set Default Value of Parameter mask_SR_bin1_TopTag To : 0
 Set Default Value of Parameter mask_SR_bin1_NoTopTag To : 0
 Set Default Value of Parameter mask_SR_bin2_TopTag To : 0
@@ -1582,8 +1582,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 52411.2
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 14864.2
+Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -1632,7 +1632,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 64171.2
+Best fit test statistic: 87235.6
 Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -1682,7 +1682,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 520446
+Best fit test statistic: 889121
 Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -1732,7 +1732,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 266084
+Best fit test statistic: 15011.2
 Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -1782,7 +1782,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 98601.6
+Best fit test statistic: 45183.4
 Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -1832,8 +1832,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 43482.3
-Done in 0.03 min (cpu), 0.03 min (real)
+Best fit test statistic: 63840.2
+Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -1882,7 +1882,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 15543.6
+Best fit test statistic: 22058
 Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -1932,8 +1932,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 10006.9
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 323057
+Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -1982,8 +1982,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 104698
-Done in 0.03 min (cpu), 0.03 min (real)
+Best fit test statistic: 6287.21
+Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2032,7 +2032,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 72074.9
+Best fit test statistic: 18321.7
 Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -2082,8 +2082,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 49157
-Done in 0.03 min (cpu), 0.03 min (real)
+Best fit test statistic: 10981.7
+Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2132,8 +2132,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 408796
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 47926.4
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2182,7 +2182,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 21328.4
+Best fit test statistic: 24148.5
 Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -2232,7 +2232,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 64527.6
+Best fit test statistic: 478541
 Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -2282,8 +2282,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 61109
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 32435.4
+Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2332,7 +2332,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 59701.1
+Best fit test statistic: 14662.7
 Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -2382,8 +2382,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 6675.65
-Done in 0.03 min (cpu), 0.03 min (real)
+Best fit test statistic: 35420.9
+Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2432,8 +2432,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 39421.2
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 109091
+Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2482,8 +2482,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 226280
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 7292.46
+Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2532,8 +2532,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 129783
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 320288
+Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2582,8 +2582,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 134021
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 11831.4
+Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2632,8 +2632,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 12528.3
-Done in 0.03 min (cpu), 0.03 min (real)
+Best fit test statistic: 61018.8
+Done in 0.02 min (cpu), 0.02 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2682,7 +2682,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 134518
+Best fit test statistic: 16113.4
 Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -2732,7 +2732,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 5681.4
+Best fit test statistic: 122898
 Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -2782,8 +2782,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 7735.68
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 8108.94
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2832,8 +2832,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 111942
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 55971.7
+Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2882,7 +2882,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 178734
+Best fit test statistic: 9460.26
 Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -2932,8 +2932,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1706.66
-Done in 0.05 min (cpu), 0.04 min (real)
+Best fit test statistic: 13065.7
+Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -2982,7 +2982,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 78041.1
+Best fit test statistic: 15349
 Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -3032,7 +3032,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1.31282e+06
+Best fit test statistic: 41833.4
 Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -3082,8 +3082,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 440416
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 3551.37
+Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3132,8 +3132,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 106617
-Done in 0.03 min (cpu), 0.03 min (real)
+Best fit test statistic: 16134.5
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3182,8 +3182,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 9621.89
-Done in 0.03 min (cpu), 0.03 min (real)
+Best fit test statistic: 286660
+Done in 0.05 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3232,8 +3232,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 130184
-Done in 0.03 min (cpu), 0.03 min (real)
+Best fit test statistic: 9594.44
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3282,7 +3282,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 5704.49
+Best fit test statistic: 4104.33
 Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -3332,8 +3332,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 331330
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 27721.8
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3382,7 +3382,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 347412
+Best fit test statistic: 11389.7
 Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -3432,8 +3432,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 27706.2
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 6569.65
+Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3482,8 +3482,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 14768.5
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 46106.8
+Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3532,8 +3532,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 72660.4
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 1.44546e+06
+Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3582,7 +3582,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 12590.1
+Best fit test statistic: 131988
 Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -3632,8 +3632,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 87886.6
-Done in 0.03 min (cpu), 0.03 min (real)
+Best fit test statistic: 80123.5
+Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3682,8 +3682,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 20574.3
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 494961
+Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3732,8 +3732,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 8242.13
-Done in 0.03 min (cpu), 0.03 min (real)
+Best fit test statistic: 21582.3
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3782,8 +3782,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 49070.5
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 153369
+Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3832,7 +3832,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 7695.2
+Best fit test statistic: 50766.3
 Done in 0.03 min (cpu), 0.03 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -3882,7 +3882,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 74968.5
+Best fit test statistic: 15635.1
 Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -3932,8 +3932,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 100959
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 37773.2
+Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -3982,8 +3982,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 30154.2
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 114435
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4032,8 +4032,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 185374
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 213656
+Done in 0.06 min (cpu), 0.06 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4082,8 +4082,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 108482
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 29043.5
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4132,8 +4132,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 287648
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 29276.1
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4182,8 +4182,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 93463.3
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 11669.8
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4232,8 +4232,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 125633
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 20854.2
+Done in 0.06 min (cpu), 0.06 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4282,7 +4282,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 126585
+Best fit test statistic: 145856
 Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -4332,8 +4332,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 142247
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 219480
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4382,8 +4382,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 7242.32
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 55130.2
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4432,7 +4432,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 40501
+Best fit test statistic: 1.67587e+06
 Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -4482,8 +4482,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 50595
-Done in 0.03 min (cpu), 0.03 min (real)
+Best fit test statistic: 204852
+Done in 0.06 min (cpu), 0.06 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4532,8 +4532,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 3578.14
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 3351.51
+Done in 0.04 min (cpu), 0.04 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4582,8 +4582,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 2984.63
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 3497.93
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4632,8 +4632,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 21424.7
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 440339
+Done in 0.06 min (cpu), 0.06 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4682,8 +4682,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 74783.1
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 855130
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4732,8 +4732,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 25447.5
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 54368.8
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4782,8 +4782,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 8959.88
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 105029
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4832,8 +4832,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1.18615e+06
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 1.19253e+06
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4882,8 +4882,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 7018.29
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 30768
+Done in 0.07 min (cpu), 0.07 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -4932,7 +4932,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 22384
+Best fit test statistic: 20008.8
 Done in 0.06 min (cpu), 0.06 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -4982,8 +4982,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1283.94
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 246574
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5032,8 +5032,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 20759.7
-Done in 0.02 min (cpu), 0.02 min (real)
+Best fit test statistic: 553097
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5082,7 +5082,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 2844.34
+Best fit test statistic: 142632
 Done in 0.07 min (cpu), 0.07 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -5132,8 +5132,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 24328.5
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 50209
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5182,8 +5182,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 48050.8
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 167200
+Done in 0.15 min (cpu), 0.15 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5232,8 +5232,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 32947.3
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 86159.2
+Done in 0.07 min (cpu), 0.07 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5282,8 +5282,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 5876.15
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 2521.78
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5332,8 +5332,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 313678
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 19887.5
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5382,8 +5382,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 185613
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 194387
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5432,8 +5432,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 379129
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 128391
+Done in 0.06 min (cpu), 0.06 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5482,8 +5482,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 2187.35
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 207317
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5532,8 +5532,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 39507.3
-Done in 0.04 min (cpu), 0.04 min (real)
+Best fit test statistic: 69442.2
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5582,8 +5582,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 7405.27
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 115141
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5632,8 +5632,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 28526.2
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 343115
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5682,8 +5682,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1514.99
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 21198.9
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5732,8 +5732,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 101358
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 17781.1
+Done in 0.07 min (cpu), 0.07 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5782,8 +5782,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 653273
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 27472.4
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5832,8 +5832,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 66702.2
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 3162.46
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5882,8 +5882,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 17840.3
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 458340
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5932,8 +5932,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 78923.3
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 192800
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -5982,8 +5982,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 22634.3
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 19811.7
+Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6032,7 +6032,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 115692
+Best fit test statistic: 231853
 Done in 0.06 min (cpu), 0.06 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -6082,7 +6082,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 80683.1
+Best fit test statistic: 87821.5
 Done in 0.06 min (cpu), 0.06 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -6132,8 +6132,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 42651.1
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 23021.4
+Done in 0.07 min (cpu), 0.07 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6182,8 +6182,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 35606.7
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 123226
+Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6232,8 +6232,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 11788.1
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 8865.41
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6282,8 +6282,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 21493.7
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 488947
+Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6332,8 +6332,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 16655
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 342893
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6382,8 +6382,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 2769.26
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 121929
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6432,8 +6432,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 189718
-Done in 0.18 min (cpu), 0.18 min (real)
+Best fit test statistic: 611331
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6482,7 +6482,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 506227
+Best fit test statistic: 21812.4
 Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -6532,8 +6532,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 9044.84
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 98886.2
+Done in 0.14 min (cpu), 0.14 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6582,8 +6582,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 54627.2
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 81864.3
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6632,7 +6632,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 9140.46
+Best fit test statistic: 45646.9
 Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -6682,8 +6682,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 109691
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 60740.9
+Done in 0.14 min (cpu), 0.14 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6732,8 +6732,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 218325
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 99203.8
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6782,8 +6782,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 169224
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 69866.9
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6832,7 +6832,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 38271.3
+Best fit test statistic: 160877
 Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -6882,7 +6882,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 724381
+Best fit test statistic: 263441
 Done in 0.07 min (cpu), 0.07 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -6932,8 +6932,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 14383
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 494178
+Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -6982,8 +6982,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 6441.46
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 20006.7
+Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7032,8 +7032,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 7786.24
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 188938
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7082,8 +7082,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 24593.3
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 168045
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7132,8 +7132,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 269981
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 7458.92
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7182,8 +7182,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 23467
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 10392.8
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7232,8 +7232,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 62599.1
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 77748.7
+Done in 0.14 min (cpu), 0.14 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7282,8 +7282,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 186481
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 286812
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7332,8 +7332,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 100834
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 4900.26
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7382,8 +7382,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 66361
-Done in 0.05 min (cpu), 0.05 min (real)
+Best fit test statistic: 43513.9
+Done in 0.07 min (cpu), 0.07 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7432,7 +7432,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 22513
+Best fit test statistic: 137567
 Done in 0.07 min (cpu), 0.07 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -7482,8 +7482,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 11155.5
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 357118
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7532,8 +7532,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 54796.5
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 13598.9
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7582,8 +7582,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 183160
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 61224.8
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7632,8 +7632,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 9821.77
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 301384
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7682,8 +7682,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 78351.2
-Done in 0.12 min (cpu), 0.12 min (real)
+Best fit test statistic: 216080
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7732,8 +7732,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 139675
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 175941
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7782,8 +7782,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 30243
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 14415.9
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7832,7 +7832,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 180846
+Best fit test statistic: 13358.5
 Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -7882,8 +7882,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 7861.69
-Done in 0.12 min (cpu), 0.12 min (real)
+Best fit test statistic: 45944.1
+Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7932,8 +7932,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 50893
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 27797.4
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -7982,8 +7982,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 52670.2
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 57838.4
+Done in 0.15 min (cpu), 0.15 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8032,8 +8032,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 22051.7
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 70760.4
+Done in 0.12 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8082,8 +8082,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 14456.5
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 190262
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8132,7 +8132,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 191161
+Best fit test statistic: 7270.7
 Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -8182,8 +8182,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 40027.1
-Done in 0.08 min (cpu), 0.07 min (real)
+Best fit test statistic: 13950.6
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8232,8 +8232,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 11080.5
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 32499
+Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8282,8 +8282,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 179553
-Done in 0.11 min (cpu), 0.11 min (real)
+Best fit test statistic: 81842.8
+Done in 0.22 min (cpu), 0.22 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8332,8 +8332,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 333352
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 7490.59
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8382,8 +8382,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 260779
-Done in 0.11 min (cpu), 0.11 min (real)
+Best fit test statistic: 1.34188e+06
+Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8432,8 +8432,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 169471
-Done in 0.14 min (cpu), 0.13 min (real)
+Best fit test statistic: 48655.1
+Done in 0.14 min (cpu), 0.14 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8482,7 +8482,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 17937.6
+Best fit test statistic: 272386
 Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -8532,8 +8532,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 75518.1
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 51632.9
+Done in 0.19 min (cpu), 0.19 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8582,8 +8582,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 260809
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 46986
+Done in 0.17 min (cpu), 0.17 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8632,8 +8632,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 34947.5
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 249401
+Done in 0.16 min (cpu), 0.16 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8682,8 +8682,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 550230
-Done in 0.11 min (cpu), 0.11 min (real)
+Best fit test statistic: 6961.34
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8732,8 +8732,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 508759
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 86907.5
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8782,8 +8782,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 24137.8
-Done in 0.13 min (cpu), 0.13 min (real)
+Best fit test statistic: 78840.9
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8832,8 +8832,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 60597.4
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 52792.2
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8882,8 +8882,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 43705.3
-Done in 0.11 min (cpu), 0.11 min (real)
+Best fit test statistic: 378091
+Done in 0.16 min (cpu), 0.16 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8932,8 +8932,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 43524.8
-Done in 0.11 min (cpu), 0.11 min (real)
+Best fit test statistic: 34000.7
+Done in 0.17 min (cpu), 0.17 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -8982,8 +8982,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 9071.93
-Done in 0.11 min (cpu), 0.11 min (real)
+Best fit test statistic: 27204.8
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9032,8 +9032,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 10571.6
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 124881
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9082,8 +9082,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 64808.8
-Done in 0.06 min (cpu), 0.06 min (real)
+Best fit test statistic: 72558.7
+Done in 0.16 min (cpu), 0.16 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9132,8 +9132,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 184756
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 102218
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9182,8 +9182,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 91319.2
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 7086.38
+Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9232,8 +9232,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 539784
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 634399
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9282,8 +9282,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1.20859e+06
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 44045.9
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9332,8 +9332,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 47932.6
-Done in 0.13 min (cpu), 0.13 min (real)
+Best fit test statistic: 57219.2
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9382,8 +9382,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 139152
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 5198.22
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9432,8 +9432,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 380939
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 4477.42
+Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9482,7 +9482,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1863.78
+Best fit test statistic: 18439.3
 Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -9532,8 +9532,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 127035
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 1.26915e+06
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9582,8 +9582,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1.3228e+06
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 44913.6
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9632,8 +9632,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 330525
-Done in 0.16 min (cpu), 0.16 min (real)
+Best fit test statistic: 31454.2
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9682,8 +9682,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 76985
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 12175.4
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9732,8 +9732,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 57414
-Done in 0.11 min (cpu), 0.11 min (real)
+Best fit test statistic: 198898
+Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9782,8 +9782,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 44226.4
-Done in 0.11 min (cpu), 0.11 min (real)
+Best fit test statistic: 121516
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9832,7 +9832,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 18632
+Best fit test statistic: 66980.9
 Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -9882,8 +9882,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1.02949e+06
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 8437.14
+Done in 0.08 min (cpu), 0.08 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9932,8 +9932,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 178467
-Done in 0.12 min (cpu), 0.12 min (real)
+Best fit test statistic: 180668
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -9982,8 +9982,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 108457
-Done in 0.12 min (cpu), 0.12 min (real)
+Best fit test statistic: 32886
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10032,7 +10032,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 228757
+Best fit test statistic: 13507.9
 Done in 0.14 min (cpu), 0.14 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -10082,7 +10082,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 290881
+Best fit test statistic: 13045.9
 Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -10132,8 +10132,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 8072.44
-Done in 0.12 min (cpu), 0.13 min (real)
+Best fit test statistic: 406397
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10182,8 +10182,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 254877
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 19668.1
+Done in 0.15 min (cpu), 0.15 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10232,8 +10232,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 32753.6
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 88584.8
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10282,8 +10282,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 15560.8
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 31005.1
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10332,8 +10332,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 49453.7
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 55789.5
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10382,7 +10382,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 30966.9
+Best fit test statistic: 25394.7
 Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -10432,7 +10432,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 3747.59
+Best fit test statistic: 69435.4
 Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -10482,8 +10482,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 66897.4
-Done in 0.11 min (cpu), 0.11 min (real)
+Best fit test statistic: 18646.5
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10532,8 +10532,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 10435.5
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 9381.67
+Done in 0.14 min (cpu), 0.14 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10582,8 +10582,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 194377
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 119303
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10632,8 +10632,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1.19044e+06
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 489128
+Done in 0.15 min (cpu), 0.15 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10682,8 +10682,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 21051.9
-Done in 0.07 min (cpu), 0.07 min (real)
+Best fit test statistic: 22127.5
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10732,8 +10732,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 32422.5
-Done in 0.12 min (cpu), 0.12 min (real)
+Best fit test statistic: 7656.52
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10782,8 +10782,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 7751.92
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 898686
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10832,8 +10832,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 7902.14
-Done in 0.16 min (cpu), 0.16 min (real)
+Best fit test statistic: 23538.4
+Done in 0.13 min (cpu), 0.13 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10882,8 +10882,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 10760.2
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 3495.95
+Done in 0.17 min (cpu), 0.17 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -10932,7 +10932,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 132603
+Best fit test statistic: 9391.75
 Done in 0.14 min (cpu), 0.14 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -10982,8 +10982,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 42073.9
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 158083
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11032,8 +11032,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 280602
-Done in 0.21 min (cpu), 0.21 min (real)
+Best fit test statistic: 39520.2
+Done in 0.14 min (cpu), 0.14 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11082,8 +11082,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 240959
-Done in 0.15 min (cpu), 0.15 min (real)
+Best fit test statistic: 76606.8
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11132,8 +11132,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 9568.43
-Done in 0.18 min (cpu), 0.18 min (real)
+Best fit test statistic: 46852.5
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11182,8 +11182,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 23741
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 496282
+Done in 0.19 min (cpu), 0.19 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11232,8 +11232,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 73484.6
-Done in 0.17 min (cpu), 0.17 min (real)
+Best fit test statistic: 16573.2
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11282,8 +11282,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 2656.59
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 20836.6
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11332,8 +11332,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 93857.8
-Done in 0.11 min (cpu), 0.11 min (real)
+Best fit test statistic: 44044.2
+Done in 0.05 min (cpu), 0.05 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11382,8 +11382,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 39577.8
-Done in 0.18 min (cpu), 0.18 min (real)
+Best fit test statistic: 91581.2
+Done in 0.16 min (cpu), 0.16 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11432,8 +11432,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 15646
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 19629.9
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11482,8 +11482,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 4923.11
-Done in 0.09 min (cpu), 0.09 min (real)
+Best fit test statistic: 56194.8
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11532,8 +11532,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 160263
-Done in 0.12 min (cpu), 0.12 min (real)
+Best fit test statistic: 170817
+Done in 0.10 min (cpu), 0.10 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11582,8 +11582,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 425982
-Done in 0.25 min (cpu), 0.25 min (real)
+Best fit test statistic: 36613.6
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11632,8 +11632,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 137481
-Done in 0.15 min (cpu), 0.15 min (real)
+Best fit test statistic: 477366
+Done in 0.14 min (cpu), 0.14 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11682,8 +11682,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 16971.5
-Done in 0.16 min (cpu), 0.16 min (real)
+Best fit test statistic: 126327
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11732,8 +11732,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 9640.71
-Done in 0.10 min (cpu), 0.10 min (real)
+Best fit test statistic: 2866.37
+Done in 0.09 min (cpu), 0.09 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11782,8 +11782,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 441431
-Done in 0.17 min (cpu), 0.17 min (real)
+Best fit test statistic: 2411.38
+Done in 0.16 min (cpu), 0.16 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11832,8 +11832,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 8674.55
-Done in 0.14 min (cpu), 0.14 min (real)
+Best fit test statistic: 47730.9
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11882,8 +11882,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 58586.2
-Done in 0.18 min (cpu), 0.18 min (real)
+Best fit test statistic: 18618.6
+Done in 0.16 min (cpu), 0.16 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11932,8 +11932,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 65167.3
-Done in 0.11 min (cpu), 0.11 min (real)
+Best fit test statistic: 131162
+Done in 0.07 min (cpu), 0.07 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -11982,7 +11982,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 24755.5
+Best fit test statistic: 18031.4
 Done in 0.16 min (cpu), 0.16 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
@@ -12032,8 +12032,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 109431
-Done in 0.08 min (cpu), 0.08 min (real)
+Best fit test statistic: 489603
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -12082,8 +12082,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 96689.6
-Done in 0.19 min (cpu), 0.19 min (real)
+Best fit test statistic: 297768
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -12132,8 +12132,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 1.35588e+06
-Done in 0.15 min (cpu), 0.15 min (real)
+Best fit test statistic: 1.18102e+06
+Done in 0.16 min (cpu), 0.16 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -12182,8 +12182,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 28992.9
-Done in 0.16 min (cpu), 0.16 min (real)
+Best fit test statistic: 14927
+Done in 0.17 min (cpu), 0.17 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -12232,8 +12232,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 68363.2
-Done in 0.18 min (cpu), 0.18 min (real)
+Best fit test statistic: 137199
+Done in 0.14 min (cpu), 0.14 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -12282,8 +12282,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 7004.36
-Done in 0.16 min (cpu), 0.16 min (real)
+Best fit test statistic: 64310
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -12332,8 +12332,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 193193
-Done in 0.13 min (cpu), 0.13 min (real)
+Best fit test statistic: 78018.3
+Done in 0.12 min (cpu), 0.12 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -12382,8 +12382,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 13958.8
-Done in 0.21 min (cpu), 0.21 min (real)
+Best fit test statistic: 19275.7
+Done in 0.15 min (cpu), 0.15 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -12432,8 +12432,8 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 22694.9
-Done in 0.15 min (cpu), 0.15 min (real)
+Best fit test statistic: 14298
+Done in 0.11 min (cpu), 0.11 min (real)
 Set Range of Parameter ttag_corr To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
 Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
@@ -12482,12 +12482,12 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 10892.2
-Done in 0.12 min (cpu), 0.12 min (real)
-mean   expected limit: r < 137480 +/- 15047.4 @ 95%CL (250 toyMC)
-median expected limit: r < 52705.5 @ 95%CL (250 toyMC)
-   68% expected band : 9621.89 < r < 228757
-   95% expected band : 2769.26 < r < 1.19044e+06
+Best fit test statistic: 60911.7
+Done in 0.16 min (cpu), 0.16 min (real)
+mean   expected limit: r < 142140 +/- 15624.8 @ 95%CL (250 toyMC)
+median expected limit: r < 50227.1 @ 95%CL (250 toyMC)
+   68% expected band : 13045.9 < r < 231853
+   95% expected band : 3497.93 < r < 1.18102e+06
 Printing Message Summary From ... combine_logger.out
 ----------------------------------------------
 Messages of type INFO : 2

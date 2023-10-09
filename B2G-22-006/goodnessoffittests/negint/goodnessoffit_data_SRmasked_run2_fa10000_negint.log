@@ -44,7 +44,7 @@ Set Default Value of Parameter mask_CR1 To : 0
 Set Default Value of Parameter mask_CR2 To : 0
 
  --- GoodnessOfFit --- 
-Best fit test statistic: 108241
+Best fit test statistic: 107599
 Done in 0.02 min (cpu), 0.02 min (real)
 Printing Message Summary From ... combine_logger.out
 ----------------------------------------------
