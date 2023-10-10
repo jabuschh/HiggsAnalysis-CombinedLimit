@@ -1,1 +1,1 @@
-Namespace(input='fitDiagnostics_r0_negint.root', n_toys=250, output=None, r_inj=0.0)
+Namespace(input='fitDiagnostics_r0.6250_negint.root', n_toys=250, output='0.6250_250toys', r_inj=0.625)

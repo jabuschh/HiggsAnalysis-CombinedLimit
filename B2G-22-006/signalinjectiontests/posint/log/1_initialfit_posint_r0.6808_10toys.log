@@ -1,0 +1,278 @@
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+>>> method used is MultiDimFit
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Set Default Value of Parameter r To : 0.6808
+>>> 0 out of 11 channels masked
+
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Generate toy 1/10
+SimNLL created with 11 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+  [WARNING] Found [ttag_corr] at boundary. 
+ [WARNING] After the fit some parameters are at their boundary.
+ [WARNING] Are you sure your model is correct?
+Running Minos for POI 
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    +0.633   -10.633/+0.184 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Generate toy 2/10
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+ [WARNING] After the fit some parameters are at their boundary.
+ [WARNING] Are you sure your model is correct?
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+Done in 0.04 min (cpu), 0.04 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Generate toy 3/10
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+ [WARNING] After the fit some parameters are at their boundary.
+ [WARNING] Are you sure your model is correct?
+Running Minos for POI 
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    +0.507   -10.507/+0.036 (68%)
+Done in 0.09 min (cpu), 0.09 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Generate toy 4/10
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+ [WARNING] After the fit some parameters are at their boundary.
+ [WARNING] Are you sure your model is correct?
+Running Minos for POI 
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    +0.796   -10.796/+0.197 (68%)
+Done in 0.09 min (cpu), 0.09 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Generate toy 5/10
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+ [WARNING] After the fit some parameters are at their boundary.
+ [WARNING] Are you sure your model is correct?
+Running Minos for POI 
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    +1.051   -11.051/+0.042 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Generate toy 6/10
+ [WARNING] After the fit some parameters are at their boundary.
+ [WARNING] Are you sure your model is correct?
+Running Minos for POI 
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    +0.816   -10.816/+0.084 (68%)
+Done in 0.07 min (cpu), 0.07 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Generate toy 7/10
+ [WARNING] After the fit some parameters are at their boundary.
+ [WARNING] Are you sure your model is correct?
+Running Minos for POI 
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    +0.444   -10.444/+0.272 (68%)
+Done in 0.10 min (cpu), 0.10 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Generate toy 8/10
+ [WARNING] After the fit some parameters are at their boundary.
+ [WARNING] Are you sure your model is correct?
+Running Minos for POI 
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    +0.678   -10.678/+0.080 (68%)
+Done in 0.10 min (cpu), 0.10 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Generate toy 9/10
+  [WARNING] Found [ttag_corr] at boundary. 
+ [WARNING] After the fit some parameters are at their boundary.
+ [WARNING] Are you sure your model is correct?
+Running Minos for POI 
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    +0.609   -10.609/+0.104 (68%)
+Done in 0.10 min (cpu), 0.10 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Generate toy 10/10
+ [WARNING] After the fit some parameters are at their boundary.
+ [WARNING] Are you sure your model is correct?
+Running Minos for POI 
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid low-error found, will report difference to minimum of range for : r
+   r :    +0.649   -10.649/+0.056 (68%)
+Done in 0.08 min (cpu), 0.08 min (real)
+mean   expected limit: r < 0 +/- 0 @ 95%CL (10 toyMC)
+median expected limit: r < 0 @ 95%CL (10 toyMC)
+   68% expected band : 6.94155e-310 < r < 6.94155e-310
+   95% expected band : 6.94155e-310 < r < 6.94155e-310
+Printing Message Summary From ... combine_logger.out
+----------------------------------------------
+Messages of type INFO : 82
+Messages of type DEBUG : 6
+Messages of type ERROR : 0
+----------------------------------------------
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL17 at boundary (within ~1sigma): -3.48863+/-5.64037
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16postVFP at boundary (within ~1sigma): 4.99871+/-9.47053
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_corr at boundary (within ~1sigma): -5+/-0.697851
+INFO: (function: minimize) CascadeMinimizer.cc: 480 -- After fit, some parameters are found at the boundary (within ~1sigma)
+INFO: (function: doFit) FitterAlgoBase.cc: 344 -- Running Minos for POI r
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=-1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 217 -- Minimization ended with latest status != 0 or 1
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL17 at boundary (within ~1sigma): 3.67948+/-1.58323
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16postVFP at boundary (within ~1sigma): -4.96991+/-6.9666
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16preVFP at boundary (within ~1sigma): -4.99901+/-8.8909
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL18 at boundary (within ~1sigma): -4.31045+/-1.75174
+INFO: (function: minimize) CascadeMinimizer.cc: 480 -- After fit, some parameters are found at the boundary (within ~1sigma)
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL17 at boundary (within ~1sigma): -4.99902+/-7.22783
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16postVFP at boundary (within ~1sigma): 4.99946+/-8.56062
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL18 at boundary (within ~1sigma): 4.99738+/-7.84731
+INFO: (function: minimize) CascadeMinimizer.cc: 480 -- After fit, some parameters are found at the boundary (within ~1sigma)
+INFO: (function: doFit) FitterAlgoBase.cc: 344 -- Running Minos for POI r
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL17 at boundary (within ~1sigma): -5+/-8.46508
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16postVFP at boundary (within ~1sigma): 4.98634+/-7.72878
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16preVFP at boundary (within ~1sigma): 4.99995+/-8.20238
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL18 at boundary (within ~1sigma): -2.03406+/-6.4311
+INFO: (function: minimize) CascadeMinimizer.cc: 480 -- After fit, some parameters are found at the boundary (within ~1sigma)
+INFO: (function: doFit) FitterAlgoBase.cc: 344 -- Running Minos for POI r
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL17 at boundary (within ~1sigma): -4.99998+/-7.40171
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16postVFP at boundary (within ~1sigma): 4.99998+/-9.12921
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16preVFP at boundary (within ~1sigma): -4.98386+/-9.35336
+INFO: (function: minimize) CascadeMinimizer.cc: 480 -- After fit, some parameters are found at the boundary (within ~1sigma)
+INFO: (function: doFit) FitterAlgoBase.cc: 344 -- Running Minos for POI r
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL17 at boundary (within ~1sigma): 2.91236+/-7.6361
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16postVFP at boundary (within ~1sigma): -4.99995+/-6.40646
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL18 at boundary (within ~1sigma): -4.97661+/-2.02754
+INFO: (function: minimize) CascadeMinimizer.cc: 480 -- After fit, some parameters are found at the boundary (within ~1sigma)
+INFO: (function: doFit) FitterAlgoBase.cc: 344 -- Running Minos for POI r
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL17 at boundary (within ~1sigma): -5+/-8.82969
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16postVFP at boundary (within ~1sigma): 4.99999+/-7.30451
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16preVFP at boundary (within ~1sigma): -4.99959+/-9.15131
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL18 at boundary (within ~1sigma): -5+/-7.85
+INFO: (function: minimize) CascadeMinimizer.cc: 480 -- After fit, some parameters are found at the boundary (within ~1sigma)
+INFO: (function: doFit) FitterAlgoBase.cc: 344 -- Running Minos for POI r
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL17 at boundary (within ~1sigma): 4.99994+/-5.01205
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16postVFP at boundary (within ~1sigma): 4.99999+/-9.0524
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16preVFP at boundary (within ~1sigma): 5+/-9.98971
+INFO: (function: minimize) CascadeMinimizer.cc: 480 -- After fit, some parameters are found at the boundary (within ~1sigma)
+INFO: (function: doFit) FitterAlgoBase.cc: 344 -- Running Minos for POI r
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL17 at boundary (within ~1sigma): -4.99998+/-6.46904
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_corr at boundary (within ~1sigma): 4.99998+/-9.97305
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL18 at boundary (within ~1sigma): -4.99994+/-6.62123
+INFO: (function: minimize) CascadeMinimizer.cc: 480 -- After fit, some parameters are found at the boundary (within ~1sigma)
+INFO: (function: doFit) FitterAlgoBase.cc: 344 -- Running Minos for POI r
+INFO: (function: improveOnce) CascadeMinimizer.cc: 188 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=1, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 211 -- Minimisation finished with status=1
+DEBUG: (function: improveOnce) CascadeMinimizer.cc: 212 -- finished with status 1 (covariance forced positive definite), this could indicate a problem with the minimim.
+INFO: (function: improveOnce) CascadeMinimizer.cc: 216 -- Minimization success! status=0
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL17 at boundary (within ~1sigma): 5+/-9.5908
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16postVFP at boundary (within ~1sigma): 5+/-8.6993
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL16preVFP at boundary (within ~1sigma): -5+/-7.46713
+INFO: (function: anyParameterAtBoundaries) utils.cc: 1039 -- Found parameter ttag_uncorr_UL18 at boundary (within ~1sigma): -4.99968+/-7.04521
+INFO: (function: minimize) CascadeMinimizer.cc: 480 -- After fit, some parameters are found at the boundary (within ~1sigma)
+INFO: (function: doFit) FitterAlgoBase.cc: 344 -- Running Minos for POI r

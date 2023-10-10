@@ -1,0 +1,131 @@
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+>>> method used is FitDiagnostics
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+Set Default Value of Parameter r To : 0.625
+>>> 0 out of 11 channels masked
+
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 11 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: -0.202407  -9.79759/+0.317589  (68% CL)
+Done in 0.10 min (cpu), 0.10 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_uncorr_UL17] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16preVFP] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL18] at boundary. 
+  [WARNING] Found [ttag_uncorr_UL16postVFP] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.905493  -10.9055/+0.191057  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.446413  -10.4464/+0.253024  (68% CL)
+Done in 0.09 min (cpu), 0.09 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_corr] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.697756  -10.6978/+0.0854489  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_corr] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.74067  -10.7407/+0.146661  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [ttag_corr] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: -0.322157  -9.67784/+0.222785  (68% CL)
+Done in 0.07 min (cpu), 0.07 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.346239  -10.3462/+0.297204  (68% CL)
+Done in 0.08 min (cpu), 0.08 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.335548  -10.3355/+0.307709  (68% CL)
+Done in 0.07 min (cpu), 0.07 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.523834  -10.5238/+0.38889  (68% CL)
+Done in 0.07 min (cpu), 0.07 min (real)
+Set Range of Parameter ttag_corr To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16preVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL16postVFP To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL17 To : (-5,5)
+Set Range of Parameter ttag_uncorr_UL18 To : (-5,5)
+SimNLL created with 0 channels, 5 generic constraints, 137 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ --- FitDiagnostics ---
+Best fit r: 0.920905  -10.9209/+0.180061  (68% CL)
+Done in 0.07 min (cpu), 0.07 min (real)
+mean   expected limit: r < 0.439229 +/- 0.134376 @ 95%CL (10 toyMC)
+median expected limit: r < 0.485124 @ 95%CL (10 toyMC)
+   68% expected band : -0.202407 < r < 0.920905
+   95% expected band : -0.322157 < r < 0.920905

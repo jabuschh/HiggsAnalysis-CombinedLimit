@@ -1,0 +1,1 @@
+Namespace(input='fitDiagnostics_posint_r0_250toys.root', n_toys=250, output='posint_r0_250toys', r_inj=0.0)

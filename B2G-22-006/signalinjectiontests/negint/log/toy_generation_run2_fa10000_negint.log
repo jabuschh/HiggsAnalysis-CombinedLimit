@@ -505,5 +505,5 @@ Generate toy 250/250
 Done in 0.00 min (cpu), 0.00 min (real)
 mean   expected limit: r < 0 +/- 0 @ 95%CL (250 toyMC)
 median expected limit: r < 0 @ 95%CL (250 toyMC)
-   68% expected band : 6.94059e-310 < r < 6.94059e-310
-   95% expected band : 6.94059e-310 < r < 6.94059e-310
+   68% expected band : 6.93749e-310 < r < 6.93749e-310
+   95% expected band : 6.93749e-310 < r < 6.93749e-310

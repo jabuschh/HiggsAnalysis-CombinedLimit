@@ -1,0 +1,1 @@
+Namespace(input='fitDiagnostics_negint_r0_10toys.root', n_toys=10, output='negint_r0_10toys', r_inj=0.0)

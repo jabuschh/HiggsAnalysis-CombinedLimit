@@ -79,7 +79,7 @@ for scenario in scenarios:
         command_step1 += ' -n _' + tag
         print(command_step1 + '\n')
         log_step1 = subprocess.run(['bash', '-c', command_step1], capture_output=True)
-        log_file1 = signalinjectiontests_log_dir_name + '1_initialfit_' + tag + 'toys.log'
+        log_file1 = signalinjectiontests_log_dir_name + '1_initialfit_' + tag + '.log'
         with open(log_file1, 'w') as file:
             file.write(log_step1.stdout.decode())
 

@@ -1,0 +1,109 @@
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+>>> method used is GenerateOnly
+>>> 0 out of 11 channels masked
+
+Generate toy 1/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 2/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 3/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 4/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 5/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 6/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 7/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 8/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 9/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 10/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 11/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 12/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 13/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 14/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 15/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 16/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 17/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 18/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 19/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 20/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 21/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 22/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 23/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 24/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 25/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 26/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 27/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 28/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 29/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 30/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 31/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 32/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 33/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 34/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 35/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 36/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 37/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 38/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 39/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 40/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 41/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 42/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 43/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 44/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 45/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 46/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 47/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 48/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 49/50
+Done in 0.00 min (cpu), 0.00 min (real)
+Generate toy 50/50
+Done in 0.00 min (cpu), 0.00 min (real)
+mean   expected limit: r < 0 +/- 0 @ 95%CL (50 toyMC)
+median expected limit: r < 0 @ 95%CL (50 toyMC)
+   68% expected band : 6.92741e-310 < r < 6.92741e-310
+   95% expected band : 6.92741e-310 < r < 6.92741e-310
