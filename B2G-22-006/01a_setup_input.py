@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 
+import sys
+sys.argv.append('-b') # for root in batch mode
+
 import ROOT
+ROOT.gROOT.SetBatch(True)
 import collections
 import os
 import shutil
@@ -39,28 +43,47 @@ signals = [
 # in GeV
 binning = array.array('d', [
     0,
-    # 500,
+    400,
+    450,
+    500,
+    550,
+    600,
+    650,
+    700,
     750,
+    800,
+    850,
+    900,
+    950,
     1000,
-    1250,
-    1500,
-    1750,
+    1050,
+    1100,
+    1150,
+    1200,
+    1400,
+    1600,
+    1800,
     2000,
-    2500,
+    2200,
+    2400,
+    2600,
+    2800,
     3000,
+    3500,
     10000,
 ])
+# [0,400,450,500,550,600,650,700,750,800,850,900,950,1000,1050,1100,1150,1200,1400,1600,1800,2000,2200,2400,2600,2800,3000,3500,10000]
 
 fas = [
-    # 500,
-    750,
-    1000,
-    1250,
-    1500,
-    1750,
-    2000,
-    2500,
-    3000,
+    # # 500,
+    # 750,
+    # 1000,
+    # 1250,
+    # 1500,
+    # 1750,
+    # 2000,
+    # 2500,
+    # 3000,
     10000,
 ]
 
@@ -68,7 +91,11 @@ backgrounds = [
     'TTbar',
     'ST',
     'WJets',
-    'others', # DY + Diboson + QCD
+    # 'DY',
+    # 'Diboson',
+    # 'QCD'
+    # 'others', # DY + Diboson + QCD
+    'others2', # DY + Diboson
 ]
 
 data = [
@@ -98,7 +125,7 @@ rates = OrderedDict()
 rates['ttbar_rate'] = 1.2
 rates['st_rate'] = 1.3
 rates['wjets_rate'] = 1.5
-rates['others_rate'] = 1.5
+rates['others2_rate'] = 1.5
 rates['lumi_13TeV'] = 1.016
 # rates['lumi_13TeV_uncorrelated_UL16'] = 1.010
 # rates['lumi_13TeV_uncorrelated_UL17'] = 1.020
@@ -108,35 +135,35 @@ rates['lumi_13TeV'] = 1.016
 
 # shape systematics: up/down variations
 shapes = OrderedDict()
-shapes['pdf']           = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # pdf uncertainty # TODO: comment in once ST is fixed
-shapes['mcscale']       = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # mcscale uncertainty: envelope of muR and muF up/down combinations
-shapes['pu']            = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # pileup
-shapes['prefiring']     = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # prefiring
-shapes['mu_id']         = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # muon id
-shapes['mu_iso']        = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # muon isolation
-shapes['mu_reco']       = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # muon reconstruction
-shapes['mu_trigger']    = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # muon trigger
-shapes['ele_id']        = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # electron id
-shapes['ele_reco']      = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # electron reconstruction
-shapes['ele_trigger']   = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # electron trigger
-shapes['btag_cferr1']   = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # charm jet uncertainty 1 (correlated)
-shapes['btag_cferr2']   = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # charm jet uncertainty 2 (correlated)
-shapes['btag_hf']       = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # heavy flavor purity uncertainty (correlated)
-shapes['btag_hfstats1'] = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # heavy flavor statistical uncertainty (uncorrelated)
-shapes['btag_hfstats2'] = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # heavy flavor statistical uncertainty (uncorrelated)
-shapes['btag_lf']       = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # light flavor purity uncertainty (correlated)
-shapes['btag_lfstats1'] = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # light flavor statistical uncertainty (uncorrelated)
-shapes['btag_lfstats2'] = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # light flavor statistical uncertainty (uncorrelated)
-shapes['ttag_corr']     = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # top tag uncertainty (correlated)
-shapes['ttag_uncorr']   = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # top tag uncertainty (uncorrelated)
-shapes['tmistag']       = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # top mistag uncertainty
-shapes['jec']           = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # jet energy corrections
-shapes['jer']           = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # jet energy resolution
+shapes['pdf']           = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # pdf uncertainty
+shapes['mcscale']       = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # mcscale uncertainty: envelope of muR and muF up/down combinations
+shapes['pu']            = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # pileup
+shapes['prefiring']     = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # prefiring
+shapes['mu_id']         = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # muon id
+shapes['mu_iso']        = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # muon isolation
+shapes['mu_reco']       = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # muon reconstruction
+shapes['mu_trigger']    = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # muon trigger
+shapes['ele_id']        = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # electron id
+shapes['ele_reco']      = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # electron reconstruction
+shapes['ele_trigger']   = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # electron trigger
+shapes['btag_cferr1']   = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # charm jet uncertainty 1 (correlated)
+shapes['btag_cferr2']   = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # charm jet uncertainty 2 (correlated)
+shapes['btag_hf']       = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # heavy flavor purity uncertainty (correlated)
+shapes['btag_hfstats1'] = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # heavy flavor statistical uncertainty (uncorrelated)
+shapes['btag_hfstats2'] = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # heavy flavor statistical uncertainty (uncorrelated)
+shapes['btag_lf']       = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # light flavor purity uncertainty (correlated)
+shapes['btag_lfstats1'] = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # light flavor statistical uncertainty (uncorrelated)
+shapes['btag_lfstats2'] = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # light flavor statistical uncertainty (uncorrelated)
+shapes['ttag_corr']     = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # top tag uncertainty (correlated)
+shapes['ttag_uncorr']   = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # top tag uncertainty (uncorrelated)
+shapes['tmistag']       = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # top mistag uncertainty
+shapes['jec']           = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # jet energy corrections
+shapes['jer']           = ['TTbar','ST','WJets','others2','ALP_ttbar_signal','ALP_ttbar_interference'] # jet energy resolution
 # currently not used:
 # shapes['isr'] = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # initial state radiation
 # shapes['fsr'] = ['TTbar','ST','WJets','others','ALP_ttbar_signal','ALP_ttbar_interference'] # final state radiation
 
-uncorrelated_shapes = ['btag_hfstats1','btag_hfstats2','btag_lfstats1','btag_lfstats2','ttag_uncorr']
+uncorrelated_shapes = ['btag_hfstats1','btag_hfstats2','btag_lfstats1','btag_lfstats2','ttag_uncorr', 'jec', 'jer'] # to add: 'jec', 'jer'
 
 
 # characters per column
@@ -276,6 +303,7 @@ def createCombineInput():
                         hist_out.Write(var + '_' + region + '_' + process)
 
                     if process in data: continue
+                    # hist_nominal = hist_out
 
                     for shape in shapes:
                         # print(shape)
@@ -322,13 +350,45 @@ def createCombineInput():
                                         hist_syst_down_out_rebinned.SetBinError(bin, 0.) # needed for combine to ignore this bin
 
                             if shape in uncorrelated_shapes:
+                                # if shape in ['jec', 'jer']:
+                                    # linear_fit = ROOT.TF1("linear_fit", "[0]*x + [1]", 0, fa)
+                                    #
+                                    # ratiohist_syst_up_out_rebinned = hist_syst_up_out_rebinned.Clone()
+                                    # ratiohist_syst_up_out_rebinned.Divide(hist_out)
+                                    # ratiohist_syst_up_out_rebinned.Fit(linear_fit)
+                                    # slope = linear_fit.GetParameter(0)
+                                    # intercept = linear_fit.GetParameter(1)
+                                    # fittedhist_syst_up_out_rebinned = ratiohist_syst_up_out_rebinned.Clone()
+                                    # for bin in range(1, fittedhist_syst_up_out_rebinned.GetNbinsX()+1):
+                                    #     x = fittedhist_syst_up_out_rebinned.GetBinCenter(bin)
+                                    #     y = slope * x + intercept
+                                    #     fittedhist_syst_up_out_rebinned.SetBinContent(bin, y)
+                                    # fittedhist_syst_up_out_rebinned.Multiply(hist_out)
+                                    # fittedhist_syst_up_out_rebinned.Write(var + '_' + region + '_' + process + '_' + shape + '_' + year + 'Up')
+                                    #
+                                    # ratiohist_syst_down_out_rebinned = hist_syst_down_out_rebinned.Clone()
+                                    # ratiohist_syst_down_out_rebinned.Divide(hist_out)
+                                    # ratiohist_syst_down_out_rebinned.Fit(linear_fit)
+                                    # slope = linear_fit.GetParameter(0)
+                                    # intercept = linear_fit.GetParameter(1)
+                                    # fittedhist_syst_down_out_rebinned = ratiohist_syst_down_out_rebinned.Clone()
+                                    # for bin in range(1, fittedhist_syst_down_out_rebinned.GetNbinsX()+1):
+                                    #     x = fittedhist_syst_down_out_rebinned.GetBinCenter(bin)
+                                    #     y = slope * x + intercept
+                                    #     fittedhist_syst_down_out_rebinned.SetBinContent(bin, y)
+                                    # fittedhist_syst_down_out_rebinned.Multiply(hist_out)
+                                    # fittedhist_syst_down_out_rebinned.Write(var + '_' + region + '_' + process + '_' + shape + '_' + year + 'Down')
+
+                                # else:
                                 hist_syst_up_out_rebinned.Write(var + '_' + region + '_' + process + '_' + shape + '_' + year + 'Up')
                                 hist_syst_down_out_rebinned.Write(var + '_' + region + '_' + process + '_' + shape + '_' + year + 'Down')
+
                                 other_years = ['UL16preVFP', 'UL16postVFP', 'UL17', 'UL18']
                                 other_years.remove(year)
-                                for other_year in other_years: # nominal hist for other years
+                                for other_year in other_years: # nominal hists for other eras
                                     hist_out.Write(var + '_' + region + '_' + process + '_' + shape + '_' + other_year + 'Up')
                                     hist_out.Write(var + '_' + region + '_' + process + '_' + shape + '_' + other_year + 'Down')
+
                             else:
                                 hist_syst_up_out_rebinned.Write(var + '_' + region + '_' + process + '_' + shape + 'Up')
                                 hist_syst_down_out_rebinned.Write(var + '_' + region + '_' + process + '_' + shape + 'Down')
@@ -340,6 +400,37 @@ def createCombineInput():
     print('hadding...')
     for fa in fas:
         os.system('hadd -f ' + rootfiles_dir_name + 'inputhists_run2_fa' + str(fa) + '.root ' + rootfiles_dir_name + 'inputhists_UL1*_fa' + str(fa) + '.root')
+
+
+    # implement linear smoothing in ratio for jec and jer after hadding (to correctly account for lumi weights per era)!
+    for fa in fas:
+        filename = rootfiles_dir_name + 'inputhists_run2_fa' + str(fa) + '.root'
+        file = ROOT.TFile(filename, 'UPDATE')
+
+        for shape in ['jec', 'jer']:
+            for region in regions:
+                for process in processes:
+                    for year in ['UL16preVFP', 'UL16postVFP', 'UL17', 'UL18']:
+                        for variation in ['Up', 'Down']:
+                            name_nominal = var + '_' + region + '_' + process
+                            name_variation = var + '_' + region + '_' + process + '_' + shape + '_' + year + variation
+                            h_nominal = file.Get(var + '_' + region + '_' + process)
+                            h_variation = file.Get(var + '_' + region + '_' + process + '_' + shape + '_' + year + variation)
+
+                            # add smoothing for those with jec / jer
+                            linear_fit = ROOT.TF1("linear_fit", "[0]*x + [1]", 0, fa)
+                            h_variation.Divide(h_nominal)
+                            h_variation.Fit(linear_fit)
+                            slope = linear_fit.GetParameter(0)
+                            intercept = linear_fit.GetParameter(1)
+                            for bin in range(1, h_variation.GetNbinsX()+1):
+                                x = h_variation.GetBinCenter(bin)
+                                y = slope * x + intercept
+                                h_variation.SetBinContent(bin, y)
+                            h_variation.Multiply(h_nominal)
+                            h_variation.SetName(name_variation)
+                            h_variation.Write()
+        file.Close()
 
 
     # write datacards for combined Run2 only
