@@ -206,7 +206,7 @@ or just attach a postifx to the name of the histogram
 `shapes * * shapes.root $CHANNEL/$PROCESS  $CHANNEL/$PROCESS_$SYSTEMATIC`
 
 !!! warning
-   If you have a nuisance parameter which has shape effects (using `shape`) *and* rate effects (using `lnN`) you should use a single line for the systemstic uncertainty with `shape?`. This will tell combine to fist look for Up/Down systematic templates for that process and if it doesnt find them, it will interpret the number that you put for the process as a `lnN` instead. 
+    If you have a nuisance parameter which has shape effects (using `shape`) *and* rate effects (using `lnN`) you should use a single line for the systemstic uncertainty with `shape?`. This will tell combine to fist look for Up/Down systematic templates for that process and if it doesnt find them, it will interpret the number that you put for the process as a `lnN` instead. 
 
 For a detailed example of a template based binned analysis see the [H→ττ 2014 DAS tutorial](https://twiki.cern.ch/twiki/bin/viewauth/CMS/SWGuideCMSDataAnalysisSchool2014HiggsCombPropertiesExercise#A_shape_analysis_using_templates)
 
@@ -383,7 +383,7 @@ name rateParam bin process rootfile:workspacename
 The name should correspond to the name of the object which is being picked up inside the RooWorkspace. A simple example using the SM XS and BR splines available in HiggsAnalysis/CombinedLimit can be found under [data/tutorials/rate_params/simple_sm_datacard.txt](https://github.com/cms-analysis/HiggsAnalysis-CombinedLimit/blob/main/data/tutorials/rate_params/simple_sm_datacard.txt)
 
 
-#### Extra arguments
+### Extra arguments
 
 If a parameter is intended to be used and it is *not* a user defined `param` or `rateParam`, it can be picked up by first issuing an `extArgs` directive before this line in the datacard. The syntax for `extArgs` is
 
@@ -538,10 +538,83 @@ In order to get a quick view of the systematic uncertainties included in the dat
 The default output is a `.html` file which allows you to expand to give more details about the affect of the systematic for each channel/process. Add the option `--format brief` to give a simpler summary report direct to the terminal. An example output for the tutorial card `data/tutorials/shapes/simple-shapes-TH1.txt` is shown below.
 
 ```nohighlight 
-$ python test/systematicsAnalyzer.py data/tutorials/shapes/simple-shapes-TH1.txt > out.html
+$ python test/systematicsAnalyzer.py data/tutorials/shapes/simple-shapes-TH1.txt --all -f html > out.html
 ```
 
-![systematics analyzer output](images/sysanalyzer.png)
+which will produce the following output in html format. 
+
+<html>
+<head>
+<style type="text/css">
+body {  }
+td, th { border-bottom: 1px solid black; padding: 1px 1em; vertical-align: top; }
+td.channDetails { font-size: x-small; }
+</style>
+<script type="text/javascript">
+function toggleChann(id) {
+    if (document.getElementById(id+"_chann_toggle").innerHTML == "[+]") {
+        document.getElementById(id+"_chann").style = "";
+        document.getElementById(id+"_chann_toggle").innerHTML = "[-]";
+    } else {
+        document.getElementById(id+"_chann").style = "display: none";
+        document.getElementById(id+"_chann_toggle").innerHTML = "[+]";
+    }
+}
+</script>
+<title>Nuisance Report</title>
+</head><body>
+<h1>Nuisance Report</h1>
+<table>
+<tr><th>Nuisance (types)</th><th colspan="2">Range</th><th>Processes</th><th>Channels</th></tr>
+
+<tr><td><a name="lumi"><b>lumi  (lnN)</b></a></td>
+<td>1.000</td><td>1.100</td>
+<td> background, signal </td>
+<td>bin1(1) <a id="lumi_chann_toggle" href="#lumi" onclick="toggleChann(&quot;lumi&quot;)">[+]</a></td>
+</tr>
+<tr id="lumi_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>bin1</td><td>signal(1.1), background(1.0)</td></li>
+	</table></td>
+</tr>
+
+<tr><td><a name="alpha"><b>alpha  (shape)</b></a></td>
+<td>1.111</td><td>1.150</td>
+<td> background </td>
+<td>bin1(1) <a id="alpha_chann_toggle" href="#alpha" onclick="toggleChann(&quot;alpha&quot;)">[+]</a></td>
+</tr>
+<tr id="alpha_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>bin1</td><td>background(0.900/1.150 (shape))</td></li>
+	</table></td>
+</tr>
+
+<tr><td><a name="bgnorm"><b>bgnorm  (lnN)</b></a></td>
+<td>1.000</td><td>1.300</td>
+<td> background, signal </td>
+<td>bin1(1) <a id="bgnorm_chann_toggle" href="#bgnorm" onclick="toggleChann(&quot;bgnorm&quot;)">[+]</a></td>
+</tr>
+<tr id="bgnorm_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>bin1</td><td>signal(1.0), background(1.3)</td></li>
+	</table></td>
+</tr>
+
+<tr><td><a name="sigma"><b>sigma  (shape)</b></a></td>
+<td>1.000</td><td>1.000</td>
+<td> signal </td>
+<td>bin1(1) <a id="sigma_chann_toggle" href="#sigma" onclick="toggleChann(&quot;sigma&quot;)">[+]</a></td>
+</tr>
+<tr id="sigma_chann" style="display: none">
+	<td colspan="5"><table class="channDetails">
+		<tr><td>bin1</td><td>signal(1.000/1.000 (shape))</td></li>
+	</table></td>
+</tr>
+
+
+</table>
+</body>
+</html>
 
 In case you only have a cut-and-count style card, include the option `--noshape`.
 
